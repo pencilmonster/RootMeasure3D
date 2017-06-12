@@ -1,0 +1,6 @@
+<map id="FileBrowser::FileBrowser" name="FileBrowser::FileBrowser">
+<area shape="rect" id="node2" href="$class_file_browser.html#af8d7ab5bf99546e898364bdb42a7e52f" title="FileBrowser::slotShow" alt="" coords="463,24,613,50"/>
+<area shape="rect" id="node4" href="$class_file_browser.html#a235e93e4dccc271565ed8fd4e0093675" title="FileBrowser::slotShowDir" alt="" coords="234,24,401,50"/>
+<area shape="rect" id="node5" href="$class_file_browser.html#aaae2510d6e953d7e3fdfbb6da83af497" title="FileBrowser::UpButtonClicked" alt="" coords="220,74,415,101"/>
+<area shape="rect" id="node3" href="$class_file_browser.html#ac02201c9c60b6b46cc43450c4a0c97d0" title="FileBrowser::showFileInfoList" alt="" coords="661,24,852,50"/>
+</map>

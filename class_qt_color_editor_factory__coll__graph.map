@@ -1,0 +1,6 @@
+<map id="QtColorEditorFactory" name="QtColorEditorFactory">
+<area shape="rect" id="node5" href="$class_qt_color_editor_factory_private.html" title="QtColorEditorFactoryPrivate" alt="" coords="101,352,283,379"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html" title="QtAbstractEditorFactory\l\&lt; QtColorPropertyManager \&gt;" alt="" coords="161,157,351,199"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html" title="The QtAbstractEditorFactoryBase provides an interface for editor factories. " alt="" coords="159,81,353,108"/>
+<area shape="rect" id="node6" href="$class_editor_factory_private.html" title="EditorFactoryPrivate\l\&lt; QtColorEditWidget \&gt;" alt="" coords="5,248,160,289"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="QtDoubleSpinBoxFactory::createEditor" name="QtDoubleSpinBoxFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a3d2c242fdc7182d8c37b0bad1544fe8b" title="EditorFactoryPrivate\l::createEditor" alt="" coords="241,5,379,47"/>
+<area shape="rect" id="node3" href="$class_qt_double_property_manager.html#a437fc5cee3099f9d405a0054a233adf7" title="Returns the given property&#39;s step value. " alt="" coords="223,71,397,112"/>
+<area shape="rect" id="node4" href="$class_qt_double_property_manager.html#a44b92b74c637adfe61ebe22b5d7111ca" title="Returns the given property&#39;s precision, in decimals. " alt="" coords="223,136,397,177"/>
+<area shape="rect" id="node5" href="$class_qt_double_property_manager.html#a800d40f22df3e3a923cc586b2be2d936" title="Returns the given property&#39;s minimum value. " alt="" coords="223,201,397,243"/>
+<area shape="rect" id="node6" href="$class_qt_double_property_manager.html#ad8c320d045b764643a000fce9f6422fe" title="Returns the given property&#39;s maximum value. " alt="" coords="223,267,397,308"/>
+<area shape="rect" id="node7" href="$class_qt_double_property_manager.html#a8672699ded5f6e921839faeea9ea118b" title="Returns the given property&#39;s value. " alt="" coords="223,332,397,373"/>
+<area shape="rect" id="node8" href="$class_qt_double_property_manager.html#ad1bb947ee19666f0d3f3a4d3bba9efe0" title="Returns read&#45;only status of the property. " alt="" coords="223,397,397,439"/>
+<area shape="rect" id="node9" href="$class_qt_double_spin_box_factory.html#a0b3ca67e6c7e9e5a0b91ee31d29df1ce" title="QtDoubleSpinBoxFactory\l::slotSetValue" alt="" coords="225,463,395,504"/>
+</map>

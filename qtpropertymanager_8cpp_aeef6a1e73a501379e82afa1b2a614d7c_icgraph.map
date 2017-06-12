@@ -1,0 +1,6 @@
+<map id="setSizeMaximumData" name="setSizeMaximumData">
+<area shape="rect" id="node2" href="$struct_qt_size_property_manager_private_1_1_data.html#aafce1f95c46ddf83fa212f464c75851f" title="QtSizePropertyManagerPrivate\l::Data::setMaximumValue" alt="" coords="208,5,408,47"/>
+<area shape="rect" id="node4" href="$struct_qt_size_f_property_manager_private_1_1_data.html#a4b6af517364fdc7704ea51ddc7884484" title="QtSizeFPropertyManagerPrivate\l::Data::setMaximumValue" alt="" coords="204,71,412,112"/>
+<area shape="rect" id="node3" href="$class_qt_size_property_manager.html#ae61e1d1ace1aa09791d1eeed92489a80" title="Sets the maximum size value for the given property to maxVal. " alt="" coords="464,5,625,47"/>
+<area shape="rect" id="node5" href="$class_qt_size_f_property_manager.html#adcbfce551d01f723c30bd27f713ed137" title="Sets the maximum size value for the given property to maxVal. " alt="" coords="460,71,629,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="vtkReconstruct::setReaderParm" name="vtkReconstruct::setReaderParm">
+<area shape="rect" id="node2" href="$classvtk_reconstruct.html#a6e4808ab6a54bb53d6b015336363c193" title="vtkReconstruct::createImage\lReader" alt="" coords="260,5,447,47"/>
+<area shape="rect" id="node4" href="$classvtk_image_series_reader.html#a315d2c1d9898cc7858d39b831cb12172" title="vtkImageSeriesReader\l::SetDataExtent" alt="" coords="278,71,429,112"/>
+<area shape="rect" id="node5" href="$classvtk_image_series_reader.html#a262782d9ec20a037030820e9574b0337" title="vtkImageSeriesReader\l::SetDataOrigin" alt="" coords="278,136,429,177"/>
+<area shape="rect" id="node6" href="$classvtk_image_series_reader.html#ad140e707b9a90417e165d0fbac4de875" title="vtkImageSeriesReader\l::SetDataSpacing" alt="" coords="278,201,429,243"/>
+<area shape="rect" id="node7" href="$classvtk_image_series_reader.html#a8eb51047884067733b5cf818b687fffb" title="vtkImageSeriesReader\l::SetFileNames" alt="" coords="278,267,429,308"/>
+<area shape="rect" id="node3" href="$classvtk_image_series_reader.html#a777d950d0a56aa262edac0229a244db6" title="vtkImageSeriesReader\l::AddObserver" alt="" coords="495,5,645,47"/>
+</map>

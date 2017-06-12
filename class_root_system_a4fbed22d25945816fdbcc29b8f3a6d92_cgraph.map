@@ -1,0 +1,14 @@
+<map id="RootSystem::getPriorNodeOfBranch" name="RootSystem::getPriorNodeOfBranch">
+<area shape="rect" id="node2" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="261,73,378,100"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a659d26cbed34bde6eca0601f408adc3f" title="获取该结点所在根分支的前一个结点 " alt="" coords="231,125,408,166"/>
+<area shape="rect" id="node4" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="466,107,629,133"/>
+<area shape="rect" id="node6" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="468,5,627,32"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="460,56,635,83"/>
+<area shape="rect" id="node10" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="474,157,621,184"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#a45eb3146ccc94060718a36ea3d4bd8eb" title="RootBranch::getPriorNodeId 返回当前结点的前一个结点 不存在 则返回&#45;1. " alt="" coords="456,259,639,285"/>
+<area shape="rect" id="node13" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="472,208,623,235"/>
+<area shape="rect" id="node5" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="698,157,879,184"/>
+<area shape="rect" id="node7" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="712,5,865,32"/>
+<area shape="rect" id="node9" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="693,56,885,83"/>
+<area shape="rect" id="node12" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="687,259,891,285"/>
+</map>

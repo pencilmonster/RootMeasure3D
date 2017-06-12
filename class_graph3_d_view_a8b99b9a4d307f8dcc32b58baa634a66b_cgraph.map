@@ -1,0 +1,51 @@
+<map id="Graph3DView::SlotaddActor" name="Graph3DView::SlotaddActor">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="251,40,455,67"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="561,40,709,67"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="262,91,445,118"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="254,142,453,168"/>
+<area shape="rect" id="node7" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="240,192,467,219"/>
+<area shape="rect" id="node12" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="237,751,469,778"/>
+<area shape="rect" id="node49" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="258,1334,449,1360"/>
+<area shape="rect" id="node6" href="$class_graph3_d_view.html#ab9ed1c6eae18aac266da353a1450c99d" title="Graph3DView::SlotPopUp" alt="" coords="549,91,720,118"/>
+<area shape="rect" id="node8" href="$classvtk_reconstruct.html#a1f3c82a5f9e0644f729a91b1a4baf1bd" title="vtkReconstruct::GetSurfaceArea 得到重建模型的表面积（仅限表面模型） " alt="" coords="531,142,739,168"/>
+<area shape="rect" id="node10" href="$classvtk_reconstruct.html#ae889b9c17980bded974b8e32ff075cdb" title="vtkReconstruct::GetVolumeArea 得到重建模型的体积（仅限表面模型） " alt="" coords="531,192,739,219"/>
+<area shape="rect" id="node9" href="$classvtk_base_reconstruction.html#af84df01e5ba67e753f2885e1e5545e7f" title="vtkBaseReconstruction\l::GetSurfaceArea" alt="" coords="837,112,991,153"/>
+<area shape="rect" id="node11" href="$classvtk_base_reconstruction.html#abb545f7903832c7b39f7e397e0b85300" title="vtkBaseReconstruction\l::GetVolumeArea" alt="" coords="837,177,991,218"/>
+<area shape="rect" id="node13" href="$classvtk_reconstruct.html#a3dd63f7e3d8304bbc03c4fa23b8d85c8" title="vtkReconstruct::setVisibility" alt="" coords="543,258,726,284"/>
+<area shape="rect" id="node15" href="$classvtk_reconstruct.html#a25b418505f580ab32dfecb163624ff65" title="vtkReconstruct::setReaderParm 读取数据时候所需要设置的参数 " alt="" coords="531,504,738,531"/>
+<area shape="rect" id="node16" href="$classvtk_reconstruct.html#a6e4808ab6a54bb53d6b015336363c193" title="vtkReconstruct::createImage\lReader" alt="" coords="821,308,1007,349"/>
+<area shape="rect" id="node21" href="$classvtk_reconstruct.html#a92ebcff3d1dc26db08c3d128f40841ed" title="vtkReconstruct::setReconstructParm 三维重建所需要的参数 " alt="" coords="517,726,752,752"/>
+<area shape="rect" id="node22" href="$classvtk_reconstruct.html#a9d4a1fedda16d9d50aed6181bef41538" title="vtkReconstruct::createReconstruct\lMethod" alt="" coords="803,634,1025,676"/>
+<area shape="rect" id="node25" href="$classvtk_reconstruct.html#ab31525dcfda65423ed5793969ccdf681" title="vtkReconstruct::setFilterParm 三位滤波器的参数 这里包括膨胀腐蚀滤波器、开闭运算滤波器、中值滤波器 ..." alt="" coords="537,1180,732,1207"/>
+<area shape="rect" id="node26" href="$classvtk_reconstruct.html#adecde671ec2de9f190d657838a2b1c8f" title="vtkReconstruct::createFilter3D 负责管控滤波器 " alt="" coords="815,831,1013,858"/>
+<area shape="rect" id="node39" href="$classvtk_reconstruct.html#aabd36e41ececd95d9436fdf69aa36b96" title="vtkReconstruct::startTask 开始重建任务 " alt="" coords="549,1663,720,1690"/>
+<area shape="rect" id="node40" href="$classvtk_reconstruct.html#abe456ddab09b0cfbdfe9d069e3074568" title="vtkReconstruct::showProgress\lDialog" alt="" coords="815,1648,1013,1689"/>
+<area shape="rect" id="node41" href="$classvtk_reconstruct.html#a8c46dfbb792a9df8375e4e9e72406f7b" title="vtkReconstruct::Slotcancel\lReconstruct" alt="" coords="1076,1592,1253,1633"/>
+<area shape="rect" id="node45" href="$classvtk_reconstruct.html#a32f75b26e20fe5a69d5d85640395cc2b" title="vtkReconstruct::Slotcolse\lProgressDialog" alt="" coords="1301,1680,1472,1721"/>
+<area shape="rect" id="node46" href="$classvtk_reconstruct.html#ac08e46cf1f6ab030ec9bc9d52210e115" title="vtkReconstruct::vtkReconstruct" alt="" coords="533,1764,736,1791"/>
+<area shape="rect" id="node48" href="$classvtk_reconstruct.html#ac865a204ef70095f9e0c2d53ca6764e9" title="vtkReconstruct::run 起一个线程 调用该函数之前确保各个滤波器存在且其参数已经设置完毕 ..." alt="" coords="567,322,702,348"/>
+<area shape="rect" id="node14" href="$classvtk_base_reconstruction.html#ab6c6336d6ce9bbef07484573e30c9958" title="vtkBaseReconstruction\l::GetProp" alt="" coords="837,242,991,284"/>
+<area shape="rect" id="node17" href="$classvtk_image_series_reader.html#a315d2c1d9898cc7858d39b831cb12172" title="vtkImageSeriesReader\l::SetDataExtent" alt="" coords="839,373,989,414"/>
+<area shape="rect" id="node18" href="$classvtk_image_series_reader.html#a262782d9ec20a037030820e9574b0337" title="vtkImageSeriesReader\l::SetDataOrigin" alt="" coords="839,438,989,480"/>
+<area shape="rect" id="node19" href="$classvtk_image_series_reader.html#ad140e707b9a90417e165d0fbac4de875" title="vtkImageSeriesReader\l::SetDataSpacing" alt="" coords="839,504,989,545"/>
+<area shape="rect" id="node20" href="$classvtk_image_series_reader.html#a8eb51047884067733b5cf818b687fffb" title="vtkImageSeriesReader\l::SetFileNames" alt="" coords="839,569,989,610"/>
+<area shape="rect" id="node23" href="$classvtk_base_reconstruction.html#a88dfc3be676100443bbb08fde759ce49" title="vtkBaseReconstruction\l::SetValue" alt="" coords="837,700,991,741"/>
+<area shape="rect" id="node24" href="$classvtk_base_reconstruction.html#a87912b2b90c637ec7a9515a9bf466b45" title="vtkBaseReconstruction\l::SetHoleSize" alt="" coords="837,765,991,806"/>
+<area shape="rect" id="node27" href="$class_image_dilate_erode3_d.html#aad4e8bfa6af59014881b5b4cfeeae806" title="ImageDilateErode3D\l::SetEnable" alt="" coords="844,882,984,924"/>
+<area shape="rect" id="node28" href="$class_image_dilate_erode3_d.html#aafd9a6a22eaf737b647ca0c4a9bea192" title="ImageDilateErode3D\l::SetProcessValue" alt="" coords="844,948,984,989"/>
+<area shape="rect" id="node29" href="$class_image_dilate_erode3_d.html#a8943746362944106412842cc97192fdf" title="ImageDilateErode3D\l::SetOperate" alt="" coords="844,1013,984,1054"/>
+<area shape="rect" id="node30" href="$class_image_dilate_erode3_d.html#a733e14b9c13d4904e9c5083441650656" title="ImageDilateErode3D\l::SetKernelSize" alt="" coords="844,1078,984,1120"/>
+<area shape="rect" id="node31" href="$class_image_dilate_erode3_d.html#a61f19247d6d1fe2933b951a3de04429c" title="ImageDilateErode3D\l::ReleaseDataFlagOff" alt="" coords="841,1144,987,1185"/>
+<area shape="rect" id="node32" href="$class_image_open_close3_d.html#a455f2058ed06580d3005ef409c610ba8" title="ImageOpenClose3D::SetEnable" alt="" coords="811,1210,1017,1236"/>
+<area shape="rect" id="node33" href="$class_image_open_close3_d.html#a8e10da48040411cd91dfc7cc39fedf10" title="ImageOpenClose3D::SetProcess\lValue" alt="" coords="807,1261,1021,1302"/>
+<area shape="rect" id="node34" href="$class_image_open_close3_d.html#a9952e2c4cadcd22b9c3d135d59006dcc" title="ImageOpenClose3D::SetOperate" alt="" coords="809,1327,1019,1354"/>
+<area shape="rect" id="node35" href="$class_image_open_close3_d.html#ab92f001cc79842e5b44baa336a3eb492" title="ImageOpenClose3D::SetKernelSize" alt="" coords="800,1378,1028,1404"/>
+<area shape="rect" id="node36" href="$class_image_open_close3_d.html#a4a5117393566ba121e0dfd9f09e3a1fc" title="ImageOpenClose3D::Release\lDataFlagOff" alt="" coords="818,1429,1010,1470"/>
+<area shape="rect" id="node37" href="$class_image_median3_d.html#a77c6ea3ca2b7bf75711ad79e9fc9b02c" title="ImageMedian3D::SetEnable" alt="" coords="823,1495,1005,1522"/>
+<area shape="rect" id="node38" href="$class_image_median3_d.html#aff16f2dfced46eb56699c309649f9563" title="ImageMedian3D::SetKernelSize" alt="" coords="811,1546,1017,1572"/>
+<area shape="rect" id="node42" href="$classvtk_base_reconstruction.html#aa24fa2655c516bc82b93423f84c4b82a" title="vtkBaseReconstruction\l::Stop" alt="" coords="1309,1497,1464,1538"/>
+<area shape="rect" id="node43" href="$classvtk_progress_command.html#a84a4ba99a3c651d5bb87201f957e08d6" title="vtkProgressCommand\l::setCancelState" alt="" coords="1312,1562,1461,1604"/>
+<area shape="rect" id="node44" href="$classvtk_reconstruct.html#a5d2de75b53640674809bd69cf3fdcb44" title="线程中断函数 " alt="" coords="1316,1628,1457,1655"/>
+<area shape="rect" id="node47" href="$classvtk_progress_command.html#af841f5783a803f547d71601555988dd0" title="vtkProgressCommand\l::setParent" alt="" coords="839,1765,989,1806"/>
+<area shape="rect" id="node50" href="$classvtk_base_reconstruction.html#a76bc5015d2fae3ca529a490346418967" title="vtkBaseReconstruction\l::GetPolyData" alt="" coords="557,1816,712,1857"/>
+</map>

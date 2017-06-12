@@ -1,0 +1,10 @@
+<map id="RootSkeletionBuilder::pixel2Voxel" name="RootSkeletionBuilder::pixel2Voxel">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#a35fe9423c857cba08233d3f3a873bedf" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="196,5,339,47"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a6ed9fcab586ebedab2fbe9dcd41b7ab1" title="创建根结点 并设置其属性值 " alt="" coords="196,71,339,112"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="387,71,529,112"/>
+<area shape="rect" id="node5" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="577,71,720,112"/>
+<area shape="rect" id="node6" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="768,71,967,112"/>
+<area shape="rect" id="node7" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1015,71,1197,112"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1245,78,1429,105"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1477,78,1656,105"/>
+</map>

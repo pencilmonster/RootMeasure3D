@@ -1,0 +1,6 @@
+<map id="QtTimeEditFactory" name="QtTimeEditFactory">
+<area shape="rect" id="node5" href="$class_qt_time_edit_factory_private.html" title="QtTimeEditFactoryPrivate" alt="" coords="84,352,255,379"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html" title="QtAbstractEditorFactory\l\&lt; QtTimePropertyManager \&gt;" alt="" coords="140,157,327,199"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html" title="The QtAbstractEditorFactoryBase provides an interface for editor factories. " alt="" coords="137,81,330,108"/>
+<area shape="rect" id="node6" href="$class_editor_factory_private.html" title="EditorFactoryPrivate\l\&lt; QTimeEdit \&gt;" alt="" coords="5,248,144,289"/>
+</map>

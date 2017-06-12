@@ -1,0 +1,9 @@
+<map id="QtEnumPropertyManager::setEnumNames" name="QtEnumPropertyManager::setEnumNames">
+<area shape="rect" id="node2" href="$class_qt_cursor_editor_factory.html#ab8a32881e55f038ea5afc3e11150d20d" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="258,5,410,47"/>
+<area shape="rect" id="node3" href="$class_qt_locale_property_manager.html#acc0660fa1d6e9bb101b8617ad586f519" title="Sets the value of the given property to value. " alt="" coords="247,71,421,112"/>
+<area shape="rect" id="node4" href="$class_qt_locale_property_manager.html#aba1f7221a566326fd45550425aadf86c" title="QtLocalePropertyManager\l::initializeProperty" alt="" coords="247,136,421,177"/>
+<area shape="rect" id="node5" href="$class_qt_size_policy_property_manager.html#ac721a0721079c7b9a379e168af071105" title="QtSizePolicyPropertyManager\l::initializeProperty" alt="" coords="235,201,433,243"/>
+<area shape="rect" id="node6" href="$class_qt_font_property_manager_private.html#a2c1134dcbdf2e56f869667ac119ffe2f" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseDelayedChange" alt="" coords="223,267,445,308"/>
+<area shape="rect" id="node8" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="253,332,415,373"/>
+<area shape="rect" id="node7" href="$class_qt_font_property_manager_private.html#a9eb0c3ff0d60ddf5644b78b4536d30d3" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseChanged" alt="" coords="493,267,693,308"/>
+</map>

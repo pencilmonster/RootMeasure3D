@@ -1,0 +1,11 @@
+<map id="RootSkeletionBuilder::resetReslicer" name="RootSkeletionBuilder::resetReslicer">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#a181c8abc9c20fc82f74ce0aa3bf3c572" title="RootSkeletionBuilder::saveReslicerStatus 记录在自动重切开始之前，重切器的一些状态信息 ..." alt="" coords="220,75,363,116"/>
+<area shape="rect" id="node6" href="$class_reslicer.html#a3b68e9d9e4ab1d6de706513d66ed8cab" title="Reslicer::setPlaneOrientation" alt="" coords="196,162,387,189"/>
+<area shape="rect" id="node9" href="$class_reslicer.html#a9e2def65f33f523ce959ae50e1a8433f" title="Reslicer::resetPosition" alt="" coords="215,213,368,239"/>
+<area shape="rect" id="node10" href="$class_root_skeletion_builder.html#ac473f86ae82e9b6efe846ae2ad2da32d" title="设置重切方法 &#160;" alt="" coords="220,264,363,305"/>
+<area shape="rect" id="node3" href="$class_reslicer.html#aebe8a930582e51cbd6865ab1146535ae" title="Reslicer::disconnectvtkEvent\lQtslot" alt="" coords="435,5,623,47"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#a184177d79e90f1c913502dddb95ba060" title="Reslicer::getEnable" alt="" coords="461,71,596,98"/>
+<area shape="rect" id="node5" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="461,122,596,149"/>
+<area shape="rect" id="node7" href="$class_reslicer.html#abeb941832329e9700bc3e0d4f3978c96" title="Reslicer::setPlaneNormal" alt="" coords="444,173,613,199"/>
+<area shape="rect" id="node8" href="$class_image_plane_widget.html#a32dbe9dda2b8e2a30b646944b9ec6ba8" title="ImagePlaneWidget::SetNormal" alt="" coords="671,173,871,199"/>
+</map>

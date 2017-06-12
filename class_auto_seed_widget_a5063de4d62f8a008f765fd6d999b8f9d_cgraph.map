@@ -1,0 +1,14 @@
+<map id="AutoSeedWidget::SetInputData" name="AutoSeedWidget::SetInputData">
+<area shape="rect" id="node2" href="$class_auto_seed_widget.html#a573a5d22f9ca8f135e896af1e95abf79" title="AutoSeedWidget::Update" alt="" coords="256,187,425,213"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#a23411820a62d68b3fa2af0e3015367fd" title="ConnectedRegion::SetInput" alt="" coords="499,5,679,32"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#ae6d4631066636bd2e26aa313775f3858" title="ConnectedRegion::Update" alt="" coords="502,56,675,83"/>
+<area shape="rect" id="node5" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="765,99,958,141"/>
+<area shape="rect" id="node6" href="$class_auto_seed_widget.html#a25b98d99143f418eb23fcd9c9745921b" title="AutoSeedWidget::Calculate\lMaxInfluence" alt="" coords="497,209,680,250"/>
+<area shape="rect" id="node7" href="$class_connected_region.html#ab09bddf21f1b0f35948e93ac43bc4c95" title="ConnectedRegion::GetCentroid 获取i个连通区域质心 " alt="" coords="761,165,962,192"/>
+<area shape="rect" id="node10" href="$class_auto_seed_widget.html#aba70b1aed1bbc4f7fa5125bba87e6a19" title="AutoSeedWidget::setPosition" alt="" coords="492,275,685,301"/>
+<area shape="rect" id="node12" href="$class_connected_region.html#a3829bc50ce6b63281d096f90d7619fff" title="ConnectedRegion::GetBoundingBox 获取i个连通区域的包围盒 " alt="" coords="473,325,704,352"/>
+<area shape="rect" id="node13" href="$class_auto_seed_widget.html#a91a1c31e84d639e9db1424a73a6e3ff6" title="AutoSeedWidget::CalculateZvalue 计算当前切片（图像）的索引号 " alt="" coords="497,377,680,418"/>
+<area shape="rect" id="node8" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="762,267,961,309"/>
+<area shape="rect" id="node9" href="$class_connected_region.html#a3104bae943b6072425bb1435b7136636" title="ConnectedRegion::GetRoundness 获取i个连通区域圆率 " alt="" coords="752,216,971,243"/>
+<area shape="rect" id="node11" href="$class_auto_seed_widget.html#a9e26eb472672bbbab92881b3be917a9b" title="AutoSeedWidget::SetVisibility" alt="" coords="763,333,960,360"/>
+</map>

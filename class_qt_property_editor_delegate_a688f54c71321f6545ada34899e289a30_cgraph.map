@@ -1,0 +1,25 @@
+<map id="QtPropertyEditorDelegate::paint" name="QtPropertyEditorDelegate::paint">
+<area shape="rect" id="node2" href="$class_qt_tree_property_browser_private.html#a26f2cc57e9735493ae0d6f9c1128a7f0" title="QtTreePropertyBrowserPrivate\l::indexToProperty" alt="" coords="224,5,420,47"/>
+<area shape="rect" id="node5" href="$class_qt_property.html#a80fd0816efcaaa8698ea7dbed95a230d" title="Returns whether the property has a value. " alt="" coords="249,71,395,98"/>
+<area shape="rect" id="node6" href="$class_qt_tree_property_browser_private.html#a10dfb2e4979fd47f4dbd2aaafd9f1cda" title="QtTreePropertyBrowserPrivate\l::markPropertiesWithoutValue" alt="" coords="224,253,420,295"/>
+<area shape="rect" id="node20" href="$class_qt_tree_property_browser_private.html#a16d54428e4ad29967d73258412fb6503" title="QtTreePropertyBrowserPrivate\l::calculatedBackgroundColor" alt="" coords="224,319,420,360"/>
+<area shape="rect" id="node22" href="$class_qt_tree_property_browser_private.html#ac4294ab01e109e43978ef8fcee34f4c3" title="QtTreePropertyBrowserPrivate\l::indexToBrowserItem" alt="" coords="224,188,420,229"/>
+<area shape="rect" id="node23" href="$class_qt_tree_property_browser_private.html#a61458368faf2ab0d427ab3994d02232e" title="QtTreePropertyBrowserPrivate\l::indexToItem" alt="" coords="224,123,420,164"/>
+<area shape="rect" id="node24" href="$class_qt_tree_property_browser_private.html#aac9175e0f3d24b058119e1812dc94297" title="QtTreePropertyBrowserPrivate\l::lastColumn" alt="" coords="224,384,420,425"/>
+<area shape="rect" id="node3" href="$class_qt_property_editor_view.html#aa615328040c9a1aa2f5c9dca17771bd8" title="QtPropertyEditorView\l::indexToItem" alt="" coords="503,57,649,99"/>
+<area shape="rect" id="node4" href="$class_qt_browser_item.html#a2c4edfa9e76dfaefc5866f2e3e9d48f4" title="Returns the property which is accosiated with this item. " alt="" coords="495,6,657,33"/>
+<area shape="rect" id="node7" href="$class_qt_tree_property_browser_private.html#ad57b38bcb74e0d94b699f1876a8ba624" title="QtTreePropertyBrowserPrivate\l::currentItem" alt="" coords="732,377,928,419"/>
+<area shape="rect" id="node8" href="$class_qt_tree_property_browser_private.html#a0ca4ca0a965a932821d0d0cf72361297" title="QtTreePropertyBrowserPrivate\l::setCurrentItem" alt="" coords="732,465,928,507"/>
+<area shape="rect" id="node9" href="$class_qt_tree_property_browser_private.html#aa49a60cabda8f7f18da0984cb186a10d" title="QtTreePropertyBrowserPrivate\l::editItem" alt="" coords="478,436,674,477"/>
+<area shape="rect" id="node10" href="$class_qt_tree_property_browser_private.html#a28cb28ce8e825607e8aabea89a76b1c8" title="QtTreePropertyBrowserPrivate\l::slotCurrentBrowserItemChanged" alt="" coords="468,371,684,412"/>
+<area shape="rect" id="node11" href="$class_qt_tree_property_browser_private.html#a55ac9d929b279bddfd43e7c1fe7d4d11" title="QtTreePropertyBrowserPrivate\l::slotCurrentTreeItemChanged" alt="" coords="478,123,674,164"/>
+<area shape="rect" id="node13" href="$class_qt_tree_property_browser_private.html#ab2b77efb2a0c55c806665b13de668ce1" title="QtTreePropertyBrowserPrivate\l::editedItem" alt="" coords="478,188,674,229"/>
+<area shape="rect" id="node16" href="$class_qt_tree_property_browser_private.html#a59bdf6910bef75f895ad05ed8cc0022e" title="QtTreePropertyBrowserPrivate\l::updateItem" alt="" coords="478,253,674,295"/>
+<area shape="rect" id="node12" href="$class_qt_abstract_property_browser.html#acc1092988065f0eea03c3515226953d3" title="Sets the current item in the property browser to item. " alt="" coords="739,116,921,157"/>
+<area shape="rect" id="node14" href="$class_qt_property_editor_delegate.html#abdf2ecbd526539947d23b2b5e27336d6" title="QtPropertyEditorDelegate\l::editedItem" alt="" coords="745,181,915,223"/>
+<area shape="rect" id="node15" href="$main_8cpp.html#aea2b5f04ca1baf40e821c56c9886038e" title="pixmap" alt="" coords="1029,189,1093,215"/>
+<area shape="rect" id="node17" href="$class_qt_tree_property_browser_private.html#a08004933fdb1e9b0fa825fa756725e2a" title="QtTreePropertyBrowserPrivate\l::enableItem" alt="" coords="732,247,928,288"/>
+<area shape="rect" id="node18" href="$class_qt_tree_property_browser_private.html#ae1a2f0fc059534f748442de0f14f03aa" title="QtTreePropertyBrowserPrivate\l::disableItem" alt="" coords="732,312,928,353"/>
+<area shape="rect" id="node19" href="$class_qt_property_editor_delegate.html#a141316aa404f6db56d52abeff9e6fbdb" title="QtPropertyEditorDelegate\l::closeEditor" alt="" coords="976,312,1147,353"/>
+<area shape="rect" id="node21" href="$class_qt_browser_item.html#afed8197ad887301642017d7b61c185b7" title="Returns the parent item of this item. " alt="" coords="500,553,652,579"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="QtAbstractPropertyManager::clear" name="QtAbstractPropertyManager::clear">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html#a6e369a86114c6918bb31ae41b135b0e2" title="Destroys the manager. " alt="" coords="253,5,453,47"/>
+<area shape="rect" id="node3" href="$class_qt_int_property_manager.html#a29740b5a22332096ac0365d6f23fa418" title="Destroys this manager, and all the properties it has created. " alt="" coords="271,71,436,112"/>
+<area shape="rect" id="node4" href="$class_qt_double_property_manager.html#a8080cb2cf6ae314580db58337f9b4360" title="Destroys this manager, and all the properties it has created. " alt="" coords="258,136,449,177"/>
+<area shape="rect" id="node5" href="$class_qt_string_property_manager.html#a79a3f7b67318904c5f260bae19afc129" title="Destroys this manager, and all the properties it has created. " alt="" coords="261,201,446,243"/>
+<area shape="rect" id="node6" href="$class_qt_bool_property_manager.html#a8f99aed0c3e230c3c3d6ea69e9cce1b9" title="Destroys this manager, and all the properties it has created. " alt="" coords="265,267,442,308"/>
+<area shape="rect" id="node7" href="$class_qt_date_property_manager.html#a8fa02569253a21b9c3f50e786ec43342" title="Destroys this manager, and all the properties it has created. " alt="" coords="264,332,443,373"/>
+<area shape="rect" id="node8" href="$class_qt_time_property_manager.html#a3e66b690f991026feccfaa7590f1ae67" title="Destroys this manager, and all the properties it has created. " alt="" coords="264,397,443,439"/>
+<area shape="rect" id="node9" href="$class_qt_date_time_property_manager.html#a40d47309fb6471a22cc685995eec4c49" title="Destroys this manager, and all the properties it has created. " alt="" coords="250,463,457,504"/>
+<area shape="rect" id="node10" href="$class_qt_key_sequence_property_manager.html#acbee53270edeff9f0140455d62f751f8" title="Destroys this manager, and all the properties it has created. " alt="" coords="237,528,469,569"/>
+<area shape="rect" id="node11" href="$class_qt_char_property_manager.html#aa6c27f911e78a9f008101019e31177cb" title="Destroys this manager, and all the properties it has created. " alt="" coords="264,593,443,635"/>
+<area shape="rect" id="node12" href="$class_qt_locale_property_manager.html#a359723d9b075fed5a414af242b0523de" title="Destroys this manager, and all the properties it has created. " alt="" coords="259,659,448,700"/>
+<area shape="rect" id="node13" href="$class_qt_point_property_manager.html#a20f3848178c58668308ca4d8eadce8d6" title="Destroys this manager, and all the properties it has created. " alt="" coords="263,724,444,765"/>
+<area shape="rect" id="node14" href="$class_qt_point_f_property_manager.html#ad90ca69a2a3346e8448e6528fce14e6d" title="Destroys this manager, and all the properties it has created. " alt="" coords="259,789,448,831"/>
+<area shape="rect" id="node15" href="$class_qt_size_property_manager.html#aeb5cb986fb4d704554694f9cd7ce97bc" title="Destroys this manager, and all the properties it has created. " alt="" coords="265,855,442,896"/>
+<area shape="rect" id="node16" href="$class_qt_size_f_property_manager.html#a10a71ba194f58f07e9cd06e16e6f0024" title="Destroys this manager, and all the properties it has created. " alt="" coords="261,920,446,961"/>
+<area shape="rect" id="node17" href="$class_qt_rect_property_manager.html#a36e60e2235b74b5b9b7e48db7e6b6170" title="Destroys this manager, and all the properties it has created. " alt="" coords="264,985,443,1027"/>
+<area shape="rect" id="node18" href="$class_qt_rect_f_property_manager.html#aeb1109d39c8d19ebfdf114a12a172f94" title="Destroys this manager, and all the properties it has created. " alt="" coords="260,1051,447,1092"/>
+<area shape="rect" id="node19" href="$class_qt_enum_property_manager.html#af44367b7953cf373b05b462759e390e1" title="Destroys this manager, and all the properties it has created. " alt="" coords="261,1116,446,1157"/>
+<area shape="rect" id="node20" href="$class_qt_flag_property_manager.html#a25a5f9cd0f8d88bdab5c5b20bc0d890d" title="Destroys this manager, and all the properties it has created. " alt="" coords="265,1181,441,1223"/>
+<area shape="rect" id="node21" href="$class_qt_size_policy_property_manager.html#a9a160e23a9a49880648c11c03dc6a5a3" title="Destroys this manager, and all the properties it has created. " alt="" coords="247,1247,460,1288"/>
+<area shape="rect" id="node22" href="$class_qt_font_property_manager.html#aed24c0ee11c71a262af6d0f7c71231be" title="Destroys this manager, and all the properties it has created. " alt="" coords="265,1312,442,1353"/>
+<area shape="rect" id="node23" href="$class_qt_color_property_manager.html#a365eb72e5df8f25ea526e4f8ea6bfd65" title="Destroys this manager, and all the properties it has created. " alt="" coords="263,1377,444,1419"/>
+<area shape="rect" id="node24" href="$class_qt_cursor_property_manager.html#a91d6033104a11a297e9dfa7b1cf1ad7a" title="Destroys this manager, and all the properties it has created. " alt="" coords="259,1443,448,1484"/>
+<area shape="rect" id="node25" href="$class_qt_variant_property_manager.html#ad7e3b41dd8396fed9ad9fd560b7369ae" title="Destroys this manager, and all the properties it has created. " alt="" coords="257,1508,449,1549"/>
+</map>

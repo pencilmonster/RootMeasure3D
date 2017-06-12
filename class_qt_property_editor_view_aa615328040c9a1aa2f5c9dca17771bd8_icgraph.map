@@ -1,0 +1,14 @@
+<map id="QtPropertyEditorView::indexToItem" name="QtPropertyEditorView::indexToItem">
+<area shape="rect" id="node2" href="$class_qt_tree_property_browser_private.html#a26f2cc57e9735493ae0d6f9c1128a7f0" title="QtTreePropertyBrowserPrivate\l::indexToProperty" alt="" coords="200,69,396,110"/>
+<area shape="rect" id="node7" href="$class_qt_tree_property_browser_private.html#ac4294ab01e109e43978ef8fcee34f4c3" title="QtTreePropertyBrowserPrivate\l::indexToBrowserItem" alt="" coords="200,134,396,175"/>
+<area shape="rect" id="node8" href="$class_qt_tree_property_browser_private.html#a61458368faf2ab0d427ab3994d02232e" title="QtTreePropertyBrowserPrivate\l::indexToItem" alt="" coords="200,310,396,351"/>
+<area shape="rect" id="node3" href="$class_qt_tree_property_browser_private.html#a3d2c9f10c30feac6768374041e643dbd" title="QtTreePropertyBrowserPrivate\l::createEditor" alt="" coords="688,310,884,351"/>
+<area shape="rect" id="node4" href="$class_qt_property_editor_delegate.html#aa5567e6671f768929130e5b7f5a0e4d6" title="QtPropertyEditorDelegate\l::createEditor" alt="" coords="932,310,1103,351"/>
+<area shape="rect" id="node5" href="$class_qt_property_editor_view.html#a4f4844716372d618ddf9af972cd27dbb" title="QtPropertyEditorView\l::drawRow" alt="" coords="469,69,615,110"/>
+<area shape="rect" id="node6" href="$class_qt_property_editor_delegate.html#a688f54c71321f6545ada34899e289a30" title="QtPropertyEditorDelegate\l::paint" alt="" coords="457,134,627,175"/>
+<area shape="rect" id="node9" href="$class_qt_property_editor_delegate.html#a3c842c107c06a88079f114f84726d46b" title="QtPropertyEditorDelegate\l::indentation" alt="" coords="457,251,627,293"/>
+<area shape="rect" id="node10" href="$class_qt_tree_property_browser_private.html#abb5661ef7a292bcd4830eb007d265dc5" title="QtTreePropertyBrowserPrivate\l::slotCollapsed" alt="" coords="444,369,640,410"/>
+<area shape="rect" id="node13" href="$class_qt_tree_property_browser_private.html#ae0572b7cee5c40d3695ff0b377489a1a" title="QtTreePropertyBrowserPrivate\l::slotExpanded" alt="" coords="444,434,640,475"/>
+<area shape="rect" id="node11" href="$class_qt_tree_property_browser_private.html#a7e42dbab880b384e8410ae0108855754" title="QtTreePropertyBrowserPrivate\l::init" alt="" coords="688,405,884,446"/>
+<area shape="rect" id="node12" href="$class_qt_tree_property_browser.html#af13fe9bf9e66e70d31357234aa04642e" title="Creates a property browser with the given parent. " alt="" coords="935,405,1100,446"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="PropertyView::setPropertyValue" name="PropertyView::setPropertyValue">
+<area shape="rect" id="node2" href="$class_property_view.html#a896b97e6129076570057400d3097ee4f" title="PropertyView::SlotsetImageInfo 槽函数 设置二维图像组分的属性值 " alt="" coords="239,5,442,32"/>
+<area shape="rect" id="node3" href="$class_property_view.html#a52f515b79bb13ff56f76b3b09bbee5d8" title="PropertyView::SlotsetGraph3DInfo 槽函数 设置三维图形组分各个属性值 " alt="" coords="245,57,436,98"/>
+<area shape="rect" id="node4" href="$class_property_view.html#afb4cb121259c845476889ebfc31ac7a0" title="PropertyView::SlotsetRegionInfo 槽函数 设置区域信息各个属性值 " alt="" coords="237,123,445,149"/>
+<area shape="rect" id="node5" href="$class_property_view.html#a46d1e1b70b6426693299fed73c9d29b0" title="PropertyView::SlotsetReslicerInfo 槽函数 设置重切器的属性值 " alt="" coords="233,173,448,200"/>
+<area shape="rect" id="node6" href="$class_property_view.html#a23601d84f474e3620c64ad8b7373c7b3" title="PropertyView::SlotsetRulerInfo 槽函数 设置刻度尺的属性值 " alt="" coords="241,224,440,251"/>
+<area shape="rect" id="node7" href="$class_property_view.html#a65f8eb0e70fe000df51f2abba56874ef" title="PropertyView::SlotsetProtractorInfo 设置量角器属性值 " alt="" coords="228,275,453,301"/>
+<area shape="rect" id="node8" href="$class_property_view.html#af36e9c26a38d527628c63d744817bcea" title="PropertyView::SlotsetBranchInfo 设置根分支属性值 " alt="" coords="236,325,445,352"/>
+<area shape="rect" id="node9" href="$class_property_view.html#a62be8b0428299b958bc139c737eeb0bb" title="PropertyView::SlotsetRootInfo 设置根属性值 " alt="" coords="243,376,438,403"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Graph3DView::SlotsetReslicerValue" name="Graph3DView::SlotsetReslicerValue">
+<area shape="rect" id="node2" href="$class_reslicer.html#a97f2dc8bf4edfa57e9d7810c49248b53" title="Reslicer::setPlaneWidth" alt="" coords="265,5,427,32"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#aa2cec7692c4fffb54e86a3018d3effd5" title="Reslicer::setPlaneHigh" alt="" coords="269,56,423,83"/>
+<area shape="rect" id="node6" href="$class_reslicer.html#a422e9990d9cb144e7d397430fe4f6401" title="Reslicer::getPlaneCenter" alt="" coords="263,107,429,133"/>
+<area shape="rect" id="node7" href="$class_reslicer.html#ad21c70fb3d0d6560d2f464b0fb115e0a" title="Reslicer::setPlaneCenter" alt="" coords="263,157,429,184"/>
+<area shape="rect" id="node9" href="$class_reslicer.html#a3b68e9d9e4ab1d6de706513d66ed8cab" title="Reslicer::setPlaneOrientation" alt="" coords="251,208,441,235"/>
+<area shape="rect" id="node12" href="$class_reslicer.html#a8d9bd362e5ff8b98b666f30c7dae9111" title="Reslicer::getPlaneOrientation" alt="" coords="251,259,441,285"/>
+<area shape="rect" id="node3" href="$class_image_plane_widget.html#a7b444b422863a5c087b7cbc77f4acd4e" title="ImagePlaneWidget::SetWidth" alt="" coords="491,5,685,32"/>
+<area shape="rect" id="node5" href="$class_image_plane_widget.html#a420afeea0b2dc166906d553fc15af046" title="ImagePlaneWidget::SetHigh" alt="" coords="495,56,681,83"/>
+<area shape="rect" id="node8" href="$class_image_plane_widget.html#a342692f2601678dd753016ce2530a0db" title="ImagePlaneWidget::SetCenter" alt="" coords="489,157,687,184"/>
+<area shape="rect" id="node10" href="$class_reslicer.html#abeb941832329e9700bc3e0d4f3978c96" title="Reslicer::setPlaneNormal" alt="" coords="503,208,673,235"/>
+<area shape="rect" id="node11" href="$class_image_plane_widget.html#a32dbe9dda2b8e2a30b646944b9ec6ba8" title="ImagePlaneWidget::SetNormal" alt="" coords="735,208,935,235"/>
+<area shape="rect" id="node13" href="$class_reslicer.html#ad400f5eb77812214cf74941f5a4a9812" title="Reslicer::getPlaneNormal" alt="" coords="503,259,673,285"/>
+</map>

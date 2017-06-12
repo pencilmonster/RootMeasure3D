@@ -1,0 +1,6 @@
+<map id="QtDoubleSpinBoxFactory::connectPropertyManager" name="QtDoubleSpinBoxFactory::connectPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_double_spin_box_factory.html#a1fd5982648ae07166086851340cfc67d" title="QtDoubleSpinBoxFactory\l::slotRangeChanged" alt="" coords="228,5,397,47"/>
+<area shape="rect" id="node3" href="$class_qt_double_spin_box_factory.html#a4b74687adcffa2a4afbd5b18a44bbb26" title="QtDoubleSpinBoxFactory\l::slotSingleStepChanged" alt="" coords="228,71,397,112"/>
+<area shape="rect" id="node4" href="$class_qt_double_spin_box_factory.html#a28b732e9f7a3952ff02c808fdad985ad" title="QtDoubleSpinBoxFactory\l::slotDecimalsChanged" alt="" coords="228,136,397,177"/>
+<area shape="rect" id="node5" href="$class_qt_double_spin_box_factory.html#a681a72ee1128dcaf0d9729926741b9ff" title="QtDoubleSpinBoxFactory\l::slotReadOnlyChanged" alt="" coords="228,201,397,243"/>
+</map>

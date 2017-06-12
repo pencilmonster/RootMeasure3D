@@ -1,0 +1,14 @@
+<map id="Graph3DView::sendSliceInfo" name="Graph3DView::sendSliceInfo">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a36951bb61bd2dd2b2e407bd72b2a6793" title="获取切片的纹理图像信息，发送给图像浏览器 " alt="" coords="240,46,439,73"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="749,21,964,47"/>
+<area shape="rect" id="node13" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="487,71,701,98"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="1012,17,1229,43"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="1013,71,1228,98"/>
+<area shape="rect" id="node5" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="1277,5,1503,47"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1562,13,1746,39"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1810,13,1989,39"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="1292,71,1488,98"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="1293,122,1487,149"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="1551,122,1757,149"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="1805,122,1993,149"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="RootSkeletionBuilder::addRootBranch" name="RootSkeletionBuilder::addRootBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="724,636,875,663"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#af58b9fb781b32933f09572dbdb78c2aa" title="获取分支第一个根结点ID " alt="" coords="203,101,385,128"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#ac6dc5f75ed492b5599aeb3630536690b" title="获取分支最后一个根结点ID " alt="" coords="203,152,385,179"/>
+<area shape="rect" id="node6" href="$class_root_system.html#a9738f05089c5cac80d5c4810323c1e9e" title="返回所有的根分支 " alt="" coords="207,203,381,229"/>
+<area shape="rect" id="node7" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="951,882,1173,923"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="213,7,375,33"/>
+<area shape="rect" id="node9" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="960,788,1164,815"/>
+<area shape="rect" id="node10" href="$class_root_skeletion_builder.html#aa2123b1e7bea2b09b1805d60f282da51" title="RootSkeletionBuilder::isConnected 根结点连通性验证 方法：选取node2根结点质心点以及长轴上的四个点。 no..." alt="" coords="223,254,365,295"/>
+<area shape="rect" id="node14" href="$class_root_node.html#a5f36301af8219f017a207958eb89ae6b" title="计算当前根结点到指定根结点之间的距离. " alt="" coords="204,320,384,347"/>
+<area shape="rect" id="node16" href="$class_root_skeletion_builder.html#a5a0213773d5690a7d00c7bef53c3f26b" title="RootSkeletionBuilder::createRootBranch 创建根分支 " alt="" coords="223,459,365,501"/>
+<area shape="rect" id="node34" href="$class_root_system.html#ada7fe87ab79c51ee99f88c8cd38bfb6c" title="将待添加的根分支添加到给定根分支的尾部 添加方式是顺序添加 " alt="" coords="455,691,633,717"/>
+<area shape="rect" id="node36" href="$class_root_system.html#ac2452a3cdd446a2b650b692e9158cc0f" title="获取根系统中排在最后一位的分支Id " alt="" coords="196,1067,392,1093"/>
+<area shape="rect" id="node38" href="$class_root_system.html#a3b9dffbb9b75a8fc45c3b1dc1df2a3a8" title="将待添加的根分支添加到给定根分支的尾部 添加方式是逆序添加 " alt="" coords="453,741,635,768"/>
+<area shape="rect" id="node3" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="971,560,1153,587"/>
+<area shape="rect" id="node11" href="$class_root_node.html#addb6962357f2b4fdaac807043ed8fedc" title="获取根结点的主轴端点坐标 " alt="" coords="451,35,637,77"/>
+<area shape="rect" id="node12" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="467,152,621,179"/>
+<area shape="rect" id="node13" href="$class_math_tool.html#a7585aaee0b857018c74515984685e5fb" title="MathTool::isConnectivity" alt="" coords="463,101,625,128"/>
+<area shape="rect" id="node15" href="$class_math_tool.html#a421603b0781ce637ff8341d0eff39a71" title="MathTool::distanceBetween\lPoints" alt="" coords="453,203,635,245"/>
+<area shape="rect" id="node17" href="$class_root_node.html#a0ed09c0d2171aa761a150260b87fbcf4" title="RootNode::isEmpty" alt="" coords="732,585,867,612"/>
+<area shape="rect" id="node18" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="720,940,879,967"/>
+<area shape="rect" id="node19" href="$class_root_system.html#abf23a84a41e5038029f40f405b90ef06" title="RootSystem::addBranch" alt="" coords="462,269,626,296"/>
+<area shape="rect" id="node21" href="$class_root_system.html#a4670245750e0906bb93b75ecc7543d03" title="添加结点Id到根分支 " alt="" coords="440,488,648,515"/>
+<area shape="rect" id="node26" href="$class_root_system.html#a49e12e750fccd8873065747f334a2156" title="返回给定根分支的等级 如果不存在返回&#45;1 " alt="" coords="446,371,642,397"/>
+<area shape="rect" id="node29" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="465,320,623,347"/>
+<area shape="rect" id="node31" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="485,589,603,616"/>
+<area shape="rect" id="node32" href="$class_root_system.html#af9ace616d564bb7a130345e608441f2c" title="给当前分支添加子分支 " alt="" coords="447,422,641,463"/>
+<area shape="rect" id="node20" href="$class_root_branch.html#a9d3f0f31da79838fd133c08fc5e7fc4b" title="RootBranch::getBranchID" alt="" coords="715,180,884,207"/>
+<area shape="rect" id="node22" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="719,535,880,561"/>
+<area shape="rect" id="node24" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="726,433,873,460"/>
+<area shape="rect" id="node25" href="$class_root_branch.html#a52d06751adc3bb7a8c3d77e9adccaf42" title="RootBranch::addIncludedNodeId" alt="" coords="696,484,903,511"/>
+<area shape="rect" id="node23" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="966,433,1158,460"/>
+<area shape="rect" id="node27" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="712,332,887,359"/>
+<area shape="rect" id="node28" href="$class_root_branch.html#a3419e4f2d25bc72875f213405810b126" title="RootBranch::getBranchGrade" alt="" coords="703,281,895,308"/>
+<area shape="rect" id="node30" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="723,231,876,257"/>
+<area shape="rect" id="node33" href="$class_root_branch.html#a87454f3316e6a4bdec4c4f5f91ddfe41" title="RootBranch::addChildBranchId" alt="" coords="700,383,899,409"/>
+<area shape="rect" id="node35" href="$class_root_branch.html#a15d4a3c1e92bcd34aeb876e24629328b" title="RootBranch::extentRootBranch 正向扩展根分支 把要添加的根分支从头到尾遍历 如果分支已有该根结点则跳过 ..." alt="" coords="698,788,901,815"/>
+<area shape="rect" id="node37" href="$class_root_system.html#a75207926ddc171961e66d3af141756fa" title="RootSystem::isBranchesEmpty" alt="" coords="441,1067,647,1093"/>
+<area shape="rect" id="node39" href="$class_root_branch.html#a39d07a80ed4348fb631220564c548460" title="RootBranch::extentRootBranch 反向扩展根分支 把要添加的根分支从尾到头遍历 如果分支已有该根结点则跳过 ..." alt="" coords="696,839,903,865"/>
+</map>

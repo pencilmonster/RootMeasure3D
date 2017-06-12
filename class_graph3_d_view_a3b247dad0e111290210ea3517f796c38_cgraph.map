@@ -1,0 +1,51 @@
+<map id="Graph3DView::SlotreadXmlFile" name="Graph3DView::SlotreadXmlFile">
+<area shape="rect" id="node2" href="$class_skeleton_reader.html#af0e899c61edbdbf0c054534d226bd983" title="SkeletonReader::setFileName 设置文件名 " alt="" coords="264,240,459,267"/>
+<area shape="rect" id="node27" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="258,951,465,993"/>
+<area shape="rect" id="node49" href="$class_skeleton_reader.html#a09f9fa0da2c619f006340bdf7eeec2a0" title="SkeletonReader::getSkeletonData 返回读取的骨架点数据 " alt="" coords="252,1017,471,1044"/>
+<area shape="rect" id="node50" href="$namespacemyprint.html#a4aa4711ad259f0021e2a986dc67e0cee" title="日志信息打印 " alt="" coords="567,291,685,317"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a894070c9f84b1291888444552b101336" title="file" alt="" coords="607,139,645,165"/>
+<area shape="rect" id="node4" href="$namespacemyprint.html#adc32278a7a49274959e5dedf767e9a22" title="错误信息打印 " alt="" coords="563,189,689,216"/>
+<area shape="rect" id="node8" href="$namespacemyprint.html#a92ee23b1458a0ebb6162012569c4a125" title="警告信息打印 " alt="" coords="562,240,690,267"/>
+<area shape="rect" id="node9" href="$class_skeleton_reader.html#a98856b16e3386fcadd889b90d776539f" title="解析骨架数据 " alt="" coords="523,430,729,471"/>
+<area shape="rect" id="node5" href="$class_system_out.html#af573feb16cc2747741cc3944297e033d" title="SystemOut::Instance" alt="" coords="825,189,970,216"/>
+<area shape="rect" id="node7" href="$class_system_out.html#a48d6aa7a1ee17a64ef556a75395cd6c7" title="SystemOut::reset" alt="" coords="835,240,960,267"/>
+<area shape="rect" id="node6" href="$class_system_out.html#a7984c23c54e93e0686717e904c9aa54f" title="SystemOut::SystemOut" alt="" coords="1097,5,1259,32"/>
+<area shape="rect" id="node10" href="$class_root_system.html#aa93f510d73c14e7d8a99931775d2e3e7" title="RootSystem::setDownSampling" alt="" coords="794,627,1001,653"/>
+<area shape="rect" id="node11" href="$class_skeleton_reader.html#a454f670cc53aa7fea87bb3456cfba1ad" title="解析结点元素 获取每个根节点的数据 " alt="" coords="805,291,989,333"/>
+<area shape="rect" id="node22" href="$class_root_node.html#a77c18f378777045f5353b6ae05075ac3" title="RootNode::setID" alt="" coords="839,357,956,384"/>
+<area shape="rect" id="node23" href="$class_root_system.html#a588809016c1acaacbb2cf2aaaf550e97" title="RootSystem::addNode 添加根节点到根系统中 如果该根结点已经具有归属的分支 则进一步把节点ID加入到分支 ..." alt="" coords="821,408,974,435"/>
+<area shape="rect" id="node24" href="$class_skeleton_reader.html#a94cf172c2748257345731ad8424b61d7" title="解析根分支 获取根分支元素 " alt="" coords="800,459,995,501"/>
+<area shape="rect" id="node25" href="$class_root_branch.html#a29290d925465722f6e2a1dcb61a9625a" title="RootBranch::setBranchID" alt="" coords="813,525,982,552"/>
+<area shape="rect" id="node26" href="$class_root_system.html#abf23a84a41e5038029f40f405b90ef06" title="RootSystem::addBranch" alt="" coords="815,576,979,603"/>
+<area shape="rect" id="node12" href="$class_skeleton_reader.html#ab25bd1f51ea65da32302e233a72378f7" title="获取结点类型 " alt="" coords="1086,409,1270,450"/>
+<area shape="rect" id="node13" href="$class_root_node.html#ab2d831a302d99a7c47270386085e409c" title="RootNode::setNodeType" alt="" coords="1097,475,1259,501"/>
+<area shape="rect" id="node14" href="$class_skeleton_reader.html#a6cdbd3253cbfffdba9c2d75d51b5744d" title="获取结点质心 " alt="" coords="1082,526,1274,567"/>
+<area shape="rect" id="node15" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="1101,592,1255,619"/>
+<area shape="rect" id="node16" href="$class_skeleton_reader.html#ad910f28328a5a09457f62d08c0b9b4eb" title="获取结点法向量 " alt="" coords="1081,57,1275,98"/>
+<area shape="rect" id="node17" href="$class_root_node.html#a481435cab57ed57cbfce47779c57d56a" title="RootNode::setNormal" alt="" coords="1105,123,1251,149"/>
+<area shape="rect" id="node18" href="$class_skeleton_reader.html#afefaf977e1a40692f004ea0d0a8a44bd" title="获取结点分支号 " alt="" coords="1081,174,1275,215"/>
+<area shape="rect" id="node19" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="1099,240,1257,267"/>
+<area shape="rect" id="node20" href="$class_skeleton_reader.html#a428b9d524245fd3d251595515070975d" title="获取结点所在截面的圆率信息 " alt="" coords="1069,291,1287,333"/>
+<area shape="rect" id="node21" href="$class_root_node.html#a15dc347ec7f275e7e3827d7949f87124" title="RootNode::setRoundness" alt="" coords="1093,357,1263,384"/>
+<area shape="rect" id="node28" href="$class_graph3_d_view.html#adf4c3e2eaabfa548ac35b7cc17fb0190" title="删除矢量模型 " alt="" coords="535,1069,717,1110"/>
+<area shape="rect" id="node29" href="$class_graph3_d_view.html#aceb2477c20247b71238499de377856d3" title="Graph3DView::SlotsetRootInfo" alt="" coords="799,1032,996,1059"/>
+<area shape="rect" id="node32" href="$class_root_vector_model.html#af121a104c93cb5ebef4567fde0e4ecd3" title="RootVectorModel::New" alt="" coords="549,1235,703,1261"/>
+<area shape="rect" id="node33" href="$class_root_vector_model.html#a68497f4e98cae8c3d4d4d4a512d99405" title="RootVectorModel::showSkeletion 显示骨架线条 " alt="" coords="519,836,733,863"/>
+<area shape="rect" id="node41" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="534,1184,718,1211"/>
+<area shape="rect" id="node47" href="$class_root_vector_model.html#a9e91dce1e554d7b2d837c7a5765c5f0b" title="RootVectorModel::getActor 获取矢量模型 " alt="" coords="537,900,715,927"/>
+<area shape="rect" id="node48" href="$class_root_vector_model.html#a7a124f2cbc160c699067673f416312a2" title="RootVectorModel::getCore\lNodeActor" alt="" coords="539,951,713,993"/>
+<area shape="rect" id="node30" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="795,1083,999,1109"/>
+<area shape="rect" id="node31" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="1104,1285,1252,1312"/>
+<area shape="rect" id="node34" href="$class_root_system.html#a69f98aa7c6e94b549378ef1b3fdd889e" title="RootSystem::isEmpty" alt="" coords="822,981,973,1008"/>
+<area shape="rect" id="node35" href="$class_root_vector_model.html#a54d4222c5894ad1a4073b46778254b4c" title="RootVectorModel::getRootInfo 获取根系统信息 " alt="" coords="800,677,995,704"/>
+<area shape="rect" id="node36" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="1061,728,1295,755"/>
+<area shape="rect" id="node37" href="$class_root_system.html#a9738f05089c5cac80d5c4810323c1e9e" title="返回所有的根分支 " alt="" coords="810,728,985,755"/>
+<area shape="rect" id="node38" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="816,829,979,856"/>
+<area shape="rect" id="node39" href="$class_math_tool.html#a3d1f14cd60fea2ecafaf8ee1b3b20f3f" title="生成伪随机数 " alt="" coords="832,880,963,907"/>
+<area shape="rect" id="node40" href="$class_root_system.html#a79739964eaf6f95dfdf04cbe18a18d49" title="返回所有的根结点 " alt="" coords="819,931,976,957"/>
+<area shape="rect" id="node42" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="806,1336,989,1363"/>
+<area shape="rect" id="node43" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="798,1387,997,1413"/>
+<area shape="rect" id="node44" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="784,1133,1011,1160"/>
+<area shape="rect" id="node45" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="781,1184,1013,1211"/>
+<area shape="rect" id="node46" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="802,1235,993,1261"/>
+</map>

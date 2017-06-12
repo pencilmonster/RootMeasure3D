@@ -1,0 +1,9 @@
+<map id="myprint::sys_log" name="myprint::sys_log">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="180,5,379,32"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a4bbcd0da403164e72c90bd540b6bca31" title="读取VRML格式三维模型文件 " alt="" coords="172,56,387,83"/>
+<area shape="rect" id="node4" href="$class_image_reader.html#a0ab25ac193dbccdbaf386c6062bb43fa" title="ImageReader::setFileName 设置图片地址 " alt="" coords="190,107,369,133"/>
+<area shape="rect" id="node5" href="$class_image_reader.html#a184f25bd6aa1d61b59e3cc78c0f543db" title="ImageReader::SlotreadImageFile 公有槽函数，捕获 sendImageFileName(filename)信号 并完成图像的读取re任�..." alt="" coords="435,107,645,133"/>
+<area shape="rect" id="node6" href="$class_main_window.html#aa3e361becbb0526c782482eb2c983dec" title="MainWindow::SlotopenRecentFile" alt="" coords="693,107,911,133"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="959,107,1143,133"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1191,107,1369,133"/>
+</map>

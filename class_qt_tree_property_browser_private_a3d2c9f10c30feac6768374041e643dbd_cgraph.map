@@ -1,0 +1,19 @@
+<map id="QtTreePropertyBrowserPrivate::createEditor" name="QtTreePropertyBrowserPrivate::createEditor">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#ae138c214f5f5638c6750e357cd83c5c7" title="Creates an editing widget (with the given parent) for the given property according to the previously ..." alt="" coords="257,5,438,47"/>
+<area shape="rect" id="node4" href="$class_qt_tree_property_browser_private.html#a26f2cc57e9735493ae0d6f9c1128a7f0" title="QtTreePropertyBrowserPrivate\l::indexToProperty" alt="" coords="249,501,445,543"/>
+<area shape="rect" id="node7" href="$class_qt_tree_property_browser_private.html#a61458368faf2ab0d427ab3994d02232e" title="QtTreePropertyBrowserPrivate\l::indexToItem" alt="" coords="493,188,689,229"/>
+<area shape="rect" id="node8" href="$class_qt_tree_property_browser_private.html#ac4294ab01e109e43978ef8fcee34f4c3" title="QtTreePropertyBrowserPrivate\l::indexToBrowserItem" alt="" coords="493,96,689,137"/>
+<area shape="rect" id="node9" href="$class_qt_tree_property_browser_private.html#aac9175e0f3d24b058119e1812dc94297" title="QtTreePropertyBrowserPrivate\l::lastColumn" alt="" coords="249,253,445,295"/>
+<area shape="rect" id="node10" href="$class_qt_tree_property_browser_private.html#ae1a2f0fc059534f748442de0f14f03aa" title="QtTreePropertyBrowserPrivate\l::disableItem" alt="" coords="249,567,445,608"/>
+<area shape="rect" id="node12" href="$class_qt_tree_property_browser_private.html#a08004933fdb1e9b0fa825fa756725e2a" title="QtTreePropertyBrowserPrivate\l::enableItem" alt="" coords="249,371,445,412"/>
+<area shape="rect" id="node13" href="$class_qt_tree_property_browser_private.html#a38eb56adf4e3bf26bec7c220b2b25221" title="QtTreePropertyBrowserPrivate\l::hasValue" alt="" coords="249,436,445,477"/>
+<area shape="rect" id="node15" href="$class_qt_tree_property_browser_private.html#abb5661ef7a292bcd4830eb007d265dc5" title="QtTreePropertyBrowserPrivate\l::slotCollapsed" alt="" coords="249,123,445,164"/>
+<area shape="rect" id="node16" href="$class_qt_tree_property_browser_private.html#ae0572b7cee5c40d3695ff0b377489a1a" title="QtTreePropertyBrowserPrivate\l::slotExpanded" alt="" coords="249,188,445,229"/>
+<area shape="rect" id="node17" href="$class_qt_tree_property_browser_private.html#a16d54428e4ad29967d73258412fb6503" title="QtTreePropertyBrowserPrivate\l::calculatedBackgroundColor" alt="" coords="249,632,445,673"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html#aecea70732c941a1d992a61179389e9a2" title="Creates an editing widget (with the given parent) for the given property. " alt="" coords="495,5,688,47"/>
+<area shape="rect" id="node5" href="$class_qt_property_editor_view.html#aa615328040c9a1aa2f5c9dca17771bd8" title="QtPropertyEditorView\l::indexToItem" alt="" coords="737,188,884,229"/>
+<area shape="rect" id="node6" href="$class_qt_browser_item.html#a2c4edfa9e76dfaefc5866f2e3e9d48f4" title="Returns the property which is accosiated with this item. " alt="" coords="510,458,673,485"/>
+<area shape="rect" id="node11" href="$class_qt_property_editor_delegate.html#a141316aa404f6db56d52abeff9e6fbdb" title="QtPropertyEditorDelegate\l::closeEditor" alt="" coords="506,567,677,608"/>
+<area shape="rect" id="node14" href="$class_qt_property.html#a80fd0816efcaaa8698ea7dbed95a230d" title="Returns whether the property has a value. " alt="" coords="518,407,665,434"/>
+<area shape="rect" id="node18" href="$class_qt_browser_item.html#afed8197ad887301642017d7b61c185b7" title="Returns the parent item of this item. " alt="" coords="515,639,667,666"/>
+</map>

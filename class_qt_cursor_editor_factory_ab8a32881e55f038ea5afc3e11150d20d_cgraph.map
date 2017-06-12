@@ -1,0 +1,13 @@
+<map id="QtCursorEditorFactory::createEditor" name="QtCursorEditorFactory::createEditor">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html#abc5b894d6b9ba0441edebe561ca9f2f3" title="Creates a property with the given name which then is owned by this manager. " alt="" coords="210,44,394,85"/>
+<area shape="rect" id="node5" href="$class_qt_property.html#a4a99f1d7379bcc1ed0736d8b414a3040" title="Returns the property&#39;s name. " alt="" coords="215,110,389,137"/>
+<area shape="rect" id="node6" href="$class_qt_enum_property_manager.html#a6cdbee64ff4e2174e68e8a52acfd6a49" title="Sets the given property&#39;s list of enum names to enumNames. " alt="" coords="217,161,387,203"/>
+<area shape="rect" id="node8" href="$class_qt_enum_property_manager.html#a14a47ec5109c7a333cb83971aeb8f835" title="Sets the given property&#39;s map of enum values to their icons to enumIcons. " alt="" coords="217,227,387,268"/>
+<area shape="rect" id="node10" href="$class_qt_enum_property_manager.html#a2687a8ff63fdfe89290f330aa9f71ccb" title="Sets the value of the given property to value. " alt="" coords="217,292,387,333"/>
+<area shape="rect" id="node11" href="$class_qt_cursor_property_manager.html#aaf636f967fbf2cc8f9b9fa17e0369b6a" title="Returns the given property&#39;s value. " alt="" coords="215,357,389,399"/>
+<area shape="rect" id="node12" href="$class_qt_abstract_editor_factory_base.html#aecea70732c941a1d992a61179389e9a2" title="Creates an editing widget (with the given parent) for the given property. " alt="" coords="205,423,399,464"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_manager.html#ac7db11b00fc5384f9fc10eb8f02e3637" title="Creates a property. " alt="" coords="447,5,631,47"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager.html#ab7501ecabc5285cb50d7ed91a2ef44fc" title="This function is called whenever a new valid property pointer has been created, passing the pointer a..." alt="" coords="447,71,631,112"/>
+<area shape="rect" id="node7" href="$class_qt_enum_property_manager.html#a5232490499e582da590e6290b1da0441" title="Returns the given property&#39;s list of enum names. " alt="" coords="454,161,623,203"/>
+<area shape="rect" id="node9" href="$class_qt_enum_property_manager.html#a42526b0c4fa84cc14b3b5f146415f030" title="Returns the given property&#39;s map of enum values to their icons. " alt="" coords="454,227,623,268"/>
+</map>

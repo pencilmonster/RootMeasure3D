@@ -1,0 +1,8 @@
+<map id="RootSkeletionBuilder::SlotstopReslice" name="RootSkeletionBuilder::SlotstopReslice">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#af5bfb39046c5ac152e32a508f4b60078" title="RootSkeletionBuilder::recoverReslicerStatus 恢复自动重切之前的重切器状态 " alt="" coords="196,86,352,127"/>
+<area shape="rect" id="node3" href="$class_reslicer.html#ab2196ad834fbf9140db569a540f79e5f" title="Reslicer::connectvtkEvent\lQtslot" alt="" coords="400,57,571,98"/>
+<area shape="rect" id="node7" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="418,123,553,149"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#aefdfcc406c460532b55dfe86b9e8ef30" title="Reslicer::SlotsendReslicerInfo" alt="" coords="619,5,813,32"/>
+<area shape="rect" id="node5" href="$class_reslicer.html#a2e14e34d61d2d9ec5baf4e3149772385" title="Reslicer::SlotgetReslice\lOutput" alt="" coords="635,57,797,98"/>
+<area shape="rect" id="node6" href="$class_reslicer.html#a0e83f29d38a528761872e49c93d63a03" title="Reslicer::SlotprocessSlice" alt="" coords="629,123,803,149"/>
+</map>

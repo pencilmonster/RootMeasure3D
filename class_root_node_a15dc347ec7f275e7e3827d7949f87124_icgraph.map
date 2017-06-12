@@ -1,0 +1,13 @@
+<map id="RootNode::setRoundness" name="RootNode::setRoundness">
+<area shape="rect" id="node2" href="$class_skeleton_reader.html#a454f670cc53aa7fea87bb3456cfba1ad" title="解析结点元素 获取每个根节点的数据 " alt="" coords="224,5,408,47"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#a6ed9fcab586ebedab2fbe9dcd41b7ab1" title="创建根结点 并设置其属性值 " alt="" coords="245,71,387,112"/>
+<area shape="rect" id="node3" href="$class_skeleton_reader.html#a98856b16e3386fcadd889b90d776539f" title="解析骨架数据 " alt="" coords="456,5,661,47"/>
+<area shape="rect" id="node4" href="$class_skeleton_reader.html#af0e899c61edbdbf0c054534d226bd983" title="SkeletonReader::setFileName 设置文件名 " alt="" coords="709,13,904,39"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="952,13,1151,39"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="487,71,630,112"/>
+<area shape="rect" id="node8" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="735,71,878,112"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="952,71,1151,112"/>
+<area shape="rect" id="node10" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1199,71,1381,112"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1429,78,1613,105"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1661,78,1840,105"/>
+</map>

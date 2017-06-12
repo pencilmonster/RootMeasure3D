@@ -1,0 +1,8 @@
+<map id="QtSliderFactory::createEditor" name="QtSliderFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a6a7b719f5e7705769063d0db2e47559d" title="EditorFactoryPrivate\l::initializeEditor" alt="" coords="256,5,395,47"/>
+<area shape="rect" id="node3" href="$class_qt_int_property_manager.html#a3c4c037b9dd5b8cca6cbb0b8d05da60f" title="Returns the given property&#39;s step value. " alt="" coords="251,71,400,112"/>
+<area shape="rect" id="node4" href="$class_qt_int_property_manager.html#a43e4d3860036e0895e79041e93d633f1" title="Returns the given property&#39;s minimum value. " alt="" coords="251,136,400,177"/>
+<area shape="rect" id="node5" href="$class_qt_int_property_manager.html#ac3367f7005ec52b19e8cfc64e82b0cce" title="Returns the given property&#39;s maximum value. " alt="" coords="251,201,400,243"/>
+<area shape="rect" id="node6" href="$class_qt_int_property_manager.html#a8aa042ad88ed2682302d45ecc76ba2c4" title="Returns the given property&#39;s value. " alt="" coords="251,267,400,308"/>
+<area shape="rect" id="node7" href="$class_qt_slider_factory.html#a7a61de16ff68f0cc65ef946507078116" title="QtSliderFactory::slotSet\lValue" alt="" coords="244,332,407,373"/>
+</map>

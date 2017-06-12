@@ -1,0 +1,5 @@
+<map id="QtDoublePropertyManager::value" name="QtDoublePropertyManager::value">
+<area shape="rect" id="node2" href="$class_qt_double_spin_box_factory_private.html#ad690ad5a7aa1d4a73e79b9c76a078c0c" title="QtDoubleSpinBoxFactoryPrivate\l::slotRangeChanged" alt="" coords="228,5,436,47"/>
+<area shape="rect" id="node3" href="$class_qt_double_spin_box_factory_private.html#ad445d3f60295b368aefc6364e909438b" title="QtDoubleSpinBoxFactoryPrivate\l::slotDecimalsChanged" alt="" coords="228,71,436,112"/>
+<area shape="rect" id="node4" href="$class_qt_double_spin_box_factory.html#af48657781c68d9c85c6695ccd6a4dc20" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="247,136,417,177"/>
+</map>

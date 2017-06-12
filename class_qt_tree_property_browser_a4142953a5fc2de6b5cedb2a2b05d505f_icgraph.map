@@ -1,0 +1,21 @@
+<map id="QtTreePropertyBrowser::setItemVisible" name="QtTreePropertyBrowser::setItemVisible">
+<area shape="rect" id="node2" href="$class_property_view.html#ac7db77c0e113ed65b6c91206bc9c0fc8" title="PropertyView::setGroupItemVisible 设置属性项的可见性 " alt="" coords="211,488,396,529"/>
+<area shape="rect" id="node3" href="$class_property_view.html#a3bf411cae2eff28c8bc026b5460eda79" title="PropertyView::createImageInfoProperty 创建二维图像组分 具体属性内容如下: . " alt="" coords="467,5,646,47"/>
+<area shape="rect" id="node5" href="$class_property_view.html#a896b97e6129076570057400d3097ee4f" title="PropertyView::SlotsetImageInfo 槽函数 设置二维图像组分的属性值 " alt="" coords="455,71,658,98"/>
+<area shape="rect" id="node6" href="$class_property_view.html#afc971bfc13e796a0d0d58c9827ea3b12" title="PropertyView::createGraph3DInfoProperty 创建三维图形分组 具体属性内容如下 . " alt="" coords="464,123,649,164"/>
+<area shape="rect" id="node7" href="$class_property_view.html#a52f515b79bb13ff56f76b3b09bbee5d8" title="PropertyView::SlotsetGraph3DInfo 槽函数 设置三维图形组分各个属性值 " alt="" coords="461,188,652,229"/>
+<area shape="rect" id="node8" href="$class_property_view.html#a709a3c79ed85620d70616a563195a705" title="PropertyView::createRegionInfoProperty 创建连通区域分析信息组分 具体属性内容如下: ..." alt="" coords="465,253,648,295"/>
+<area shape="rect" id="node9" href="$class_property_view.html#afb4cb121259c845476889ebfc31ac7a0" title="PropertyView::SlotsetRegionInfo 槽函数 设置区域信息各个属性值 " alt="" coords="453,319,661,346"/>
+<area shape="rect" id="node10" href="$class_property_view.html#aca0b947582e36766ee7ef0dab2685ca0" title="PropertyView::createReslicerInfoProperty 创建重切器组分 具体属性内容如下: . " alt="" coords="461,371,652,412"/>
+<area shape="rect" id="node11" href="$class_property_view.html#a46d1e1b70b6426693299fed73c9d29b0" title="PropertyView::SlotsetReslicerInfo 槽函数 设置重切器的属性值 " alt="" coords="449,437,664,463"/>
+<area shape="rect" id="node12" href="$class_property_view.html#a4e62da95f1fcc0d18f9efbb9d8cac437" title="PropertyView::createRulerInfoProperty 创建刻度尺属性项 具体内容如下： . " alt="" coords="470,488,643,529"/>
+<area shape="rect" id="node13" href="$class_property_view.html#a23601d84f474e3620c64ad8b7373c7b3" title="PropertyView::SlotsetRulerInfo 槽函数 设置刻度尺的属性值 " alt="" coords="457,554,656,581"/>
+<area shape="rect" id="node14" href="$class_property_view.html#aed40194e09ce5d6759aeeed69254586f" title="PropertyView::createProtractorInfoProperty 创建量角器属性项 具体内容如下： . " alt="" coords="457,605,657,647"/>
+<area shape="rect" id="node15" href="$class_property_view.html#a65f8eb0e70fe000df51f2abba56874ef" title="PropertyView::SlotsetProtractorInfo 设置量角器属性值 " alt="" coords="444,671,669,698"/>
+<area shape="rect" id="node16" href="$class_property_view.html#acc0d33391dfb54b41b1913be585b2ddf" title="PropertyView::createBranchInfoProperty 创建根分支属性项 具体内容如下： . " alt="" coords="465,723,649,764"/>
+<area shape="rect" id="node17" href="$class_property_view.html#af36e9c26a38d527628c63d744817bcea" title="PropertyView::SlotsetBranchInfo 设置根分支属性值 " alt="" coords="452,789,661,815"/>
+<area shape="rect" id="node18" href="$class_property_view.html#a42960d6fde6041b778ed309ca2b463fc" title="PropertyView::createRootInfoProperty 创建根分支属性项 具体内容如下： . " alt="" coords="471,840,642,881"/>
+<area shape="rect" id="node19" href="$class_property_view.html#a62be8b0428299b958bc139c737eeb0bb" title="PropertyView::SlotsetRootInfo 设置根属性值 " alt="" coords="459,906,654,933"/>
+<area shape="rect" id="node20" href="$class_property_view.html#af9c2a6a3d3e7d606fc7cc6611211bca1" title="PropertyView::SlotcloseGroup 关闭当前组分（设置组分不可见） " alt="" coords="459,957,655,983"/>
+<area shape="rect" id="node4" href="$class_property_view.html#ac560eb7ba577449aff818072508370df" title="PropertyView::PropertyView" alt="" coords="717,437,901,463"/>
+</map>

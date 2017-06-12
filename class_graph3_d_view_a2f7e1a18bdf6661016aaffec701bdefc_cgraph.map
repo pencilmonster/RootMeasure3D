@@ -1,0 +1,51 @@
+<map id="Graph3DView::SlotcreateReslicer" name="Graph3DView::SlotcreateReslicer">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="268,528,483,555"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a7017fa1b241fd2573e1c9739e183379a" title="获取重切器变化信息，并以信号形式发给属性浏览器 " alt="" coords="531,152,748,179"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#aa0e02f27533fad98354db963ea41245c" title="重切器生成后在启动其右击菜单选项 同时使骨架化参数对话框可用 " alt="" coords="550,287,729,329"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#a36951bb61bd2dd2b2e407bd72b2a6793" title="获取切片的纹理图像信息，发送给图像浏览器 " alt="" coords="540,353,739,380"/>
+<area shape="rect" id="node44" href="$class_reslicer.html#aa9db0448d05b1febea702311c74096f1" title="Reslicer::setInputConnection" alt="" coords="545,637,733,664"/>
+<area shape="rect" id="node45" href="$class_reslicer.html#a235fe73d069a430784c1e09138234d11" title="Reslicer::setCurrentRender" alt="" coords="550,688,729,715"/>
+<area shape="rect" id="node46" href="$class_reslicer.html#a6b91eb3ca41f459a790b036188418c17" title="Reslicer::setInteractor" alt="" coords="565,739,714,765"/>
+<area shape="rect" id="node47" href="$class_reslicer.html#aa86eee314f5976f955def3644fd068de" title="Reslicer::setvtkEventQtslot\lConnect" alt="" coords="286,797,465,838"/>
+<area shape="rect" id="node13" href="$class_reslicer.html#ac3722c0ce2efcf7b25666a5db1500f1e" title="Reslicer::setvtkEventQtslot\lDisconnect" alt="" coords="550,455,729,497"/>
+<area shape="rect" id="node14" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="540,521,739,562"/>
+<area shape="rect" id="node42" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="572,587,707,613"/>
+<area shape="rect" id="node43" href="$class_reslicer.html#ae1f0fe1ae44b44bee4c4a0574ed87760" title="Reslicer::Off" alt="" coords="593,404,686,431"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#acaac1738f9f4b76952528d046dee7396" title="Reslicer::getPlaneWidth" alt="" coords="818,132,981,159"/>
+<area shape="rect" id="node6" href="$class_reslicer.html#a3838f2151e058b0798926f09c2785b0f" title="Reslicer::getPlaneHigh" alt="" coords="822,183,977,209"/>
+<area shape="rect" id="node8" href="$class_reslicer.html#a422e9990d9cb144e7d397430fe4f6401" title="Reslicer::getPlaneCenter" alt="" coords="816,31,983,57"/>
+<area shape="rect" id="node9" href="$class_reslicer.html#a8d9bd362e5ff8b98b666f30c7dae9111" title="Reslicer::getPlaneOrientation" alt="" coords="804,81,995,108"/>
+<area shape="rect" id="node5" href="$class_image_plane_widget.html#a77b99c0f90830a150187177dd852e3c1" title="ImagePlaneWidget::GetWidth" alt="" coords="1061,132,1255,159"/>
+<area shape="rect" id="node7" href="$class_image_plane_widget.html#ae638d9a088cea71b32d247a4e66322a9" title="ImagePlaneWidget::GetHigh" alt="" coords="1065,183,1251,209"/>
+<area shape="rect" id="node10" href="$class_reslicer.html#ad400f5eb77812214cf74941f5a4a9812" title="Reslicer::getPlaneNormal" alt="" coords="1073,81,1243,108"/>
+<area shape="rect" id="node15" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="796,562,1003,603"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="1636,639,1784,665"/>
+<area shape="rect" id="node16" href="$class_graph3_d_view.html#adf4c3e2eaabfa548ac35b7cc17fb0190" title="删除矢量模型 " alt="" coords="1067,638,1249,679"/>
+<area shape="rect" id="node17" href="$class_graph3_d_view.html#aceb2477c20247b71238499de377856d3" title="Graph3DView::SlotsetRootInfo" alt="" coords="1331,715,1528,741"/>
+<area shape="rect" id="node20" href="$class_root_vector_model.html#af121a104c93cb5ebef4567fde0e4ecd3" title="RootVectorModel::New" alt="" coords="1081,755,1235,781"/>
+<area shape="rect" id="node21" href="$class_root_vector_model.html#a68497f4e98cae8c3d4d4d4a512d99405" title="RootVectorModel::showSkeletion 显示骨架线条 " alt="" coords="1051,233,1265,260"/>
+<area shape="rect" id="node33" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="1066,471,1250,497"/>
+<area shape="rect" id="node40" href="$class_root_vector_model.html#a9e91dce1e554d7b2d837c7a5765c5f0b" title="RootVectorModel::getActor 获取矢量模型 " alt="" coords="1069,521,1247,548"/>
+<area shape="rect" id="node41" href="$class_root_vector_model.html#a7a124f2cbc160c699067673f416312a2" title="RootVectorModel::getCore\lNodeActor" alt="" coords="1071,573,1245,614"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="1327,664,1531,691"/>
+<area shape="rect" id="node22" href="$class_root_system.html#a69f98aa7c6e94b549378ef1b3fdd889e" title="RootSystem::isEmpty" alt="" coords="1354,107,1505,133"/>
+<area shape="rect" id="node23" href="$class_root_vector_model.html#a54d4222c5894ad1a4073b46778254b4c" title="RootVectorModel::getRootInfo 获取根系统信息 " alt="" coords="1332,208,1527,235"/>
+<area shape="rect" id="node24" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="1593,107,1827,133"/>
+<area shape="rect" id="node28" href="$class_root_system.html#a9738f05089c5cac80d5c4810323c1e9e" title="返回所有的根分支 " alt="" coords="1342,259,1517,285"/>
+<area shape="rect" id="node29" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="1348,309,1511,336"/>
+<area shape="rect" id="node31" href="$class_math_tool.html#a3d1f14cd60fea2ecafaf8ee1b3b20f3f" title="生成伪随机数 " alt="" coords="1364,5,1495,32"/>
+<area shape="rect" id="node32" href="$class_root_system.html#a79739964eaf6f95dfdf04cbe18a18d49" title="返回所有的根结点 " alt="" coords="1351,56,1508,83"/>
+<area shape="rect" id="node25" href="$class_root_system.html#a6888118e49689bc1d316b044bcc3b203" title="RootSystem::getTotalLength 返回总长度 " alt="" coords="1617,208,1803,235"/>
+<area shape="rect" id="node26" href="$class_root_system.html#a8a66daf646485d9a1dc6d5edf02104e7" title="RootSystem::getTotalVolume 返回总体积 " alt="" coords="1614,259,1806,285"/>
+<area shape="rect" id="node27" href="$class_root_system.html#a052429f84708c74148066cf12e36caf7" title="RootSystem::getTotalSurfaceArea 返回总表面积 " alt="" coords="1601,157,1819,184"/>
+<area shape="rect" id="node30" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="1619,309,1801,336"/>
+<area shape="rect" id="node34" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="1338,613,1521,640"/>
+<area shape="rect" id="node35" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="1330,360,1529,387"/>
+<area shape="rect" id="node37" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="1316,411,1543,437"/>
+<area shape="rect" id="node38" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="1313,461,1545,488"/>
+<area shape="rect" id="node39" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="1334,512,1525,539"/>
+<area shape="rect" id="node36" href="$class_graph3_d_view.html#ab9ed1c6eae18aac266da353a1450c99d" title="Graph3DView::SlotPopUp" alt="" coords="1625,360,1795,387"/>
+<area shape="rect" id="node48" href="$class_reslicer.html#aefdfcc406c460532b55dfe86b9e8ef30" title="Reslicer::SlotsendReslicerInfo" alt="" coords="542,840,737,867"/>
+<area shape="rect" id="node49" href="$class_reslicer.html#a2e14e34d61d2d9ec5baf4e3149772385" title="Reslicer::SlotgetReslice\lOutput" alt="" coords="559,891,720,933"/>
+<area shape="rect" id="node50" href="$class_reslicer.html#a0e83f29d38a528761872e49c93d63a03" title="Reslicer::SlotprocessSlice" alt="" coords="552,789,727,816"/>
+</map>

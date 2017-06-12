@@ -1,0 +1,8 @@
+<map id="QtFontEditorFactory::createEditor" name="QtFontEditorFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a3d2c242fdc7182d8c37b0bad1544fe8b" title="EditorFactoryPrivate\l::createEditor" alt="" coords="217,5,355,47"/>
+<area shape="rect" id="node3" href="$class_qt_font_edit_widget.html#adf26e624914d35b6eadaa9f62d8f68a4" title="QtFontEditWidget::setValue" alt="" coords="193,71,379,98"/>
+<area shape="rect" id="node6" href="$class_qt_font_property_manager.html#a0b522a984fe7138cdebb28205c0c4efc" title="Returns the given property&#39;s value. " alt="" coords="205,123,367,164"/>
+<area shape="rect" id="node7" href="$class_qt_font_editor_factory.html#ae074aee40728d96bb670a25f23cfb744" title="QtFontEditorFactory\l::slotEditorDestroyed" alt="" coords="214,188,358,229"/>
+<area shape="rect" id="node4" href="$class_qt_property_browser_utils.html#a78bd9bf14351c7bf19368bc4c4fc0ff5" title="QtPropertyBrowserUtils\l::fontValuePixmap" alt="" coords="427,32,585,73"/>
+<area shape="rect" id="node5" href="$class_qt_property_browser_utils.html#ad6bfb4aaee30b9580b495364861287d5" title="QtPropertyBrowserUtils\l::fontValueText" alt="" coords="427,97,585,139"/>
+</map>

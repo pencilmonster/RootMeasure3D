@@ -1,0 +1,5 @@
+<map id="VectorModelPicker::sendBranchInfo" name="VectorModelPicker::sendBranchInfo">
+<area shape="rect" id="node2" href="$class_vector_model_picker.html#a6bf43ce56267638a012f4dca8037f8db" title="VectorModelPicker::getBranchInfo 获取当前拾取分支的信息 " alt="" coords="193,5,333,47"/>
+<area shape="rect" id="node3" href="$class_vector_model_picker.html#acdb7439d6b7eb23c06cc4105e5bfac97" title="VectorModelPicker::SlotsetPosition 根据拾取的坐标设置拾取器的位置 " alt="" coords="381,5,521,47"/>
+<area shape="rect" id="node4" href="$class_vector_model_picker.html#a7531a7b19308990d7f4ef21ea4b942f5" title="VectorModelPicker::\lVectorModelPicker" alt="" coords="569,5,709,47"/>
+</map>

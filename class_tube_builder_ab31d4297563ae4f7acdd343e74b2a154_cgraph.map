@@ -1,0 +1,13 @@
+<map id="TubeBuilder::setTubeData" name="TubeBuilder::setTubeData">
+<area shape="rect" id="node2" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="248,5,423,32"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="262,56,409,83"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="224,107,447,149"/>
+<area shape="rect" id="node6" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="254,173,417,200"/>
+<area shape="rect" id="node8" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="233,224,437,251"/>
+<area shape="rect" id="node9" href="$class_root_node.html#a83c8f810451dde7f3f65d306c53c3edb" title="RootNode::getRadius" alt="" coords="263,275,408,301"/>
+<area shape="rect" id="node10" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="277,325,394,352"/>
+<area shape="rect" id="node11" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="259,376,412,403"/>
+<area shape="rect" id="node12" href="$class_root_branch.html#a14c8a4a2e30753140c3c2a016c6966c7" title="返回给定结点Id在根分支的位置，不存在则返回&#45;1 " alt="" coords="238,427,433,469"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="495,5,687,32"/>
+<area shape="rect" id="node7" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="500,173,681,200"/>
+</map>

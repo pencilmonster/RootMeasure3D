@@ -1,0 +1,51 @@
+<map id="vtkReconstruct::getReconstructType" name="vtkReconstruct::getReconstructType">
+<area shape="rect" id="node2" href="$classvtk_reconstruct.html#a3dd63f7e3d8304bbc03c4fa23b8d85c8" title="vtkReconstruct::setVisibility" alt="" coords="311,119,494,146"/>
+<area shape="rect" id="node4" href="$classvtk_reconstruct.html#a25b418505f580ab32dfecb163624ff65" title="vtkReconstruct::setReaderParm 读取数据时候所需要设置的参数 " alt="" coords="299,737,506,763"/>
+<area shape="rect" id="node5" href="$classvtk_reconstruct.html#a6e4808ab6a54bb53d6b015336363c193" title="vtkReconstruct::createImage\lReader" alt="" coords="593,565,779,607"/>
+<area shape="rect" id="node11" href="$classvtk_reconstruct.html#a92ebcff3d1dc26db08c3d128f40841ed" title="vtkReconstruct::setReconstructParm 三维重建所需要的参数 " alt="" coords="285,1010,520,1037"/>
+<area shape="rect" id="node12" href="$classvtk_reconstruct.html#a9d4a1fedda16d9d50aed6181bef41538" title="vtkReconstruct::createReconstruct\lMethod" alt="" coords="575,892,797,933"/>
+<area shape="rect" id="node16" href="$classvtk_reconstruct.html#ab31525dcfda65423ed5793969ccdf681" title="vtkReconstruct::setFilterParm 三位滤波器的参数 这里包括膨胀腐蚀滤波器、开闭运算滤波器、中值滤波器 ..." alt="" coords="305,1438,500,1465"/>
+<area shape="rect" id="node17" href="$classvtk_reconstruct.html#adecde671ec2de9f190d657838a2b1c8f" title="vtkReconstruct::createFilter3D 负责管控滤波器 " alt="" coords="587,1089,785,1115"/>
+<area shape="rect" id="node33" href="$classvtk_reconstruct.html#aabd36e41ececd95d9436fdf69aa36b96" title="vtkReconstruct::startTask 开始重建任务 " alt="" coords="317,1921,488,1947"/>
+<area shape="rect" id="node34" href="$classvtk_reconstruct.html#abe456ddab09b0cfbdfe9d069e3074568" title="vtkReconstruct::showProgress\lDialog" alt="" coords="587,1905,785,1947"/>
+<area shape="rect" id="node35" href="$classvtk_reconstruct.html#a8c46dfbb792a9df8375e4e9e72406f7b" title="vtkReconstruct::Slotcancel\lReconstruct" alt="" coords="873,1849,1050,1891"/>
+<area shape="rect" id="node39" href="$classvtk_reconstruct.html#a32f75b26e20fe5a69d5d85640395cc2b" title="vtkReconstruct::Slotcolse\lProgressDialog" alt="" coords="1119,1963,1289,2004"/>
+<area shape="rect" id="node40" href="$classvtk_reconstruct.html#ac08e46cf1f6ab030ec9bc9d52210e115" title="vtkReconstruct::vtkReconstruct" alt="" coords="301,2026,504,2053"/>
+<area shape="rect" id="node42" href="$classvtk_reconstruct.html#ac865a204ef70095f9e0c2d53ca6764e9" title="vtkReconstruct::run 起一个线程 调用该函数之前确保各个滤波器存在且其参数已经设置完毕 ..." alt="" coords="335,307,470,334"/>
+<area shape="rect" id="node3" href="$classvtk_base_reconstruction.html#ab6c6336d6ce9bbef07484573e30c9958" title="vtkBaseReconstruction\l::GetProp" alt="" coords="609,5,763,47"/>
+<area shape="rect" id="node7" href="$classvtk_image_series_reader.html#a315d2c1d9898cc7858d39b831cb12172" title="vtkImageSeriesReader\l::SetDataExtent" alt="" coords="611,631,761,672"/>
+<area shape="rect" id="node8" href="$classvtk_image_series_reader.html#a262782d9ec20a037030820e9574b0337" title="vtkImageSeriesReader\l::SetDataOrigin" alt="" coords="611,696,761,737"/>
+<area shape="rect" id="node9" href="$classvtk_image_series_reader.html#ad140e707b9a90417e165d0fbac4de875" title="vtkImageSeriesReader\l::SetDataSpacing" alt="" coords="611,761,761,803"/>
+<area shape="rect" id="node10" href="$classvtk_image_series_reader.html#a8eb51047884067733b5cf818b687fffb" title="vtkImageSeriesReader\l::SetFileNames" alt="" coords="611,827,761,868"/>
+<area shape="rect" id="node6" href="$classvtk_image_series_reader.html#a777d950d0a56aa262edac0229a244db6" title="vtkImageSeriesReader\l::AddObserver" alt="" coords="886,565,1037,607"/>
+<area shape="rect" id="node14" href="$classvtk_base_reconstruction.html#a88dfc3be676100443bbb08fde759ce49" title="vtkBaseReconstruction\l::SetValue" alt="" coords="609,957,763,999"/>
+<area shape="rect" id="node15" href="$classvtk_base_reconstruction.html#a87912b2b90c637ec7a9515a9bf466b45" title="vtkBaseReconstruction\l::SetHoleSize" alt="" coords="609,1023,763,1064"/>
+<area shape="rect" id="node13" href="$classvtk_base_reconstruction.html#afa8d1a2028a301c6b401ea40e2d91051" title="vtkBaseReconstruction\l::AddObserver" alt="" coords="884,892,1039,933"/>
+<area shape="rect" id="node21" href="$class_image_dilate_erode3_d.html#aad4e8bfa6af59014881b5b4cfeeae806" title="ImageDilateErode3D\l::SetEnable" alt="" coords="616,1140,756,1181"/>
+<area shape="rect" id="node22" href="$class_image_dilate_erode3_d.html#aafd9a6a22eaf737b647ca0c4a9bea192" title="ImageDilateErode3D\l::SetProcessValue" alt="" coords="616,1205,756,1247"/>
+<area shape="rect" id="node23" href="$class_image_dilate_erode3_d.html#a8943746362944106412842cc97192fdf" title="ImageDilateErode3D\l::SetOperate" alt="" coords="616,1271,756,1312"/>
+<area shape="rect" id="node24" href="$class_image_dilate_erode3_d.html#a733e14b9c13d4904e9c5083441650656" title="ImageDilateErode3D\l::SetKernelSize" alt="" coords="616,1336,756,1377"/>
+<area shape="rect" id="node25" href="$class_image_dilate_erode3_d.html#a61f19247d6d1fe2933b951a3de04429c" title="ImageDilateErode3D\l::ReleaseDataFlagOff" alt="" coords="613,1401,759,1443"/>
+<area shape="rect" id="node26" href="$class_image_open_close3_d.html#a455f2058ed06580d3005ef409c610ba8" title="ImageOpenClose3D::SetEnable" alt="" coords="583,1467,789,1494"/>
+<area shape="rect" id="node27" href="$class_image_open_close3_d.html#a8e10da48040411cd91dfc7cc39fedf10" title="ImageOpenClose3D::SetProcess\lValue" alt="" coords="579,1519,793,1560"/>
+<area shape="rect" id="node28" href="$class_image_open_close3_d.html#a9952e2c4cadcd22b9c3d135d59006dcc" title="ImageOpenClose3D::SetOperate" alt="" coords="581,1585,791,1611"/>
+<area shape="rect" id="node29" href="$class_image_open_close3_d.html#ab92f001cc79842e5b44baa336a3eb492" title="ImageOpenClose3D::SetKernelSize" alt="" coords="572,1635,800,1662"/>
+<area shape="rect" id="node30" href="$class_image_open_close3_d.html#a4a5117393566ba121e0dfd9f09e3a1fc" title="ImageOpenClose3D::Release\lDataFlagOff" alt="" coords="590,1687,782,1728"/>
+<area shape="rect" id="node31" href="$class_image_median3_d.html#a77c6ea3ca2b7bf75711ad79e9fc9b02c" title="ImageMedian3D::SetEnable" alt="" coords="595,1753,777,1779"/>
+<area shape="rect" id="node32" href="$class_image_median3_d.html#aff16f2dfced46eb56699c309649f9563" title="ImageMedian3D::SetKernelSize" alt="" coords="583,1803,789,1830"/>
+<area shape="rect" id="node18" href="$class_image_dilate_erode3_d.html#a8c4f87b02626e04d35d36fef020b9831" title="ImageDilateErode3D\l::AddObserver" alt="" coords="891,1023,1031,1064"/>
+<area shape="rect" id="node19" href="$class_image_open_close3_d.html#a03c4b00c84b36dcf30a240ca91d1a24c" title="ImageOpenClose3D::AddObserver" alt="" coords="852,1089,1071,1115"/>
+<area shape="rect" id="node20" href="$class_image_median3_d.html#ad6e824bd8540932f2635f15c04b7f29a" title="ImageMedian3D::AddObserver" alt="" coords="863,1139,1060,1166"/>
+<area shape="rect" id="node36" href="$classvtk_base_reconstruction.html#aa24fa2655c516bc82b93423f84c4b82a" title="vtkBaseReconstruction\l::Stop" alt="" coords="1127,1780,1281,1821"/>
+<area shape="rect" id="node37" href="$classvtk_progress_command.html#a84a4ba99a3c651d5bb87201f957e08d6" title="vtkProgressCommand\l::setCancelState" alt="" coords="1129,1845,1279,1887"/>
+<area shape="rect" id="node38" href="$classvtk_reconstruct.html#a5d2de75b53640674809bd69cf3fdcb44" title="线程中断函数 " alt="" coords="1133,1911,1275,1938"/>
+<area shape="rect" id="node41" href="$classvtk_progress_command.html#af841f5783a803f547d71601555988dd0" title="vtkProgressCommand\l::setParent" alt="" coords="611,2023,761,2064"/>
+<area shape="rect" id="node43" href="$classvtk_image_series_reader.html#a6cbb891c60a2685991b599ff47f6a177" title="vtkImageSeriesReader\l::Update" alt="" coords="611,71,761,112"/>
+<area shape="rect" id="node44" href="$class_image_dilate_erode3_d.html#aa01c960d39cbdc3ced7de826984844b4" title="ImageDilateErode3D\l::SetInputConnection" alt="" coords="615,136,757,177"/>
+<area shape="rect" id="node45" href="$classvtk_image_series_reader.html#a4e3d46bddf8472168aadb6e1255bc2af" title="vtkImageSeriesReader\l::GetOutputPort" alt="" coords="611,201,761,243"/>
+<area shape="rect" id="node46" href="$class_image_dilate_erode3_d.html#ab5d2a505102a59a16a98a64437a9461c" title="ImageDilateErode3D\l::UpDate" alt="" coords="616,267,756,308"/>
+<area shape="rect" id="node47" href="$class_image_open_close3_d.html#a5f5412589bbb2dcc2b52d62ea198c240" title="ImageOpenClose3D::SetInput\lConnection" alt="" coords="589,332,783,373"/>
+<area shape="rect" id="node48" href="$class_image_dilate_erode3_d.html#a0245db1db98e97ed214f04bddfa44978" title="ImageDilateErode3D\l::GetOutputPort" alt="" coords="616,397,756,439"/>
+<area shape="rect" id="node49" href="$class_image_open_close3_d.html#ae77e5cf4aba1463f03ce75478e591ba7" title="ImageOpenClose3D::UpDate" alt="" coords="592,463,780,490"/>
+<area shape="rect" id="node50" href="$class_image_median3_d.html#a914e939a15a8ff50512ccfa6ecf81c0a" title="ImageMedian3D::SetInputConnection" alt="" coords="568,514,804,541"/>
+</map>

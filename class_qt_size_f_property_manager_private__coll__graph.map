@@ -1,0 +1,7 @@
+<map id="QtSizeFPropertyManagerPrivate" name="QtSizeFPropertyManagerPrivate">
+<area shape="rect" id="node2" href="$class_qt_size_f_property_manager.html" title="The QtSizeFPropertyManager provides and manages QSizeF properties. " alt="" coords="5,364,175,391"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="50,81,234,108"/>
+<area shape="rect" id="node5" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="50,171,234,212"/>
+<area shape="rect" id="node6" href="$class_qt_double_property_manager.html" title="The QtDoublePropertyManager provides and manages double properties. " alt="" coords="259,178,433,205"/>
+<area shape="rect" id="node7" href="$class_qt_double_property_manager_private.html" title="QtDoublePropertyManagerPrivate" alt="" coords="292,275,507,301"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtEnumEditorFactoryPrivate::slotEnumNamesChanged" name="QtEnumEditorFactoryPrivate::slotEnumNamesChanged">
+<area shape="rect" id="node2" href="$class_qt_enum_property_manager.html#a42526b0c4fa84cc14b3b5f146415f030" title="Returns the given property&#39;s map of enum values to their icons. " alt="" coords="240,5,409,47"/>
+<area shape="rect" id="node3" href="$class_qt_enum_property_manager.html#afe3d820af367097cc630fa03a0cb31de" title="Returns the given property&#39;s value which is an index in the list returned by enumNames() ..." alt="" coords="240,71,409,112"/>
+</map>

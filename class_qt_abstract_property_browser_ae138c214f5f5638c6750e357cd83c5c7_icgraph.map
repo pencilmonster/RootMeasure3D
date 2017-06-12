@@ -1,0 +1,10 @@
+<map id="QtAbstractPropertyBrowser::createEditor" name="QtAbstractPropertyBrowser::createEditor">
+<area shape="rect" id="node2" href="$class_qt_button_property_browser_private.html#a08b5d1f65f2b027b6628d1b53095f8ff" title="QtButtonPropertyBrowserPrivate\l::createEditor" alt="" coords="235,5,444,47"/>
+<area shape="rect" id="node5" href="$class_qt_group_box_property_browser_private.html#ac2fbd429e30f5b97b49433ad6b402cd5" title="QtGroupBoxPropertyBrowser\lPrivate::createEditor" alt="" coords="244,71,435,112"/>
+<area shape="rect" id="node8" href="$class_qt_tree_property_browser_private.html#a3d2c9f10c30feac6768374041e643dbd" title="QtTreePropertyBrowserPrivate\l::createEditor" alt="" coords="241,136,437,177"/>
+<area shape="rect" id="node3" href="$class_qt_button_property_browser_private.html#abef9aef97840d05531dd47798273f713" title="QtButtonPropertyBrowserPrivate\l::propertyInserted" alt="" coords="492,5,701,47"/>
+<area shape="rect" id="node4" href="$class_qt_button_property_browser.html#a5a48b5ba05d3294ca11055141755d64e" title="QtButtonPropertyBrowser\l::itemInserted" alt="" coords="759,5,930,47"/>
+<area shape="rect" id="node6" href="$class_qt_group_box_property_browser_private.html#a26d0f8291954a3bcf96b03b28ac58eee" title="QtGroupBoxPropertyBrowser\lPrivate::propertyInserted" alt="" coords="501,71,692,112"/>
+<area shape="rect" id="node7" href="$class_qt_group_box_property_browser.html#aab2d19bb4a199bfd6cd1073d90fabdb6" title="QtGroupBoxPropertyBrowser\l::itemInserted" alt="" coords="749,71,940,112"/>
+<area shape="rect" id="node9" href="$class_qt_property_editor_delegate.html#aa5567e6671f768929130e5b7f5a0e4d6" title="QtPropertyEditorDelegate\l::createEditor" alt="" coords="511,136,682,177"/>
+</map>

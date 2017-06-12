@@ -1,0 +1,4 @@
+<map id="TextWidget::New" name="TextWidget::New">
+<area shape="rect" id="node2" href="$class_text_widget.html#a1de9b607482b0c7aedeb38a95cddf872" title="TextWidget::TextWidget" alt="" coords="181,5,344,32"/>
+<area shape="rect" id="node3" href="$class_text_widget.html#a83c05ee3d867d38b997977c60b9833d6" title="setPosition 设置边框左下角坐标 取值范围0&#45;1 " alt="" coords="175,56,351,83"/>
+</map>

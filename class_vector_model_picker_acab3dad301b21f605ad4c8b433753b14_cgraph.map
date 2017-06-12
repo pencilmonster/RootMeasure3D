@@ -1,0 +1,5 @@
+<map id="VectorModelPicker::initActors" name="VectorModelPicker::initActors">
+<area shape="rect" id="node2" href="$class_tube_builder.html#abb01f2b2ac0a7cb846180c398784a54c" title="TubeBuilder::setColor" alt="" coords="203,5,350,32"/>
+<area shape="rect" id="node3" href="$class_tube_builder.html#a7230ee89bd1b7f5c926eb91506d0d577" title="TubeBuilder::setPickable" alt="" coords="193,56,360,83"/>
+<area shape="rect" id="node4" href="$class_tube_builder.html#a3261d7b62cb788c30d6de68aff67c198" title="TubeBuilder::setVisibility 设置管道可见性 " alt="" coords="194,107,359,133"/>
+</map>

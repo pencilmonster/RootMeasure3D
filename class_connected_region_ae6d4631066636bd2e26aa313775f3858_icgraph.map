@@ -1,0 +1,24 @@
+<map id="ConnectedRegion::Update" name="ConnectedRegion::Update">
+<area shape="rect" id="node2" href="$class_auto_seed_widget.html#a573a5d22f9ca8f135e896af1e95abf79" title="AutoSeedWidget::Update" alt="" coords="249,43,418,69"/>
+<area shape="rect" id="node8" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="227,129,440,156"/>
+<area shape="rect" id="node3" href="$class_auto_seed_widget.html#a5063de4d62f8a008f765fd6d999b8f9d" title="AutoSeedWidget::SetInputData" alt="" coords="739,5,941,32"/>
+<area shape="rect" id="node4" href="$class_image_view.html#a9df09f600cd254f533fb88445e3cce4a" title="ImageView::SlotShowImag() 显示图像 " alt="" coords="989,63,1172,89"/>
+<area shape="rect" id="node5" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="992,8,1169,35"/>
+<area shape="rect" id="node6" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="1220,8,1411,35"/>
+<area shape="rect" id="node7" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="1459,8,1615,35"/>
+<area shape="rect" id="node9" href="$class_region_analyzer.html#abcd46cf7de647ac7351ac0099a22f279" title="RegionAnalyzer::SlotsetRegion\lIndex" alt="" coords="488,57,691,98"/>
+<area shape="rect" id="node11" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="518,122,661,163"/>
+<area shape="rect" id="node17" href="$class_root_skeletion_builder.html#a172e833b6c86e22de6eb088332b3bb3d" title="更新分支首结点 使用补充重切方法来补充分支首部结点 " alt="" coords="751,181,929,222"/>
+<area shape="rect" id="node22" href="$class_root_skeletion_builder.html#a1432f3c08a5ef61f5a7fdc085acf5d03" title="RootSkeletionBuilder::addNodeProperty 添加结点属性主要包括：半径、周长、面积 " alt="" coords="518,242,661,283"/>
+<area shape="rect" id="node10" href="$class_image_view.html#aa744211733849e41be5407509b3e01da" title="ImageView::SlotsetRegion\lIndex" alt="" coords="753,57,927,98"/>
+<area shape="rect" id="node12" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="1663,122,1805,163"/>
+<area shape="rect" id="node13" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1853,155,2052,197"/>
+<area shape="rect" id="node14" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="2100,155,2283,197"/>
+<area shape="rect" id="node15" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2331,163,2515,189"/>
+<area shape="rect" id="node16" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2563,163,2741,189"/>
+<area shape="rect" id="node18" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="1009,187,1152,229"/>
+<area shape="rect" id="node19" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="1244,187,1387,229"/>
+<area shape="rect" id="node20" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1461,187,1612,229"/>
+<area shape="rect" id="node21" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1663,187,1805,229"/>
+<area shape="rect" id="node23" href="$class_root_skeletion_builder.html#abfc840d56a86fc6744ea95dca46e8fea" title="RootSkeletionBuilder::updateNodes 更新结点属性值 包括如下属性： 1、更新结点状态 2、更新法向量 3、补充..." alt="" coords="769,246,911,287"/>
+</map>

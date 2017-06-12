@@ -1,0 +1,8 @@
+<map id="QtGroupBoxPropertyBrowserPrivate::createEditor" name="QtGroupBoxPropertyBrowserPrivate::createEditor">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#ae138c214f5f5638c6750e357cd83c5c7" title="Creates an editing widget (with the given parent) for the given property according to the previously ..." alt="" coords="249,5,430,47"/>
+<area shape="rect" id="node4" href="$class_qt_group_box_property_browser_private.html#a01bc9332fa34017a4956d7d5db5b8453" title="QtGroupBoxPropertyBrowser\lPrivate::slotEditorDestroyed" alt="" coords="244,71,435,112"/>
+<area shape="rect" id="node5" href="$class_qt_group_box_property_browser_private.html#a524af97d7342c7b5cc19e546c167bfbe" title="QtGroupBoxPropertyBrowser\lPrivate::slotUpdate" alt="" coords="244,136,435,177"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html#aecea70732c941a1d992a61179389e9a2" title="Creates an editing widget (with the given parent) for the given property. " alt="" coords="483,5,676,47"/>
+<area shape="rect" id="node6" href="$class_qt_group_box_property_browser_private.html#ad95ffe73ee86a41d95abb6878e1fffe4" title="QtGroupBoxPropertyBrowser\lPrivate::hasHeader" alt="" coords="484,103,675,144"/>
+<area shape="rect" id="node7" href="$class_qt_group_box_property_browser_private.html#ab3f4edb50b895d5b5bb3fbc913371a15" title="QtGroupBoxPropertyBrowser\lPrivate::updateItem" alt="" coords="484,168,675,209"/>
+</map>

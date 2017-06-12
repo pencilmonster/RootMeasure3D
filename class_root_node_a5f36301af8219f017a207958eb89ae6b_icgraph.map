@@ -1,0 +1,47 @@
+<map id="RootNode::distanceToNode" name="RootNode::distanceToNode">
+<area shape="rect" id="node2" href="$class_root_system.html#aedad88187d8210a38b8ddea14f344f8c" title="计算指定根分支的结点平均间隔 " alt="" coords="252,5,433,47"/>
+<area shape="rect" id="node12" href="$class_root_system.html#a8b5099124c4fbbd7e25619cc0df1640a" title="RootSystem::getLengthOfBranch 通过累加结点到结点之间的距离来计算根长 " alt="" coords="236,435,449,462"/>
+<area shape="rect" id="node32" href="$class_root_system.html#aefc7ae820220e12ed8776a0eefba4983" title="RootSystem::getVolumeOfBranch 圆台体积分段累加求根分支体积 圆台体积公式1：V = 1/3 * pi * h * (R^2 + r..." alt="" coords="233,385,452,411"/>
+<area shape="rect" id="node35" href="$class_root_system.html#a5310a22be8b8b3b8c81e84e02cd392a0" title="RootSystem::getSurfaceOfBranch 分段累加计算根分支表面积 公 式：S = length * (pi * D0 + pi * D1) / 2 =..." alt="" coords="247,487,438,528"/>
+<area shape="rect" id="node38" href="$class_root_skeletion_builder.html#a01120d5aa5f47c79ef7359aad59d10f3" title="RootSkeletionBuilder::skeletonGroups 骨架分组 " alt="" coords="793,211,935,252"/>
+<area shape="rect" id="node39" href="$class_root_skeletion_builder.html#a74d2a7f5831270276036fc20d80c9b1a" title="RootSkeletionBuilder::unStructuredPointsGrouping2 将离散根结点分组(算法2) " alt="" coords="243,552,443,593"/>
+<area shape="rect" id="node40" href="$class_root_skeletion_builder.html#a9e05a69deb2d8d1d01c871d35c99c6a3" title="RootSkeletionBuilder::rootBranchMatching 将离散根分支与已经分组的根分支匹配 判断其是否属于某一分支的�..." alt="" coords="271,71,414,112"/>
+<area shape="rect" id="node42" href="$class_root_skeletion_builder.html#acf3bf2dc93bb93e60f47e45d11455b81" title="RootSkeletionBuilder::addRootBranch 将离散的根分支作为一个新分支添加到整个根系统中 ..." alt="" coords="271,136,414,177"/>
+<area shape="rect" id="node43" href="$class_root_skeletion_builder.html#a4ed297980014b883cb4dd205768398a3" title="RootSkeletionBuilder::forceAddBranch 采用最短欧氏距离强行增加根分支 " alt="" coords="271,201,414,243"/>
+<area shape="rect" id="node44" href="$class_spline_builder.html#a9638c46e1f8bd53ef87900afc56590e4" title="SplineBuilder::computeSpline\lCurve" alt="" coords="247,319,439,360"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a9d7ec06fba39fa9fb824f791653fa546" title="自由重切 获取所有结点分布较为稀疏的根分支 然后启动分支重切 问题分支确定：分支点平均间隔大于切片最大移..." alt="" coords="793,97,935,139"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="1045,212,1188,253"/>
+<area shape="rect" id="node5" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="1304,213,1447,255"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1551,224,1701,265"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1809,233,1952,275"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="2044,296,2243,337"/>
+<area shape="rect" id="node9" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="2316,296,2499,337"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2849,333,3033,359"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="3097,333,3275,359"/>
+<area shape="rect" id="node13" href="$class_root_system.html#a61a22fc67ef117b0e9278f1e8b61ecbd" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="503,553,716,579"/>
+<area shape="rect" id="node14" href="$class_root_system.html#a6888118e49689bc1d316b044bcc3b203" title="RootSystem::getTotalLength 返回总长度 " alt="" coords="516,435,703,462"/>
+<area shape="rect" id="node29" href="$class_vector_model_picker.html#a6bf43ce56267638a012f4dca8037f8db" title="VectorModelPicker::getBranchInfo 获取当前拾取分支的信息 " alt="" coords="539,487,679,528"/>
+<area shape="rect" id="node15" href="$class_root_vector_model.html#a54d4222c5894ad1a4073b46778254b4c" title="RootVectorModel::getRootInfo 获取根系统信息 " alt="" coords="767,435,961,462"/>
+<area shape="rect" id="node16" href="$class_root_vector_model.html#a68497f4e98cae8c3d4d4d4a512d99405" title="RootVectorModel::showSkeletion 显示骨架线条 " alt="" coords="1009,433,1224,459"/>
+<area shape="rect" id="node17" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="1272,405,1479,447"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="1527,373,1725,415"/>
+<area shape="rect" id="node28" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="1527,439,1725,466"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="1773,405,1988,431"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="2300,421,2515,447"/>
+<area shape="rect" id="node25" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="2036,370,2251,397"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="2579,421,2775,447"/>
+<area shape="rect" id="node22" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="2580,471,2773,498"/>
+<area shape="rect" id="node23" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="2837,471,3044,498"/>
+<area shape="rect" id="node24" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="3092,471,3280,498"/>
+<area shape="rect" id="node26" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="2299,366,2516,393"/>
+<area shape="rect" id="node27" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="2564,355,2789,396"/>
+<area shape="rect" id="node30" href="$class_vector_model_picker.html#acdb7439d6b7eb23c06cc4105e5bfac97" title="VectorModelPicker::SlotsetPosition 根据拾取的坐标设置拾取器的位置 " alt="" coords="794,487,934,528"/>
+<area shape="rect" id="node31" href="$class_vector_model_picker.html#a7531a7b19308990d7f4ef21ea4b942f5" title="VectorModelPicker::\lVectorModelPicker" alt="" coords="1047,487,1187,528"/>
+<area shape="rect" id="node33" href="$class_root_system.html#aa8e02d1b235facc758fb30703aed52d5" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="500,334,719,361"/>
+<area shape="rect" id="node34" href="$class_root_system.html#a8a66daf646485d9a1dc6d5edf02104e7" title="RootSystem::getTotalVolume 返回总体积 " alt="" coords="513,385,705,411"/>
+<area shape="rect" id="node36" href="$class_root_system.html#aa4f485fbb0b10483f0a3491416540ea0" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="514,655,705,696"/>
+<area shape="rect" id="node37" href="$class_root_system.html#a052429f84708c74148066cf12e36caf7" title="RootSystem::getTotalSurfaceArea 返回总表面积 " alt="" coords="500,603,719,630"/>
+<area shape="rect" id="node41" href="$class_root_skeletion_builder.html#aefe58648ab042b5f58639748cbf9f2ec" title="RootSkeletionBuilder::nodesSorting 离散结点整理 主要针对分组算法没有解决的散点(逆生长结点) ..." alt="" coords="538,152,681,193"/>
+<area shape="rect" id="node45" href="$class_spline_builder.html#af234cb2eeb6f5016b532c009b28fe9a4" title="SplineBuilder::update" alt="" coords="537,283,682,310"/>
+<area shape="rect" id="node46" href="$class_root_skeletion_builder.html#af10e731ad44018e635569208b28c6e7a" title="RootSkeletionBuilder::curveFitting 使用SplineBulider完成曲线拟合 " alt="" coords="793,276,935,317"/>
+</map>

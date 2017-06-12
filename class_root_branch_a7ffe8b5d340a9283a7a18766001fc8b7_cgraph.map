@@ -1,0 +1,9 @@
+<map id="RootBranch::operator&lt;&lt;" name="RootBranch::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$class_root_branch.html#a9d3f0f31da79838fd133c08fc5e7fc4b" title="RootBranch::getBranchID" alt="" coords="241,5,411,32"/>
+<area shape="rect" id="node3" href="$class_root_branch.html#a3419e4f2d25bc72875f213405810b126" title="RootBranch::getBranchGrade" alt="" coords="230,56,422,83"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#a7ccca4c88772d9ab2575914e68b288c8" title="RootBranch::getParentBranchID" alt="" coords="223,107,429,133"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#a5571577ed3aee1ea4cf6f244c2298f70" title="RootBranch::getParentNodeID" alt="" coords="228,157,424,184"/>
+<area shape="rect" id="node6" href="$class_root_branch.html#aa9e733525107d47781464c6a7cd41b79" title="RootBranch::getNumberOfChildBranch 获取子分支的个数 " alt="" coords="225,209,427,250"/>
+<area shape="rect" id="node7" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="215,274,437,315"/>
+<area shape="rect" id="node8" href="$class_root_branch.html#a50c1379dffd98f26db50583d5f666610" title="获取所有的分支结点 " alt="" coords="237,340,415,367"/>
+</map>

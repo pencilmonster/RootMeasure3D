@@ -1,0 +1,6 @@
+<map id="RootSystem::getBranchGrade" name="RootSystem::getBranchGrade">
+<area shape="rect" id="node2" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="258,5,433,32"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="272,56,419,83"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#a3419e4f2d25bc72875f213405810b126" title="RootBranch::getBranchGrade" alt="" coords="249,107,441,133"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="489,5,681,32"/>
+</map>

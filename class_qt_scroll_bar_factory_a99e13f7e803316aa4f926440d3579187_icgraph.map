@@ -1,0 +1,4 @@
+<map id="QtScrollBarFactory::slotSingleStepChanged" name="QtScrollBarFactory::slotSingleStepChanged">
+<area shape="rect" id="node2" href="$class_qt_scroll_bar_factory.html#a3362f6c834433d45edfd977ea7ea6ac6" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="227,5,402,47"/>
+<area shape="rect" id="node3" href="$class_qt_scroll_bar_factory.html#a155640bdcf5664be3e4fcfbabf25e25a" title="Disconnects this factory from the given manager&#39;s signals. " alt="" coords="219,71,411,112"/>
+</map>

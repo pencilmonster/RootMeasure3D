@@ -1,0 +1,5 @@
+<map id="QtFontPropertyManager::subIntPropertyManager" name="QtFontPropertyManager::subIntPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager.html#a67728da9500ed7252afb78815690f151" title="Creates a manager with the given parent. " alt="" coords="221,5,405,47"/>
+<area shape="rect" id="node3" href="$class_qt_variant_editor_factory.html#a36f7a8818ed9c724e2dbece9254e2abc" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="226,71,401,112"/>
+<area shape="rect" id="node4" href="$class_qt_variant_editor_factory.html#af9ba546afcb67b51c0f124c871ce93e2" title="Disconnects this factory from the given manager&#39;s signals. " alt="" coords="217,136,409,177"/>
+</map>

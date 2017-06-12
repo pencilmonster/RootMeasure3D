@@ -1,0 +1,4 @@
+<map id="ConnectedRegion::GetMaxAreaIndex" name="ConnectedRegion::GetMaxAreaIndex">
+<area shape="rect" id="node2" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="261,5,455,47"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="259,71,457,112"/>
+</map>

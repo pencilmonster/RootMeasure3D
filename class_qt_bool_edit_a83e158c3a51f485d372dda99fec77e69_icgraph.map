@@ -1,0 +1,7 @@
+<map id="QtBoolEdit::isChecked" name="QtBoolEdit::isChecked">
+<area shape="rect" id="node2" href="$class_qt_bool_edit.html#a53d506f35c0544e054867b8de07cbf91" title="QtBoolEdit::setTextVisible" alt="" coords="208,53,383,79"/>
+<area shape="rect" id="node5" href="$class_qt_bool_edit.html#aa288fa942f18b768f0d564b14dc08e73" title="QtBoolEdit::setChecked" alt="" coords="214,103,377,130"/>
+<area shape="rect" id="node3" href="$class_qt_check_box_factory_private.html#a0225b2d9a112a1097a247a4a02776f54" title="QtCheckBoxFactoryPrivate\l::slotTextVisibleChanged" alt="" coords="431,5,609,47"/>
+<area shape="rect" id="node4" href="$class_qt_check_box_factory.html#ab0b6c37139480c20cdd15f3683bdbff0" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="446,71,594,112"/>
+<area shape="rect" id="node6" href="$class_qt_check_box_factory_private.html#acf95ab7a51bc48400fb0babd71d035ee" title="QtCheckBoxFactoryPrivate\l::slotPropertyChanged" alt="" coords="431,136,609,177"/>
+</map>

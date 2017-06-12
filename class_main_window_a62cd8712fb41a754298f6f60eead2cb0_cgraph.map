@@ -1,0 +1,51 @@
+<map id="MainWindow::createActions" name="MainWindow::createActions">
+<area shape="rect" id="node2" href="$class_main_window.html#aa3e361becbb0526c782482eb2c983dec" title="MainWindow::SlotopenRecentFile" alt="" coords="241,285,459,312"/>
+<area shape="rect" id="node17" href="$class_main_window.html#a1e5108dcf41b45d805b9afa6c28dd39f" title="MainWindow::closeWindow" alt="" coords="259,388,441,415"/>
+<area shape="rect" id="node18" href="$class_main_window.html#ae08b19ee27eac9d4ba0f213316a3f385" title="MainWindow::SlotopenSegDialog" alt="" coords="243,439,457,465"/>
+<area shape="rect" id="node23" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="237,523,463,565"/>
+<area shape="rect" id="node46" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="259,757,441,798"/>
+<area shape="rect" id="node3" href="$class_image_reader.html#a184f25bd6aa1d61b59e3cc78c0f543db" title="ImageReader::SlotreadImageFile 公有槽函数，捕获 sendImageFileName(filename)信号 并完成图像的读取re任�..." alt="" coords="514,233,725,260"/>
+<area shape="rect" id="node4" href="$class_image_reader.html#acc28ad026f259b30652489a019e4abc1" title="ImageReader::canReadFile 检测图片是否可以被读取 " alt="" coords="794,56,973,83"/>
+<area shape="rect" id="node7" href="$class_image_reader.html#a0ab25ac193dbccdbaf386c6062bb43fa" title="ImageReader::setFileName 设置图片地址 " alt="" coords="794,107,973,133"/>
+<area shape="rect" id="node9" href="$class_image_reader.html#aad47f1e133ff156e426e17c26aabb043" title="ImageReader::update" alt="" coords="811,157,956,184"/>
+<area shape="rect" id="node10" href="$class_image_reader.html#a2c1e01e3d6916dc3f96a13b36ee21a7b" title="ImageReader::getOutput 获取图像 " alt="" coords="802,208,965,235"/>
+<area shape="rect" id="node11" href="$class_image_reader.html#aec63761db48a0a87b2d44faa5f78ccbb" title="ImageReader::getSuffix 获取图像的后缀名 " alt="" coords="805,259,961,285"/>
+<area shape="rect" id="node12" href="$class_image_reader.html#a6cbd29ce4f0f40a30fe9c8e8b961d3c2" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="789,309,978,336"/>
+<area shape="rect" id="node13" href="$class_image_reader.html#ab6fa0c235eb6716152a9d4442c68f1b9" title="ImageReader::getDimenstions" alt="" coords="785,360,981,387"/>
+<area shape="rect" id="node14" href="$class_image_reader.html#a054ee279d423fd835b24bf7a196ba8ad" title="ImageReader::getDataOrigin" alt="" coords="791,411,976,437"/>
+<area shape="rect" id="node16" href="$class_image_reader.html#ad4c245a9763500b8732c6433d66212c5" title="ImageReader::getScalarRange" alt="" coords="784,5,983,32"/>
+<area shape="rect" id="node5" href="$namespacemyprint.html#adc32278a7a49274959e5dedf767e9a22" title="错误信息打印 " alt="" coords="1083,56,1209,83"/>
+<area shape="rect" id="node6" href="$class_hraw_reader2.html#a2c97da23d11187e7a5be048a49a000ac" title="HrawReader2::New" alt="" coords="1080,5,1212,32"/>
+<area shape="rect" id="node8" href="$namespacemyprint.html#a4aa4711ad259f0021e2a986dc67e0cee" title="日志信息打印 " alt="" coords="1087,107,1205,133"/>
+<area shape="rect" id="node15" href="$class_image_reader.html#aaaf4d0b91c768ae485bcf56f96d85f09" title="ImageReader::getDataSpacing" alt="" coords="1047,411,1245,437"/>
+<area shape="rect" id="node19" href="$class_seg_thread_controller.html#af3e3fff30129a33aec6a6f1d4b240932" title="SegThreadController\l::setPorgressDialog" alt="" coords="550,431,689,473"/>
+<area shape="rect" id="node20" href="$class_main_window.html#a2ccf35cad8d73badef02050e8545aa51" title="MainWindow::SegDialog2Seg\lThreadCommunication" alt="" coords="523,497,716,538"/>
+<area shape="rect" id="node21" href="$class_main_window.html#a3e227bab873d109b0a37d30d6573ed2b" title="MainWindow::SegThread2File\lCommunication" alt="" coords="522,301,717,342"/>
+<area shape="rect" id="node22" href="$class_main_window.html#a068b4265323069f016069f64a6e5765a" title="MainWindow::SegThread2Reader\lCommunication" alt="" coords="512,366,727,407"/>
+<area shape="rect" id="node24" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="511,563,728,589"/>
+<area shape="rect" id="node25" href="$classvtk_reconstruct.html#ad8316bcd20d743d6ce2f0389b0f70ed7" title="vtkReconstruct::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例，未实�..." alt="" coords="1579,495,1761,521"/>
+<area shape="rect" id="node27" href="$classvtk_reconstruct.html#ac328f0e3f6bb5e0db129b4c3b9dad78e" title="vtkReconstruct::setProgressDialog 设置进度对话框指针 " alt="" coords="790,513,977,554"/>
+<area shape="rect" id="node28" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="1821,784,2005,811"/>
+<area shape="rect" id="node36" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="776,760,991,787"/>
+<area shape="rect" id="node26" href="$classvtk_reconstruct.html#ac08e46cf1f6ab030ec9bc9d52210e115" title="vtkReconstruct::vtkReconstruct" alt="" coords="2333,553,2536,580"/>
+<area shape="rect" id="node29" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="2067,784,2271,811"/>
+<area shape="rect" id="node30" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="2361,936,2509,963"/>
+<area shape="rect" id="node31" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="2078,936,2261,963"/>
+<area shape="rect" id="node32" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="2070,683,2269,709"/>
+<area shape="rect" id="node33" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="2056,733,2283,760"/>
+<area shape="rect" id="node34" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="2053,589,2285,616"/>
+<area shape="rect" id="node35" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="2074,835,2265,861"/>
+<area shape="rect" id="node37" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="1039,836,1253,863"/>
+<area shape="rect" id="node38" href="$class_graph3_d_view.html#a7017fa1b241fd2573e1c9739e183379a" title="获取重切器变化信息，并以信号形式发给属性浏览器 " alt="" coords="1301,899,1519,925"/>
+<area shape="rect" id="node39" href="$class_graph3_d_view.html#aa0e02f27533fad98354db963ea41245c" title="重切器生成后在启动其右击菜单选项 同时使骨架化参数对话框可用 " alt="" coords="1321,630,1499,671"/>
+<area shape="rect" id="node40" href="$class_graph3_d_view.html#a36951bb61bd2dd2b2e407bd72b2a6793" title="获取切片的纹理图像信息，发送给图像浏览器 " alt="" coords="1311,696,1509,723"/>
+<area shape="rect" id="node43" href="$class_reslicer.html#aa9db0448d05b1febea702311c74096f1" title="Reslicer::setInputConnection" alt="" coords="1316,747,1504,773"/>
+<area shape="rect" id="node44" href="$class_reslicer.html#a235fe73d069a430784c1e09138234d11" title="Reslicer::setCurrentRender" alt="" coords="1321,797,1499,824"/>
+<area shape="rect" id="node45" href="$class_reslicer.html#a6b91eb3ca41f459a790b036188418c17" title="Reslicer::setInteractor" alt="" coords="1335,848,1485,875"/>
+<area shape="rect" id="node41" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="1311,950,1509,991"/>
+<area shape="rect" id="node42" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="1567,921,1773,962"/>
+<area shape="rect" id="node47" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1047,1067,1245,1109"/>
+<area shape="rect" id="node48" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1339,1067,1481,1109"/>
+<area shape="rect" id="node49" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="1339,1133,1481,1174"/>
+<area shape="rect" id="node50" href="$class_root_skeletion_builder.html#af458fcdbeee8eec30a82470e00ab4f01" title="RootSkeletionBuilder::setProgressDialog 设置进度对话框 " alt="" coords="1339,1198,1481,1239"/>
+</map>

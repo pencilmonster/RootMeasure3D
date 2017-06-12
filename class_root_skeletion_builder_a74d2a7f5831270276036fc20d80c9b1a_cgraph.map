@@ -1,0 +1,14 @@
+<map id="RootSkeletionBuilder::unStructuredPointsGrouping2" name="RootSkeletionBuilder::unStructuredPointsGrouping2">
+<area shape="rect" id="node2" href="$class_node_set.html#a3057395e23368fc3f6eb71cd79dc5937" title="NodeSet::addNodeId" alt="" coords="273,5,414,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="262,56,425,83"/>
+<area shape="rect" id="node5" href="$class_root_skeletion_builder.html#aa2123b1e7bea2b09b1805d60f282da51" title="RootSkeletionBuilder::isConnected 根结点连通性验证 方法：选取node2根结点质心点以及长轴上的四个点。 no..." alt="" coords="272,158,415,199"/>
+<area shape="rect" id="node9" href="$class_node_set.html#a66f82482abc42f4abc5e01f567b1fa70" title="NodeSet::begin" alt="" coords="288,275,399,301"/>
+<area shape="rect" id="node10" href="$class_root_node.html#a5f36301af8219f017a207958eb89ae6b" title="计算当前根结点到指定根结点之间的距离. " alt="" coords="253,224,433,251"/>
+<area shape="rect" id="node12" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="268,107,419,133"/>
+<area shape="rect" id="node13" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="264,325,423,352"/>
+<area shape="rect" id="node4" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="483,56,665,83"/>
+<area shape="rect" id="node6" href="$class_root_node.html#addb6962357f2b4fdaac807043ed8fedc" title="获取根结点的主轴端点坐标 " alt="" coords="481,107,667,149"/>
+<area shape="rect" id="node7" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="497,224,651,251"/>
+<area shape="rect" id="node8" href="$class_math_tool.html#a7585aaee0b857018c74515984685e5fb" title="MathTool::isConnectivity" alt="" coords="493,173,655,200"/>
+<area shape="rect" id="node11" href="$class_math_tool.html#a421603b0781ce637ff8341d0eff39a71" title="MathTool::distanceBetween\lPoints" alt="" coords="483,275,665,317"/>
+</map>

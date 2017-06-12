@@ -1,0 +1,5 @@
+<map id="wrappedProperty" name="wrappedProperty">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager_private.html#abac2c65bc225a23847617785efd0fe3d" title="QtVariantPropertyManager\lPrivate::removeSubProperty" alt="" coords="172,5,355,47"/>
+<area shape="rect" id="node4" href="$class_qt_variant_editor_factory.html#a62231fcd3777237784ec2327974c163f" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="186,71,341,112"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager_private.html#a5fa5a9ad9ba78a46cd70605c8d60d1d1" title="QtVariantPropertyManager\lPrivate::slotPropertyRemoved" alt="" coords="403,5,595,47"/>
+</map>

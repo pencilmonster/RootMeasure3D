@@ -1,0 +1,4 @@
+<map id="QtSizePolicyPropertyManager::~QtSizePolicyPropertyManager" name="QtSizePolicyPropertyManager::~QtSizePolicyPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html#aca67fa6a5d31b178d3a7f23cbf76a381" title="Destroys all the properties that this manager has created. " alt="" coords="267,5,451,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_manager.html#a64eadbdc86e5f1ae27d0b41b6bceeb9d" title="Returns the set of properties created by this manager. " alt="" coords="499,5,683,47"/>
+</map>

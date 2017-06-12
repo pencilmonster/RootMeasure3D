@@ -1,0 +1,20 @@
+<map id="ImageView::SlotsetRegionIndex" name="ImageView::SlotsetRegionIndex">
+<area shape="rect" id="node2" href="$class_region_analyzer.html#abcd46cf7de647ac7351ac0099a22f279" title="RegionAnalyzer::SlotsetRegion\lIndex" alt="" coords="228,579,431,621"/>
+<area shape="rect" id="node19" href="$class_region_analyzer.html#af87c0d0e72799d07fe54369ad6bcc86e" title="RegionAnalyzer::getRegionInfo" alt="" coords="230,645,429,672"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="487,315,701,341"/>
+<area shape="rect" id="node15" href="$class_draw_bounding_box2_d.html#a616d4125722cd7030aad1021cf7ecc54" title="设置像素间隔 " alt="" coords="518,514,670,555"/>
+<area shape="rect" id="node16" href="$class_draw_bounding_box2_d.html#ae82ccf4eecaadb4af5b6ddf15dab7c13" title="设置包围盒的位置 " alt="" coords="518,579,670,621"/>
+<area shape="rect" id="node17" href="$class_draw_bounding_box2_d.html#a5a84287a54d212bd62923e029bc8a8c0" title="DrawBoundingBox2D::\lsetVisibility" alt="" coords="796,638,948,679"/>
+<area shape="rect" id="node18" href="$class_connected_region.html#a3829bc50ce6b63281d096f90d7619fff" title="ConnectedRegion::GetBoundingBox 获取i个连通区域的包围盒 " alt="" coords="479,696,709,723"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#a23411820a62d68b3fa2af0e3015367fd" title="ConnectedRegion::SetInput" alt="" coords="782,5,962,32"/>
+<area shape="rect" id="node5" href="$class_connected_region.html#ae6d4631066636bd2e26aa313775f3858" title="ConnectedRegion::Update" alt="" coords="785,56,959,83"/>
+<area shape="rect" id="node6" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="775,107,969,149"/>
+<area shape="rect" id="node7" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="773,173,971,214"/>
+<area shape="rect" id="node8" href="$class_connected_region.html#a9392e82b05c2ad593ad9e1a16e3f0da3" title="ConnectedRegion::GetPhysicalSize 获取i个连通区域物理大小 " alt="" coords="757,239,987,265"/>
+<area shape="rect" id="node9" href="$class_connected_region.html#a056b729f0710beeba5bd176155f7e7ec" title="ConnectedRegion::GetPerimeter 获取i个连通区域周长 " alt="" coords="767,289,977,316"/>
+<area shape="rect" id="node10" href="$class_connected_region.html#a3104bae943b6072425bb1435b7136636" title="ConnectedRegion::GetRoundness 获取i个连通区域圆率 " alt="" coords="763,340,981,367"/>
+<area shape="rect" id="node11" href="$class_connected_region.html#ab09bddf21f1b0f35948e93ac43bc4c95" title="ConnectedRegion::GetCentroid 获取i个连通区域质心 " alt="" coords="771,391,973,417"/>
+<area shape="rect" id="node12" href="$class_connected_region.html#a0244a9089b5d3d9c282ba06880375def" title="ConnectedRegion::GetEquivalentSphericalRadius 获取i个连通区等效圆半径 " alt="" coords="766,442,978,483"/>
+<area shape="rect" id="node13" href="$class_connected_region.html#ac65d2c99d2c996b5918ba836d5466030" title="ConnectedRegion::GetEquivalentSphericalPerimeter 获取i个连通区等效圆周长 " alt="" coords="766,507,978,549"/>
+<area shape="rect" id="node14" href="$class_connected_region.html#a655e1b51e4974def3321ddc039aef805" title="ConnectedRegion::GetEquivalentEllipsoidDiameter 获取i个连通区等效椭圆长短轴 " alt="" coords="766,573,978,614"/>
+</map>

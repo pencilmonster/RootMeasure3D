@@ -1,0 +1,14 @@
+<map id="operator&lt;&lt;" name="operator&lt;&lt;">
+<area shape="rect" id="node2" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="173,5,290,32"/>
+<area shape="rect" id="node3" href="$class_root_node.html#a809bc36e1c4db82cea35a8a016344544" title="RootNode::getNodeType" alt="" coords="150,56,313,83"/>
+<area shape="rect" id="node4" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="155,107,308,133"/>
+<area shape="rect" id="node5" href="$class_root_node.html#a6da9f3b289cb3a0e4ced5964f5d12820" title="RootNode::getNormal" alt="" coords="158,157,305,184"/>
+<area shape="rect" id="node6" href="$class_root_node.html#af5fba1588508193b8846548435bef0fe" title="RootNode::getPixelsNum" alt="" coords="147,208,315,235"/>
+<area shape="rect" id="node7" href="$class_root_node.html#acea547a94c390ec3e08eb1b8b315d355" title="RootNode::getPhysicalSize" alt="" coords="141,259,322,285"/>
+<area shape="rect" id="node8" href="$class_root_node.html#adfc779af14200e9acc946a274186d9e4" title="RootNode::getPerimeter" alt="" coords="151,309,312,336"/>
+<area shape="rect" id="node9" href="$class_root_node.html#ac7891849a55a4cd1ea047b3fd0ff55ee" title="RootNode::getRoundness" alt="" coords="146,360,317,387"/>
+<area shape="rect" id="node10" href="$class_root_node.html#a83c8f810451dde7f3f65d306c53c3edb" title="RootNode::getRadius" alt="" coords="159,411,304,437"/>
+<area shape="rect" id="node11" href="$class_root_node.html#af17f5955718e1b1dcc4865fb44cf3bf6" title="RootNode::getLongAxis" alt="" coords="152,461,311,488"/>
+<area shape="rect" id="node12" href="$class_root_node.html#a75bb1d1c625b79f17c5f59241892df38" title="RootNode::getShortAxis" alt="" coords="150,512,313,539"/>
+<area shape="rect" id="node13" href="$class_root_node.html#addb6962357f2b4fdaac807043ed8fedc" title="获取根结点的主轴端点坐标 " alt="" coords="139,563,324,605"/>
+</map>

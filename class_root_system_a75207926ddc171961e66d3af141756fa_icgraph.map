@@ -1,0 +1,16 @@
+<map id="RootSystem::isBranchesEmpty" name="RootSystem::isBranchesEmpty">
+<area shape="rect" id="node2" href="$class_root_system.html#a1d8f2bcb32a32ba91e17cb265293abb1" title="获取根系统中排在最后一位的分支 " alt="" coords="263,5,450,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#ac2452a3cdd446a2b650b692e9158cc0f" title="获取根系统中排在最后一位的分支Id " alt="" coords="259,56,455,83"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#acf3bf2dc93bb93e60f47e45d11455b81" title="RootSkeletionBuilder::addRootBranch 将离散的根分支作为一个新分支添加到整个根系统中 ..." alt="" coords="503,15,645,57"/>
+<area shape="rect" id="node15" href="$class_root_skeletion_builder.html#a4ed297980014b883cb4dd205768398a3" title="RootSkeletionBuilder::forceAddBranch 采用最短欧氏距离强行增加根分支 " alt="" coords="503,81,645,122"/>
+<area shape="rect" id="node5" href="$class_root_skeletion_builder.html#aefe58648ab042b5f58639748cbf9f2ec" title="RootSkeletionBuilder::nodesSorting 离散结点整理 主要针对分组算法没有解决的散点(逆生长结点) ..." alt="" coords="693,49,836,90"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#a01120d5aa5f47c79ef7359aad59d10f3" title="RootSkeletionBuilder::skeletonGroups 骨架分组 " alt="" coords="884,49,1027,90"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="1075,49,1217,90"/>
+<area shape="rect" id="node8" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="1265,49,1408,90"/>
+<area shape="rect" id="node9" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1456,49,1607,90"/>
+<area shape="rect" id="node10" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1655,49,1797,90"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1845,49,2044,90"/>
+<area shape="rect" id="node12" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="2092,49,2275,90"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2323,56,2507,83"/>
+<area shape="rect" id="node14" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2555,56,2733,83"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Graph3DView::CreateReconstruct" name="Graph3DView::CreateReconstruct">
+<area shape="rect" id="node2" href="$classvtk_reconstruct.html#ad8316bcd20d743d6ce2f0389b0f70ed7" title="vtkReconstruct::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例，未实�..." alt="" coords="287,299,469,326"/>
+<area shape="rect" id="node5" href="$classvtk_reconstruct.html#ac328f0e3f6bb5e0db129b4c3b9dad78e" title="vtkReconstruct::setProgressDialog 设置进度对话框指针 " alt="" coords="285,1177,471,1219"/>
+<area shape="rect" id="node6" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="549,705,733,731"/>
+<area shape="rect" id="node31" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="271,1126,485,1153"/>
+<area shape="rect" id="node3" href="$classvtk_reconstruct.html#ac08e46cf1f6ab030ec9bc9d52210e115" title="vtkReconstruct::vtkReconstruct" alt="" coords="1092,21,1295,47"/>
+<area shape="rect" id="node4" href="$classvtk_progress_command.html#af841f5783a803f547d71601555988dd0" title="vtkProgressCommand\l::setParent" alt="" coords="1395,5,1545,47"/>
+<area shape="rect" id="node7" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="810,629,1014,655"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="1119,679,1267,706"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="821,679,1003,706"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="813,730,1011,757"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="799,781,1025,807"/>
+<area shape="rect" id="node16" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="796,350,1028,377"/>
+<area shape="rect" id="node29" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="817,831,1007,858"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#ab9ed1c6eae18aac266da353a1450c99d" title="Graph3DView::SlotPopUp" alt="" coords="1108,730,1279,757"/>
+<area shape="rect" id="node13" href="$classvtk_reconstruct.html#a1f3c82a5f9e0644f729a91b1a4baf1bd" title="vtkReconstruct::GetSurfaceArea 得到重建模型的表面积（仅限表面模型） " alt="" coords="1089,781,1297,807"/>
+<area shape="rect" id="node15" href="$classvtk_reconstruct.html#ae889b9c17980bded974b8e32ff075cdb" title="vtkReconstruct::GetVolumeArea 得到重建模型的体积（仅限表面模型） " alt="" coords="1089,831,1297,858"/>
+<area shape="rect" id="node14" href="$classvtk_base_reconstruction.html#af84df01e5ba67e753f2885e1e5545e7f" title="vtkBaseReconstruction\l::GetSurfaceArea" alt="" coords="1393,773,1547,815"/>
+<area shape="rect" id="node17" href="$classvtk_reconstruct.html#a3dd63f7e3d8304bbc03c4fa23b8d85c8" title="vtkReconstruct::setVisibility" alt="" coords="1102,375,1285,402"/>
+<area shape="rect" id="node18" href="$classvtk_reconstruct.html#a25b418505f580ab32dfecb163624ff65" title="vtkReconstruct::setReaderParm 读取数据时候所需要设置的参数 " alt="" coords="1090,122,1297,149"/>
+<area shape="rect" id="node19" href="$classvtk_reconstruct.html#a6e4808ab6a54bb53d6b015336363c193" title="vtkReconstruct::createImage\lReader" alt="" coords="1377,136,1563,177"/>
+<area shape="rect" id="node20" href="$classvtk_reconstruct.html#a92ebcff3d1dc26db08c3d128f40841ed" title="vtkReconstruct::setReconstructParm 三维重建所需要的参数 " alt="" coords="1076,527,1311,554"/>
+<area shape="rect" id="node21" href="$classvtk_reconstruct.html#a9d4a1fedda16d9d50aed6181bef41538" title="vtkReconstruct::createReconstruct\lMethod" alt="" coords="1359,507,1581,548"/>
+<area shape="rect" id="node22" href="$classvtk_reconstruct.html#ab31525dcfda65423ed5793969ccdf681" title="vtkReconstruct::setFilterParm 三位滤波器的参数 这里包括膨胀腐蚀滤波器、开闭运算滤波器、中值滤波器 ..." alt="" coords="1096,629,1291,655"/>
+<area shape="rect" id="node23" href="$classvtk_reconstruct.html#adecde671ec2de9f190d657838a2b1c8f" title="vtkReconstruct::createFilter3D 负责管控滤波器 " alt="" coords="1371,590,1569,617"/>
+<area shape="rect" id="node24" href="$classvtk_reconstruct.html#aabd36e41ececd95d9436fdf69aa36b96" title="vtkReconstruct::startTask 开始重建任务 " alt="" coords="1108,223,1279,250"/>
+<area shape="rect" id="node25" href="$classvtk_reconstruct.html#abe456ddab09b0cfbdfe9d069e3074568" title="vtkReconstruct::showProgress\lDialog" alt="" coords="1371,241,1569,283"/>
+<area shape="rect" id="node26" href="$classvtk_reconstruct.html#a8c46dfbb792a9df8375e4e9e72406f7b" title="vtkReconstruct::Slotcancel\lReconstruct" alt="" coords="1629,271,1807,312"/>
+<area shape="rect" id="node27" href="$classvtk_reconstruct.html#a32f75b26e20fe5a69d5d85640395cc2b" title="vtkReconstruct::Slotcolse\lProgressDialog" alt="" coords="1855,212,2025,253"/>
+<area shape="rect" id="node28" href="$classvtk_reconstruct.html#ac865a204ef70095f9e0c2d53ca6764e9" title="vtkReconstruct::run 起一个线程 调用该函数之前确保各个滤波器存在且其参数已经设置完毕 ..." alt="" coords="1126,325,1261,351"/>
+<area shape="rect" id="node30" href="$classvtk_base_reconstruction.html#a76bc5015d2fae3ca529a490346418967" title="vtkBaseReconstruction\l::GetPolyData" alt="" coords="1116,883,1271,924"/>
+<area shape="rect" id="node32" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="533,1275,748,1302"/>
+<area shape="rect" id="node33" href="$class_graph3_d_view.html#a7017fa1b241fd2573e1c9739e183379a" title="获取重切器变化信息，并以信号形式发给属性浏览器 " alt="" coords="803,1502,1021,1529"/>
+<area shape="rect" id="node38" href="$class_graph3_d_view.html#aa0e02f27533fad98354db963ea41245c" title="重切器生成后在启动其右击菜单选项 同时使骨架化参数对话框可用 " alt="" coords="823,1203,1001,1244"/>
+<area shape="rect" id="node39" href="$class_graph3_d_view.html#a36951bb61bd2dd2b2e407bd72b2a6793" title="获取切片的纹理图像信息，发送给图像浏览器 " alt="" coords="813,1553,1011,1579"/>
+<area shape="rect" id="node44" href="$class_reslicer.html#aa9db0448d05b1febea702311c74096f1" title="Reslicer::setInputConnection" alt="" coords="818,1050,1006,1077"/>
+<area shape="rect" id="node45" href="$class_reslicer.html#a235fe73d069a430784c1e09138234d11" title="Reslicer::setCurrentRender" alt="" coords="823,1101,1001,1127"/>
+<area shape="rect" id="node46" href="$class_reslicer.html#a6b91eb3ca41f459a790b036188418c17" title="Reslicer::setInteractor" alt="" coords="837,1151,987,1178"/>
+<area shape="rect" id="node47" href="$class_reslicer.html#aa86eee314f5976f955def3644fd068de" title="Reslicer::setvtkEventQtslot\lConnect" alt="" coords="551,959,730,1000"/>
+<area shape="rect" id="node40" href="$class_reslicer.html#ac3722c0ce2efcf7b25666a5db1500f1e" title="Reslicer::setvtkEventQtslot\lDisconnect" alt="" coords="823,1436,1001,1477"/>
+<area shape="rect" id="node41" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="813,1268,1011,1309"/>
+<area shape="rect" id="node42" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="845,1334,979,1361"/>
+<area shape="rect" id="node43" href="$class_reslicer.html#ae1f0fe1ae44b44bee4c4a0574ed87760" title="Reslicer::Off" alt="" coords="865,1385,959,1411"/>
+<area shape="rect" id="node34" href="$class_reslicer.html#acaac1738f9f4b76952528d046dee7396" title="Reslicer::getPlaneWidth" alt="" coords="1112,1527,1275,1554"/>
+<area shape="rect" id="node35" href="$class_reslicer.html#a3838f2151e058b0798926f09c2785b0f" title="Reslicer::getPlaneHigh" alt="" coords="1116,1578,1271,1605"/>
+<area shape="rect" id="node36" href="$class_reslicer.html#a422e9990d9cb144e7d397430fe4f6401" title="Reslicer::getPlaneCenter" alt="" coords="1110,1426,1277,1453"/>
+<area shape="rect" id="node37" href="$class_reslicer.html#a8d9bd362e5ff8b98b666f30c7dae9111" title="Reslicer::getPlaneOrientation" alt="" coords="1098,1477,1289,1503"/>
+<area shape="rect" id="node48" href="$class_reslicer.html#aefdfcc406c460532b55dfe86b9e8ef30" title="Reslicer::SlotsendReslicerInfo" alt="" coords="815,882,1009,909"/>
+<area shape="rect" id="node49" href="$class_reslicer.html#a2e14e34d61d2d9ec5baf4e3149772385" title="Reslicer::SlotgetReslice\lOutput" alt="" coords="831,933,993,975"/>
+<area shape="rect" id="node50" href="$class_reslicer.html#a0e83f29d38a528761872e49c93d63a03" title="Reslicer::SlotprocessSlice" alt="" coords="825,999,999,1026"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="Reslicer::SlotsendReslicerInfo" name="Reslicer::SlotsendReslicerInfo">
+<area shape="rect" id="node2" href="$class_reslicer.html#aa86eee314f5976f955def3644fd068de" title="Reslicer::setvtkEventQtslot\lConnect" alt="" coords="248,77,427,119"/>
+<area shape="rect" id="node13" href="$class_reslicer.html#ab2196ad834fbf9140db569a540f79e5f" title="Reslicer::connectvtkEvent\lQtslot" alt="" coords="252,159,423,200"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="475,69,689,95"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="737,6,955,33"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="739,69,953,95"/>
+<area shape="rect" id="node5" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="1737,5,1963,47"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2679,49,2863,75"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2911,49,3089,75"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="1003,43,1199,70"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="1004,94,1197,121"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="1247,90,1453,117"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="1501,90,1689,117"/>
+<area shape="rect" id="node14" href="$class_root_skeletion_builder.html#af5bfb39046c5ac152e32a508f4b60078" title="RootSkeletionBuilder::recoverReslicerStatus 恢复自动重切之前的重切器状态 " alt="" coords="504,189,660,231"/>
+<area shape="rect" id="node15" href="$class_root_skeletion_builder.html#ac63e47edea9452caadc6a9f06808f4f6" title="槽函数 停止重切器重切 " alt="" coords="1279,141,1421,183"/>
+<area shape="rect" id="node21" href="$class_root_skeletion_builder.html#a9d7ec06fba39fa9fb824f791653fa546" title="自由重切 获取所有结点分布较为稀疏的根分支 然后启动分支重切 问题分支确定：分支点平均间隔大于切片最大移..." alt="" coords="1029,196,1172,237"/>
+<area shape="rect" id="node23" href="$class_root_skeletion_builder.html#a172e833b6c86e22de6eb088332b3bb3d" title="更新分支首结点 使用补充重切方法来补充分支首部结点 " alt="" coords="757,248,935,289"/>
+<area shape="rect" id="node24" href="$class_root_skeletion_builder.html#a1432f3c08a5ef61f5a7fdc085acf5d03" title="RootSkeletionBuilder::addNodeProperty 添加结点属性主要包括：半径、周长、面积 " alt="" coords="775,313,917,355"/>
+<area shape="rect" id="node16" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="1524,141,1667,183"/>
+<area shape="rect" id="node17" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1775,95,1925,136"/>
+<area shape="rect" id="node18" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="2011,80,2153,121"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="2201,76,2400,117"/>
+<area shape="rect" id="node20" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="2448,72,2631,113"/>
+<area shape="rect" id="node22" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="1279,231,1421,272"/>
+<area shape="rect" id="node25" href="$class_root_skeletion_builder.html#abfc840d56a86fc6744ea95dca46e8fea" title="RootSkeletionBuilder::updateNodes 更新结点属性值 包括如下属性： 1、更新结点状态 2、更新法向量 3、补充..." alt="" coords="1029,313,1172,355"/>
+</map>

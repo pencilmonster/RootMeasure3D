@@ -1,0 +1,21 @@
+<map id="QtIntPropertyManager::setValue" name="QtIntPropertyManager::setValue">
+<area shape="rect" id="node2" href="$class_qt_spin_box_factory_private.html#a931ce3c055c2aedaf9532844e40b2828" title="QtSpinBoxFactoryPrivate\l::slotSetValue" alt="" coords="217,5,385,47"/>
+<area shape="rect" id="node3" href="$class_qt_slider_factory_private.html#a9abe6bfe4cbc01b26b58b11482e58d58" title="QtSliderFactoryPrivate\l::slotSetValue" alt="" coords="225,71,377,112"/>
+<area shape="rect" id="node4" href="$class_qt_scroll_bar_factory_private.html#a99bf6ade59beb6217f4e6a1ae3da6a6a" title="QtScrollBarFactoryPrivate\l::slotSetValue" alt="" coords="215,136,387,177"/>
+<area shape="rect" id="node5" href="$class_qt_point_property_manager.html#afcb764ec969c22f0131ac1151d669896" title="Sets the value of the given property to value. " alt="" coords="219,201,384,243"/>
+<area shape="rect" id="node6" href="$class_qt_point_property_manager.html#a5ae6d35655a2d0f514a87ded1f2fd6b5" title="QtPointPropertyManager\l::initializeProperty" alt="" coords="219,267,384,308"/>
+<area shape="rect" id="node7" href="$class_qt_size_property_manager.html#affbd5b7cfafc273b1af7b6e535de39ee" title="QtSizePropertyManager\l::initializeProperty" alt="" coords="221,332,382,373"/>
+<area shape="rect" id="node8" href="$class_qt_rect_property_manager.html#a407029ec29077e974452c1a3318cb261" title="Sets the value of the given property to value. " alt="" coords="220,397,383,439"/>
+<area shape="rect" id="node9" href="$class_qt_rect_property_manager.html#a7ef8e45d21bf2c9556d8bd46d2adee99" title="QtRectPropertyManager\l::initializeProperty" alt="" coords="220,463,383,504"/>
+<area shape="rect" id="node10" href="$class_qt_size_policy_property_manager.html#a072ee2c346fc0097ec01adb1ac156cbe" title="Sets the value of the given property to value. " alt="" coords="203,528,400,569"/>
+<area shape="rect" id="node11" href="$class_qt_size_policy_property_manager.html#ac721a0721079c7b9a379e168af071105" title="QtSizePolicyPropertyManager\l::initializeProperty" alt="" coords="203,593,400,635"/>
+<area shape="rect" id="node12" href="$class_qt_font_property_manager.html#a3c6874b1134907b493b26fe8d9b42a64" title="Sets the value of the given property to value. " alt="" coords="221,659,382,700"/>
+<area shape="rect" id="node17" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="221,724,382,765"/>
+<area shape="rect" id="node18" href="$class_qt_color_property_manager.html#ab18ff6b769efadd18ec2f56b5ec396bf" title="Sets the value of the given property to value. " alt="" coords="219,789,384,831"/>
+<area shape="rect" id="node20" href="$class_qt_color_property_manager.html#a3ed1db5091e4254e1c7cd84901fe493c" title="QtColorPropertyManager\l::initializeProperty" alt="" coords="219,855,384,896"/>
+<area shape="rect" id="node13" href="$class_qt_font_editor_factory_private.html#a04599092bccd1324431a419c96181f6c" title="QtFontEditorFactoryPrivate\l::slotSetValue" alt="" coords="459,528,637,569"/>
+<area shape="rect" id="node14" href="$class_qt_font_property_manager_private.html#a67189b05940b8dc4f4cbf484e777bb29" title="QtFontPropertyManagerPrivate\l::slotIntChanged" alt="" coords="448,593,648,635"/>
+<area shape="rect" id="node15" href="$class_qt_font_property_manager_private.html#a482688f9dcf50fd34a8c970b4ff279a9" title="QtFontPropertyManagerPrivate\l::slotEnumChanged" alt="" coords="448,659,648,700"/>
+<area shape="rect" id="node16" href="$class_qt_font_property_manager_private.html#abb85da9f3a5891554fdab479501ce90b" title="QtFontPropertyManagerPrivate\l::slotBoolChanged" alt="" coords="448,724,648,765"/>
+<area shape="rect" id="node19" href="$class_qt_color_editor_factory_private.html#a728b03f0dd8493f37ddb2618b832fd55" title="QtColorEditorFactoryPrivate\l::slotSetValue" alt="" coords="457,789,639,831"/>
+</map>

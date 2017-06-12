@@ -1,0 +1,8 @@
+<map id="QtIntPropertyManager::value" name="QtIntPropertyManager::value">
+<area shape="rect" id="node2" href="$class_qt_spin_box_factory_private.html#a58347d03d8a8fcffc33381a9eb67f389" title="QtSpinBoxFactoryPrivate\l::slotRangeChanged" alt="" coords="214,5,382,47"/>
+<area shape="rect" id="node3" href="$class_qt_spin_box_factory.html#a33b988d62c8f0c3c8f6907c1ee908f26" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="211,71,385,112"/>
+<area shape="rect" id="node4" href="$class_qt_slider_factory_private.html#af29d51a3b38487ffffb0d9f339b1bd74" title="QtSliderFactoryPrivate\l::slotRangeChanged" alt="" coords="222,136,374,177"/>
+<area shape="rect" id="node5" href="$class_qt_slider_factory.html#a3a55068f01d96ae2cd264c23dbb8071e" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="203,202,393,229"/>
+<area shape="rect" id="node6" href="$class_qt_scroll_bar_factory_private.html#a4737a0fc55263e6c469b03cf6f28a58c" title="QtScrollBarFactoryPrivate\l::slotRangeChanged" alt="" coords="212,253,384,295"/>
+<area shape="rect" id="node7" href="$class_qt_scroll_bar_factory.html#ab14e4808e65e35777d9a8ab9a0f8a8f3" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="231,319,365,360"/>
+</map>

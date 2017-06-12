@@ -1,0 +1,4 @@
+<map id="QtSpinBoxFactory::slotRangeChanged" name="QtSpinBoxFactory::slotRangeChanged">
+<area shape="rect" id="node2" href="$class_qt_spin_box_factory.html#afa119a39e909e8c34fe03070b0f565dd" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="257,5,439,47"/>
+<area shape="rect" id="node3" href="$class_qt_spin_box_factory.html#a920504393080dbb602f04828a89e11ec" title="Disconnects this factory from the given manager&#39;s signals. " alt="" coords="248,71,448,112"/>
+</map>

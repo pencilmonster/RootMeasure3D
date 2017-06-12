@@ -1,0 +1,17 @@
+<map id="ConnectedRegion::GetRegionInfo" name="ConnectedRegion::GetRegionInfo">
+<area shape="rect" id="node2" href="$class_connected_region.html#a23411820a62d68b3fa2af0e3015367fd" title="ConnectedRegion::SetInput" alt="" coords="291,5,471,32"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#ae6d4631066636bd2e26aa313775f3858" title="ConnectedRegion::Update" alt="" coords="295,56,468,83"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="285,107,478,149"/>
+<area shape="rect" id="node5" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="282,173,481,214"/>
+<area shape="rect" id="node6" href="$class_connected_region.html#a9392e82b05c2ad593ad9e1a16e3f0da3" title="ConnectedRegion::GetPhysicalSize 获取i个连通区域物理大小 " alt="" coords="267,239,496,265"/>
+<area shape="rect" id="node7" href="$class_connected_region.html#a056b729f0710beeba5bd176155f7e7ec" title="ConnectedRegion::GetPerimeter 获取i个连通区域周长 " alt="" coords="277,289,486,316"/>
+<area shape="rect" id="node8" href="$class_connected_region.html#a3104bae943b6072425bb1435b7136636" title="ConnectedRegion::GetRoundness 获取i个连通区域圆率 " alt="" coords="272,340,491,367"/>
+<area shape="rect" id="node9" href="$class_connected_region.html#ab09bddf21f1b0f35948e93ac43bc4c95" title="ConnectedRegion::GetCentroid 获取i个连通区域质心 " alt="" coords="792,428,993,455"/>
+<area shape="rect" id="node10" href="$class_connected_region.html#a0244a9089b5d3d9c282ba06880375def" title="ConnectedRegion::GetEquivalentSphericalRadius 获取i个连通区等效圆半径 " alt="" coords="275,625,487,666"/>
+<area shape="rect" id="node11" href="$class_connected_region.html#ac65d2c99d2c996b5918ba836d5466030" title="ConnectedRegion::GetEquivalentSphericalPerimeter 获取i个连通区等效圆周长 " alt="" coords="275,690,487,731"/>
+<area shape="rect" id="node12" href="$class_connected_region.html#a655e1b51e4974def3321ddc039aef805" title="ConnectedRegion::GetEquivalentEllipsoidDiameter 获取i个连通区等效椭圆长短轴 " alt="" coords="787,530,999,571"/>
+<area shape="rect" id="node13" href="$class_connected_region.html#a9b31c773c6e0a5e071a3b6b4e48e6667" title="ConnectedRegion::GetPrincipalAxesPoints 获取长轴短轴的端点坐标 " alt="" coords="280,442,483,483"/>
+<area shape="rect" id="node14" href="$class_connected_region.html#a292c20b2e31cd966b2523088f99571e5" title="ConnectedRegion::GetLongAxesPoints 获取等效椭圆长轴的两个端点坐标 itk中长轴方向与连通区域坐标系（主轴..." alt="" coords="545,442,727,483"/>
+<area shape="rect" id="node16" href="$class_connected_region.html#a123e4ea458b7b7794515e683ca362c89" title="ConnectedRegion::GetShortAxesPoints 获取等效椭圆长轴的两个端点坐标 itk中短轴方向与连通区域坐标系（主�..." alt="" coords="544,507,728,549"/>
+<area shape="rect" id="node15" href="$class_connected_region.html#a3fd5ff188d2a023b74f09b88d1d95742" title="ConnectedRegion::GetPrincipalAxes 获取第i个连连通区域的主轴坐标系 " alt="" coords="776,479,1009,505"/>
+</map>

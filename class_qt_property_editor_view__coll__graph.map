@@ -1,0 +1,13 @@
+<map id="QtPropertyEditorView" name="QtPropertyEditorView">
+<area shape="rect" id="node3" href="$class_qt_tree_property_browser_private.html" title="QtTreePropertyBrowserPrivate" alt="" coords="185,171,381,197"/>
+<area shape="rect" id="node4" href="$class_qt_tree_property_browser.html" title="The QtTreePropertyBrowser class provides QTreeWidget based property browser. " alt="" coords="307,267,465,294"/>
+<area shape="rect" id="node15" href="$class_qt_property_editor_delegate.html" title="QtPropertyEditorDelegate" alt="" coords="18,267,189,294"/>
+<area shape="rect" id="node5" href="$class_qt_abstract_property_browser.html" title="QtAbstractPropertyBrowser provides a base class for implementing property browsers. " alt="" coords="475,171,657,197"/>
+<area shape="rect" id="node7" href="$class_qt_abstract_property_browser_private.html" title="QtAbstractPropertyBrowser\lPrivate" alt="" coords="475,468,657,509"/>
+<area shape="rect" id="node9" href="$class_qt_browser_item_private.html" title="QtBrowserItemPrivate" alt="" coords="619,267,766,294"/>
+<area shape="rect" id="node8" href="$class_qt_browser_item.html" title="The QtBrowserItem class represents a property in a property browser instance. " alt="" coords="604,379,712,405"/>
+<area shape="rect" id="node10" href="$class_qt_property.html" title="The QtProperty class encapsulates an instance of a property. " alt="" coords="766,171,851,197"/>
+<area shape="rect" id="node11" href="$class_qt_property_private.html" title="QtPropertyPrivate" alt="" coords="811,267,935,294"/>
+<area shape="rect" id="node12" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="949,171,1133,197"/>
+<area shape="rect" id="node14" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="986,260,1170,301"/>
+</map>

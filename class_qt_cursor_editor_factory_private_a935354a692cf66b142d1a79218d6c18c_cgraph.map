@@ -1,0 +1,5 @@
+<map id="QtCursorEditorFactoryPrivate::slotEnumChanged" name="QtCursorEditorFactoryPrivate::slotEnumChanged">
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html#a8bd19d2e1488aef12477861227de8903" title="Returns the property manager for the given property, or 0 if the given property doesn&#39;t belong to any..." alt="" coords="249,5,412,47"/>
+<area shape="rect" id="node3" href="$class_qt_cursor_property_manager.html#a0079c81ab012781d1d8f495ed9987a2d" title="Sets the value of the given property to value. " alt="" coords="244,71,417,112"/>
+<area shape="rect" id="node4" href="$class_qt_cursor_property_manager.html#aaf636f967fbf2cc8f9b9fa17e0369b6a" title="Returns the given property&#39;s value. " alt="" coords="465,71,639,112"/>
+</map>

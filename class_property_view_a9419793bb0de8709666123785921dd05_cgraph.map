@@ -1,0 +1,7 @@
+<map id="PropertyView::SlotValueChange" name="PropertyView::SlotValueChange">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#a10bc42c0d2f882cee4dbe7be8e3d2222" title="Returns the current item in the property browser. " alt="" coords="260,5,441,47"/>
+<area shape="rect" id="node3" href="$class_qt_browser_item.html#afed8197ad887301642017d7b61c185b7" title="Returns the parent item of this item. " alt="" coords="275,71,427,98"/>
+<area shape="rect" id="node4" href="$class_qt_browser_item.html#a2c4edfa9e76dfaefc5866f2e3e9d48f4" title="Returns the property which is accosiated with this item. " alt="" coords="269,122,432,149"/>
+<area shape="rect" id="node5" href="$class_property_view.html#a6100931b53a557e23856734bacf0b9f9" title="PropertyView::isQVector3D 由属性ID判定该值是否属于QVector3D. " alt="" coords="260,173,441,199"/>
+<area shape="rect" id="node6" href="$class_property_view.html#ad76d6f53145696dd47059a08f50c1779" title="PropertyView::getQVector3DValue 将属性值重新用QVector3D来表示。并寻找其所对应的属性ID. " alt="" coords="261,224,441,265"/>
+</map>

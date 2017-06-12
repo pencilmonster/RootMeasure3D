@@ -1,0 +1,20 @@
+<map id="RootSkeletionBuilder::startTask" name="RootSkeletionBuilder::startTask">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#aee05a8086869b85a8a8a1b86fcd2a504" title="重置重切器 保证自动重切开始时在正确的位置 " alt="" coords="199,205,341,247"/>
+<area shape="rect" id="node12" href="$class_root_skeletion_builder.html#afde235309782810dc21e2f7c41b27827" title="RootSkeletionBuilder\l::clear" alt="" coords="199,355,341,396"/>
+<area shape="rect" id="node15" href="$class_root_skeletion_builder.html#a3bb4def6aa5127e92321295dedfa5ce2" title="RootSkeletionBuilder::computeProgress 计算总体进度同时重置进度对话框 " alt="" coords="199,420,341,461"/>
+<area shape="rect" id="node17" href="$class_root_skeletion_builder.html#a4d74936f544412787935ea94ec82caad" title="RootSkeletionBuilder::showProgressDialog 显示进度对话框 " alt="" coords="196,485,344,527"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a181c8abc9c20fc82f74ce0aa3bf3c572" title="RootSkeletionBuilder::saveReslicerStatus 记录在自动重切开始之前，重切器的一些状态信息 ..." alt="" coords="437,75,580,116"/>
+<area shape="rect" id="node7" href="$class_reslicer.html#a3b68e9d9e4ab1d6de706513d66ed8cab" title="Reslicer::setPlaneOrientation" alt="" coords="413,162,604,189"/>
+<area shape="rect" id="node10" href="$class_reslicer.html#a9e2def65f33f523ce959ae50e1a8433f" title="Reslicer::resetPosition" alt="" coords="432,213,585,239"/>
+<area shape="rect" id="node11" href="$class_root_skeletion_builder.html#ac473f86ae82e9b6efe846ae2ad2da32d" title="设置重切方法 &#160;" alt="" coords="437,264,580,305"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#aebe8a930582e51cbd6865ab1146535ae" title="Reslicer::disconnectvtkEvent\lQtslot" alt="" coords="673,5,861,47"/>
+<area shape="rect" id="node5" href="$class_reslicer.html#a184177d79e90f1c913502dddb95ba060" title="Reslicer::getEnable" alt="" coords="700,71,835,98"/>
+<area shape="rect" id="node6" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="700,122,835,149"/>
+<area shape="rect" id="node8" href="$class_reslicer.html#abeb941832329e9700bc3e0d4f3978c96" title="Reslicer::setPlaneNormal" alt="" coords="683,173,852,199"/>
+<area shape="rect" id="node9" href="$class_image_plane_widget.html#a32dbe9dda2b8e2a30b646944b9ec6ba8" title="ImagePlaneWidget::SetNormal" alt="" coords="909,173,1109,199"/>
+<area shape="rect" id="node13" href="$class_root_system.html#af78971f5e310a9e06696ba20996a34a6" title="RootSystem::clearAll" alt="" coords="436,330,581,357"/>
+<area shape="rect" id="node14" href="$class_root_branch.html#a6dded88bdd8dcaa211b6a1df2572b178" title="RootBranch::clear" alt="" coords="445,381,572,407"/>
+<area shape="rect" id="node16" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="392,431,625,458"/>
+<area shape="rect" id="node18" href="$class_root_skeletion_builder.html#a0c5aa39a835875457a362520b82e1706" title="RootSkeletionBuilder::SlotcancelSkeletonBuild 取消骨架提取 响应进度对话框中的取消按钮 ..." alt="" coords="423,485,594,527"/>
+<area shape="rect" id="node19" href="$class_root_skeletion_builder.html#a4828de2d5f381e4c0ab1b41dbcad5dd0" title="RootSkeletionBuilder::closeProgressDialog 关闭进度对话框 " alt="" coords="693,485,842,527"/>
+</map>

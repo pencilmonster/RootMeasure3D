@@ -1,0 +1,51 @@
+<map id="Graph3DView::SlotcreateVectorModel" name="Graph3DView::SlotcreateVectorModel">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#adf4c3e2eaabfa548ac35b7cc17fb0190" title="删除矢量模型 " alt="" coords="276,259,459,301"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#aceb2477c20247b71238499de377856d3" title="Graph3DView::SlotsetRootInfo" alt="" coords="540,208,737,235"/>
+<area shape="rect" id="node6" href="$class_root_vector_model.html#af121a104c93cb5ebef4567fde0e4ecd3" title="RootVectorModel::New" alt="" coords="290,647,445,673"/>
+<area shape="rect" id="node7" href="$class_root_vector_model.html#a68497f4e98cae8c3d4d4d4a512d99405" title="RootVectorModel::showSkeletion 显示骨架线条 " alt="" coords="260,857,475,884"/>
+<area shape="rect" id="node23" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="275,436,459,463"/>
+<area shape="rect" id="node49" href="$class_root_vector_model.html#a9e91dce1e554d7b2d837c7a5765c5f0b" title="RootVectorModel::getActor 获取矢量模型 " alt="" coords="278,908,457,935"/>
+<area shape="rect" id="node50" href="$class_root_vector_model.html#a7a124f2cbc160c699067673f416312a2" title="RootVectorModel::getCore\lNodeActor" alt="" coords="280,959,455,1001"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="537,259,741,285"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="846,5,994,32"/>
+<area shape="rect" id="node8" href="$class_root_system.html#a69f98aa7c6e94b549378ef1b3fdd889e" title="RootSystem::isEmpty" alt="" coords="563,883,714,909"/>
+<area shape="rect" id="node9" href="$class_root_vector_model.html#a54d4222c5894ad1a4073b46778254b4c" title="RootVectorModel::getRootInfo 获取根系统信息 " alt="" coords="541,1035,736,1061"/>
+<area shape="rect" id="node10" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="803,984,1037,1011"/>
+<area shape="rect" id="node14" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="1363,1021,1526,1048"/>
+<area shape="rect" id="node20" href="$class_root_system.html#a9738f05089c5cac80d5c4810323c1e9e" title="返回所有的根分支 " alt="" coords="551,1085,726,1112"/>
+<area shape="rect" id="node21" href="$class_math_tool.html#a3d1f14cd60fea2ecafaf8ee1b3b20f3f" title="生成伪随机数 " alt="" coords="573,781,704,808"/>
+<area shape="rect" id="node22" href="$class_root_system.html#a79739964eaf6f95dfdf04cbe18a18d49" title="返回所有的根结点 " alt="" coords="560,832,717,859"/>
+<area shape="rect" id="node11" href="$class_root_system.html#a6888118e49689bc1d316b044bcc3b203" title="RootSystem::getTotalLength 返回总长度 " alt="" coords="827,1085,1013,1112"/>
+<area shape="rect" id="node16" href="$class_root_system.html#a8a66daf646485d9a1dc6d5edf02104e7" title="RootSystem::getTotalVolume 返回总体积 " alt="" coords="824,1136,1016,1163"/>
+<area shape="rect" id="node18" href="$class_root_system.html#a052429f84708c74148066cf12e36caf7" title="RootSystem::getTotalSurfaceArea 返回总表面积 " alt="" coords="811,1035,1029,1061"/>
+<area shape="rect" id="node12" href="$class_root_system.html#ae4daf2e7512cd226f96a7aa9533c22d3" title="返回所有的根分支Id " alt="" coords="1107,1101,1286,1128"/>
+<area shape="rect" id="node13" href="$class_root_system.html#a8b5099124c4fbbd7e25619cc0df1640a" title="RootSystem::getLengthOfBranch 通过累加结点到结点之间的距离来计算根长 " alt="" coords="1090,1051,1303,1077"/>
+<area shape="rect" id="node15" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="1581,1021,1763,1048"/>
+<area shape="rect" id="node17" href="$class_root_system.html#aefc7ae820220e12ed8776a0eefba4983" title="RootSystem::getVolumeOfBranch 圆台体积分段累加求根分支体积 圆台体积公式1：V = 1/3 * pi * h * (R^2 + r..." alt="" coords="1087,1152,1306,1179"/>
+<area shape="rect" id="node19" href="$class_root_system.html#a5310a22be8b8b3b8c81e84e02cd392a0" title="RootSystem::getSurfaceOfBranch 分段累加计算根分支表面积 公 式：S = length * (pi * D0 + pi * D1) / 2 =..." alt="" coords="1101,985,1292,1026"/>
+<area shape="rect" id="node24" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="547,309,730,336"/>
+<area shape="rect" id="node25" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="539,555,738,581"/>
+<area shape="rect" id="node27" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="525,411,752,437"/>
+<area shape="rect" id="node32" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="523,461,755,488"/>
+<area shape="rect" id="node47" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="543,689,734,716"/>
+<area shape="rect" id="node26" href="$class_graph3_d_view.html#ab9ed1c6eae18aac266da353a1450c99d" title="Graph3DView::SlotPopUp" alt="" coords="835,816,1005,843"/>
+<area shape="rect" id="node28" href="$classvtk_reconstruct.html#a1f3c82a5f9e0644f729a91b1a4baf1bd" title="vtkReconstruct::GetSurfaceArea 得到重建模型的表面积（仅限表面模型） " alt="" coords="816,107,1024,133"/>
+<area shape="rect" id="node30" href="$classvtk_reconstruct.html#ae889b9c17980bded974b8e32ff075cdb" title="vtkReconstruct::GetVolumeArea 得到重建模型的体积（仅限表面模型） " alt="" coords="816,56,1024,83"/>
+<area shape="rect" id="node29" href="$classvtk_base_reconstruction.html#af84df01e5ba67e753f2885e1e5545e7f" title="vtkBaseReconstruction\l::GetSurfaceArea" alt="" coords="1119,91,1274,133"/>
+<area shape="rect" id="node31" href="$classvtk_base_reconstruction.html#abb545f7903832c7b39f7e397e0b85300" title="vtkBaseReconstruction\l::GetVolumeArea" alt="" coords="1119,26,1274,67"/>
+<area shape="rect" id="node33" href="$classvtk_reconstruct.html#a3dd63f7e3d8304bbc03c4fa23b8d85c8" title="vtkReconstruct::setVisibility" alt="" coords="829,512,1011,539"/>
+<area shape="rect" id="node35" href="$classvtk_reconstruct.html#a25b418505f580ab32dfecb163624ff65" title="vtkReconstruct::setReaderParm 读取数据时候所需要设置的参数 " alt="" coords="817,208,1023,235"/>
+<area shape="rect" id="node36" href="$classvtk_reconstruct.html#a6e4808ab6a54bb53d6b015336363c193" title="vtkReconstruct::createImage\lReader" alt="" coords="1103,226,1290,267"/>
+<area shape="rect" id="node37" href="$classvtk_reconstruct.html#a92ebcff3d1dc26db08c3d128f40841ed" title="vtkReconstruct::setReconstructParm 三维重建所需要的参数 " alt="" coords="803,664,1037,691"/>
+<area shape="rect" id="node38" href="$classvtk_reconstruct.html#a9d4a1fedda16d9d50aed6181bef41538" title="vtkReconstruct::createReconstruct\lMethod" alt="" coords="1085,631,1308,673"/>
+<area shape="rect" id="node39" href="$classvtk_reconstruct.html#ab31525dcfda65423ed5793969ccdf681" title="vtkReconstruct::setFilterParm 三位滤波器的参数 这里包括膨胀腐蚀滤波器、开闭运算滤波器、中值滤波器 ..." alt="" coords="823,765,1017,792"/>
+<area shape="rect" id="node40" href="$classvtk_reconstruct.html#adecde671ec2de9f190d657838a2b1c8f" title="vtkReconstruct::createFilter3D 负责管控滤波器 " alt="" coords="1098,740,1295,767"/>
+<area shape="rect" id="node41" href="$classvtk_reconstruct.html#aabd36e41ececd95d9436fdf69aa36b96" title="vtkReconstruct::startTask 开始重建任务 " alt="" coords="835,360,1005,387"/>
+<area shape="rect" id="node42" href="$classvtk_reconstruct.html#abe456ddab09b0cfbdfe9d069e3074568" title="vtkReconstruct::showProgress\lDialog" alt="" coords="1097,361,1296,402"/>
+<area shape="rect" id="node43" href="$classvtk_reconstruct.html#a8c46dfbb792a9df8375e4e9e72406f7b" title="vtkReconstruct::Slotcancel\lReconstruct" alt="" coords="1356,302,1533,343"/>
+<area shape="rect" id="node44" href="$classvtk_reconstruct.html#a32f75b26e20fe5a69d5d85640395cc2b" title="vtkReconstruct::Slotcolse\lProgressDialog" alt="" coords="1587,302,1757,343"/>
+<area shape="rect" id="node45" href="$classvtk_reconstruct.html#ac08e46cf1f6ab030ec9bc9d52210e115" title="vtkReconstruct::vtkReconstruct" alt="" coords="819,411,1021,437"/>
+<area shape="rect" id="node46" href="$classvtk_reconstruct.html#ac865a204ef70095f9e0c2d53ca6764e9" title="vtkReconstruct::run 起一个线程 调用该函数之前确保各个滤波器存在且其参数已经设置完毕 ..." alt="" coords="853,563,987,589"/>
+<area shape="rect" id="node34" href="$classvtk_base_reconstruction.html#ab6c6336d6ce9bbef07484573e30c9958" title="vtkBaseReconstruction\l::GetProp" alt="" coords="1119,530,1274,571"/>
+<area shape="rect" id="node48" href="$classvtk_base_reconstruction.html#a76bc5015d2fae3ca529a490346418967" title="vtkBaseReconstruction\l::GetPolyData" alt="" coords="843,867,997,909"/>
+</map>

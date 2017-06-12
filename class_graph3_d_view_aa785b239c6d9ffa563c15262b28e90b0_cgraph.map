@@ -1,0 +1,51 @@
+<map id="Graph3DView::Graph3DView" name="Graph3DView::Graph3DView">
+<area shape="rect" id="node2" href="$class_surface_model_picker.html#ad098719cf7edab4bb4ce0faeedd24419" title="SurfaceModelPicker\l::setInteractor" alt="" coords="277,5,416,47"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a159a8c50468367144d446f9a63975215" title="获取拾取器所拾取的坐标，并发送到主界面状态栏上显示 " alt="" coords="245,71,449,98"/>
+<area shape="rect" id="node4" href="$class_vector_model_picker.html#a300725b2645c94095f17784439a6d096" title="VectorModelPicker::setInteractor 设置交互器 " alt="" coords="277,123,417,164"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a645f6e242a7b7a1f89b37ca8e1bf5235" title="Graph3DView::SlotsetBranchInfo" alt="" coords="241,189,452,215"/>
+<area shape="rect" id="node6" href="$class_axes3_d.html#af43ace6b9a991e00bffd45319d650601" title="Axes3D::setRender" alt="" coords="279,239,414,266"/>
+<area shape="rect" id="node7" href="$class_text_widget.html#aeb91f887233043cf7ffb94d277ae211e" title="setPosition2 设置边框右上角位置 取值范围0&#45;1 " alt="" coords="261,290,432,317"/>
+<area shape="rect" id="node8" href="$class_spline_widget.html#a141a1db6a0c0781d2cb6cd746f24dd28" title="SplineWidget::SetText" alt="" coords="271,341,423,367"/>
+<area shape="rect" id="node9" href="$class_angle_widget.html#a53451ce7191dd7ac2f13ae7ce91bd643" title="AngleWidget::SetText" alt="" coords="272,391,421,418"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#a8deeded97d11f9ca7f4549fb7c28a67b" title="Graph3DView::SlotgetProtreatorInfo 获取量角器属性值 并发送信号 " alt="" coords="751,434,977,461"/>
+<area shape="rect" id="node15" href="$class_graph3_d_view.html#af358b2ea68fa80823bb519b976f52ce9" title="Graph3DView::SlotYawCamera" alt="" coords="500,1325,703,1351"/>
+<area shape="rect" id="node17" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="243,493,450,519"/>
+<area shape="rect" id="node10" href="$class_angle_widget.html#af5615288fd170a04c372f435b9f45552" title="AngleWidget::SetPointWorld\lPosition" alt="" coords="507,376,695,417"/>
+<area shape="rect" id="node12" href="$class_angle_widget.html#a1db0a24450bb1a7730df350f03cb289d" title="AngleWidget::GetPointWorld\lPosition" alt="" coords="1038,427,1227,468"/>
+<area shape="rect" id="node13" href="$class_angle_widget.html#abe22a1dfbbaf2d03e3eb419cd1f14f90" title="AngleWidget::GetLineColor" alt="" coords="1043,325,1222,351"/>
+<area shape="rect" id="node14" href="$class_angle_widget.html#a8eb75df6b77c990479fa63a67a34523a" title="AngleWidget::GetLineWidth" alt="" coords="1041,375,1224,402"/>
+<area shape="rect" id="node16" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="1603,1015,1751,1042"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="505,1031,698,1058"/>
+<area shape="rect" id="node23" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="1305,357,1503,383"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="757,787,971,814"/>
+<area shape="rect" id="node22" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="1313,1015,1495,1042"/>
+<area shape="rect" id="node32" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="1609,813,1744,839"/>
+<area shape="rect" id="node37" href="$class_graph3_d_view.html#adf4c3e2eaabfa548ac35b7cc17fb0190" title="删除矢量模型 " alt="" coords="773,965,955,1007"/>
+<area shape="rect" id="node39" href="$class_graph3_d_view.html#acb9a3961c677a1b48c71650ee48466a5" title="删除VRMLActor " alt="" coords="1027,914,1238,941"/>
+<area shape="rect" id="node40" href="$class_spline_widget.html#abdc64f4776adcc6c242c5177917d9d6f" title="SplineWidget::Off" alt="" coords="803,1133,925,1159"/>
+<area shape="rect" id="node41" href="$class_angle_widget.html#add2e7af2e747790ed512b0ebdb5a0493" title="AngleWidget::Off" alt="" coords="804,1183,924,1210"/>
+<area shape="rect" id="node42" href="$class_surface_model_picker.html#a01594294f518d3456b68a784ad8f0f2b" title="SurfaceModelPicker\l::setEnable" alt="" coords="795,1235,933,1276"/>
+<area shape="rect" id="node43" href="$class_vector_model_picker.html#acdadaf261edf922f01c70aec8cb30a2b" title="VectorModelPicker::\lsetEnable" alt="" coords="794,1300,934,1341"/>
+<area shape="rect" id="node45" href="$class_axes3_d.html#a456d2a5a41bd5759d585121d5e8b0162" title="Axes3D::setVisibility" alt="" coords="793,1366,935,1393"/>
+<area shape="rect" id="node46" href="$class_spline_widget.html#a07311d7db255412ed0cf812bebbb7bc6" title="SplineWidget::On" alt="" coords="802,1417,926,1443"/>
+<area shape="rect" id="node47" href="$class_graph3_d_view.html#abbcb810f514aebb6ef31b4447f5b124a" title="Graph3DView::SlotgetRulerInfo 获取刻度尺属性信息并发出相关信号 " alt="" coords="764,1467,964,1494"/>
+<area shape="rect" id="node48" href="$class_angle_widget.html#aa05b607786e3c919cd9245ceae432ae3" title="AngleWidget::Reset" alt="" coords="795,1518,933,1545"/>
+<area shape="rect" id="node49" href="$class_angle_widget.html#a4f03e26a5d0d844ff869da300022eeb4" title="AngleWidget::On" alt="" coords="803,686,925,713"/>
+<area shape="rect" id="node50" href="$class_root_vector_model.html#a84f3a05b5d3839e7dc56b3e810c95853" title="RootVectorModel::setVisibility 设置骨架模型可见性 " alt="" coords="765,737,963,763"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="1041,762,1225,789"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="1302,965,1506,991"/>
+<area shape="rect" id="node28" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="1025,594,1240,621"/>
+<area shape="rect" id="node29" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="1297,610,1511,637"/>
+<area shape="rect" id="node36" href="$classvtk_reconstruct.html#a1d0ee1a617df2942f526bcecc50a3b8c" title="vtkReconstruct::removeProgressDialog 移除进度对话框指针 " alt="" coords="1028,696,1237,737"/>
+<area shape="rect" id="node25" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="1291,711,1517,738"/>
+<area shape="rect" id="node26" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="1288,762,1520,789"/>
+<area shape="rect" id="node27" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="1309,813,1499,839"/>
+<area shape="rect" id="node24" href="$class_graph3_d_view.html#ab9ed1c6eae18aac266da353a1450c99d" title="Graph3DView::SlotPopUp" alt="" coords="1591,357,1762,383"/>
+<area shape="rect" id="node30" href="$class_graph3_d_view.html#a7017fa1b241fd2573e1c9739e183379a" title="获取重切器变化信息，并以信号形式发给属性浏览器 " alt="" coords="1568,470,1785,497"/>
+<area shape="rect" id="node31" href="$class_graph3_d_view.html#aa0e02f27533fad98354db963ea41245c" title="重切器生成后在启动其右击菜单选项 同时使骨架化参数对话框可用 " alt="" coords="1587,539,1766,580"/>
+<area shape="rect" id="node33" href="$class_reslicer.html#aa9db0448d05b1febea702311c74096f1" title="Reslicer::setInputConnection" alt="" coords="1583,607,1771,634"/>
+<area shape="rect" id="node34" href="$class_reslicer.html#a235fe73d069a430784c1e09138234d11" title="Reslicer::setCurrentRender" alt="" coords="1587,659,1766,686"/>
+<area shape="rect" id="node35" href="$class_reslicer.html#a6b91eb3ca41f459a790b036188418c17" title="Reslicer::setInteractor" alt="" coords="1602,411,1751,438"/>
+<area shape="rect" id="node38" href="$class_graph3_d_view.html#aceb2477c20247b71238499de377856d3" title="Graph3DView::SlotsetRootInfo" alt="" coords="1034,1015,1231,1042"/>
+<area shape="rect" id="node44" href="$class_tube_builder.html#a3261d7b62cb788c30d6de68aff67c198" title="TubeBuilder::setVisibility 设置管道可见性 " alt="" coords="1050,1307,1215,1334"/>
+</map>

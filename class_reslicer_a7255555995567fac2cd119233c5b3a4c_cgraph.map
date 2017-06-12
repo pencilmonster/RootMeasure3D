@@ -1,0 +1,6 @@
+<map id="Reslicer::setPlaneSize" name="Reslicer::setPlaneSize">
+<area shape="rect" id="node2" href="$class_reslicer.html#aa2cec7692c4fffb54e86a3018d3effd5" title="Reslicer::setPlaneHigh" alt="" coords="212,5,367,32"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#a97f2dc8bf4edfa57e9d7810c49248b53" title="Reslicer::setPlaneWidth" alt="" coords="208,56,371,83"/>
+<area shape="rect" id="node3" href="$class_image_plane_widget.html#a420afeea0b2dc166906d553fc15af046" title="ImagePlaneWidget::SetHigh" alt="" coords="423,5,608,32"/>
+<area shape="rect" id="node5" href="$class_image_plane_widget.html#a7b444b422863a5c087b7cbc77f4acd4e" title="ImagePlaneWidget::SetWidth" alt="" coords="419,56,612,83"/>
+</map>

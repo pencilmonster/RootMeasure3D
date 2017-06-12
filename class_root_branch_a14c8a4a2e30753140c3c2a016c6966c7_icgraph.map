@@ -1,0 +1,16 @@
+<map id="RootBranch::getIncludedNodeIndexOf" name="RootBranch::getIncludedNodeIndexOf">
+<area shape="rect" id="node2" href="$class_tube_builder.html#ab31d4297563ae4f7acdd343e74b2a154" title="TubeBuilder::setTubeData 获取生成管道所需要的数据 " alt="" coords="248,64,419,91"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#a1e1b10d9e8a69046e92ef36a2a32734d" title="对分支所有结点进行下采样(方法2) 采样规则:曲线分段下采样 依据: 柯西中值定理 " alt="" coords="254,118,413,159"/>
+<area shape="rect" id="node3" href="$class_tube_builder.html#a8f0e70b092af72e4640dbf135c034a4d" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="467,5,637,32"/>
+<area shape="rect" id="node4" href="$class_vector_model_picker.html#acdb7439d6b7eb23c06cc4105e5bfac97" title="VectorModelPicker::SlotsetPosition 根据拾取的坐标设置拾取器的位置 " alt="" coords="482,57,622,98"/>
+<area shape="rect" id="node5" href="$class_vector_model_picker.html#a7531a7b19308990d7f4ef21ea4b942f5" title="VectorModelPicker::\lVectorModelPicker" alt="" coords="687,57,827,98"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#a0a5926b05c11be267ad1a3f5e43d7247" title="更新根分支 包括以下几方面内容： 1 重新确立分支父节点 2 分支首尾两端补充结点 3 分支结点下采样 ..." alt="" coords="481,122,623,163"/>
+<area shape="rect" id="node8" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="685,122,828,163"/>
+<area shape="rect" id="node9" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="876,122,1019,163"/>
+<area shape="rect" id="node10" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1067,122,1217,163"/>
+<area shape="rect" id="node11" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1265,122,1408,163"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1456,122,1655,163"/>
+<area shape="rect" id="node13" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1703,122,1885,163"/>
+<area shape="rect" id="node14" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1933,129,2117,156"/>
+<area shape="rect" id="node15" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2165,129,2344,156"/>
+</map>

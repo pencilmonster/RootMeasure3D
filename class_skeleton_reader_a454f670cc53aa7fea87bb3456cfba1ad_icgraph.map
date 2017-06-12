@@ -1,0 +1,5 @@
+<map id="SkeletonReader::parseNodeElement" name="SkeletonReader::parseNodeElement">
+<area shape="rect" id="node2" href="$class_skeleton_reader.html#a98856b16e3386fcadd889b90d776539f" title="解析骨架数据 " alt="" coords="237,5,443,47"/>
+<area shape="rect" id="node3" href="$class_skeleton_reader.html#af0e899c61edbdbf0c054534d226bd983" title="SkeletonReader::setFileName 设置文件名 " alt="" coords="491,13,685,39"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="733,13,932,39"/>
+</map>

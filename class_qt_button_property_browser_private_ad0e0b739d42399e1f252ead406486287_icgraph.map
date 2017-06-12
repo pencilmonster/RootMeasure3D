@@ -1,0 +1,13 @@
+<map id="QtButtonPropertyBrowserPrivate::gridSpan" name="QtButtonPropertyBrowserPrivate::gridSpan">
+<area shape="rect" id="node2" href="$class_qt_button_property_browser_private.html#a88daae0d25ea3c563b884ddc3adcb9f1" title="QtButtonPropertyBrowserPrivate\l::gridRow" alt="" coords="263,190,472,231"/>
+<area shape="rect" id="node5" href="$class_qt_button_property_browser_private.html#abef9aef97840d05531dd47798273f713" title="QtButtonPropertyBrowserPrivate\l::propertyInserted" alt="" coords="1292,65,1501,106"/>
+<area shape="rect" id="node8" href="$class_qt_button_property_browser_private.html#a8a324c6bd9af8ba210f00ee72998ad20" title="QtButtonPropertyBrowserPrivate\l::propertyRemoved" alt="" coords="1035,335,1244,377"/>
+<area shape="rect" id="node3" href="$class_qt_button_property_browser_private.html#ad516eecf37df2b8a229fe5e37f50c5f0" title="QtButtonPropertyBrowserPrivate\l::slotUpdate" alt="" coords="520,222,729,263"/>
+<area shape="rect" id="node10" href="$class_qt_button_property_browser_private.html#ae8a6931eabe7acd0d1367354faa6f084" title="QtButtonPropertyBrowserPrivate\l::setExpanded" alt="" coords="520,157,729,198"/>
+<area shape="rect" id="node4" href="$class_qt_button_property_browser_private.html#a08b5d1f65f2b027b6628d1b53095f8ff" title="QtButtonPropertyBrowserPrivate\l::createEditor" alt="" coords="1035,159,1244,201"/>
+<area shape="rect" id="node7" href="$class_qt_button_property_browser_private.html#a8a096209d688e4abbb32486a524fedba" title="QtButtonPropertyBrowserPrivate\l::updateLater" alt="" coords="777,277,987,318"/>
+<area shape="rect" id="node6" href="$class_qt_button_property_browser.html#a5a48b5ba05d3294ca11055141755d64e" title="QtButtonPropertyBrowser\l::itemInserted" alt="" coords="1549,65,1720,106"/>
+<area shape="rect" id="node9" href="$class_qt_button_property_browser.html#a9cb389d81d647869465037d96f8710c4" title="QtButtonPropertyBrowser\l::itemRemoved" alt="" coords="1311,335,1482,377"/>
+<area shape="rect" id="node11" href="$class_qt_button_property_browser_private.html#a3b6a5bfb6b74039a8a616f69cb036422" title="QtButtonPropertyBrowserPrivate\l::slotToggled" alt="" coords="777,159,987,201"/>
+<area shape="rect" id="node12" href="$class_qt_button_property_browser.html#aea1d6f65a2843b4a8653ed099a95858e" title="Sets the item to either collapse or expanded, depending on the value of expanded. ..." alt="" coords="797,94,967,135"/>
+</map>

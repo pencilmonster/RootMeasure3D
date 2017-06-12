@@ -1,0 +1,6 @@
+<map id="QtProperty::subProperties" name="QtProperty::subProperties">
+<area shape="rect" id="node2" href="$class_qt_property.html#a8e47b08ff4e980d46fb5a8ee71f347bd" title="Inserts the given property after the specified precedingProperty into this property&#39;s list of subprop..." alt="" coords="227,23,424,50"/>
+<area shape="rect" id="node5" href="$class_qt_variant_property_manager.html#a2b57de024031199e7d84caf917f5508d" title="QtVariantPropertyManager\l::initializeProperty" alt="" coords="702,71,878,112"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager_private.html#a35673057243cb927fa12f465f1b073d0" title="QtVariantPropertyManager\lPrivate::createSubProperty" alt="" coords="472,12,649,53"/>
+<area shape="rect" id="node4" href="$class_qt_variant_property_manager_private.html#aeb2f7ef2d06eaee38c954a496e642469" title="QtVariantPropertyManager\lPrivate::slotPropertyInserted" alt="" coords="697,5,883,47"/>
+</map>

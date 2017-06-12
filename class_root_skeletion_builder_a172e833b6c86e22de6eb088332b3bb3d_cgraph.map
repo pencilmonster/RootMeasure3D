@@ -1,0 +1,51 @@
+<map id="RootSkeletionBuilder::updateFirstNodeOfBranch" name="RootSkeletionBuilder::updateFirstNodeOfBranch">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#a3bb4def6aa5127e92321295dedfa5ce2" title="RootSkeletionBuilder::computeProgress 计算总体进度同时重置进度对话框 " alt="" coords="272,19,415,61"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#a181c8abc9c20fc82f74ce0aa3bf3c572" title="RootSkeletionBuilder::saveReslicerStatus 记录在自动重切开始之前，重切器的一些状态信息 ..." alt="" coords="272,106,415,147"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ae4daf2e7512cd226f96a7aa9533c22d3" title="返回所有的根分支Id " alt="" coords="254,237,433,264"/>
+<area shape="rect" id="node9" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="539,224,700,251"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="232,601,455,642"/>
+<area shape="rect" id="node12" href="$class_root_skeletion_builder.html#aec0d9a4256751459583044ccc6eb3199" title="RootSkeletionBuilder::updateProgress 更新进度条 " alt="" coords="272,666,415,707"/>
+<area shape="rect" id="node13" href="$class_root_system.html#ad46d8ff422cb0c928eab7582edfdddf0" title="返回给定根分支的父结点 如果不存在返回空结点 " alt="" coords="249,405,437,446"/>
+<area shape="rect" id="node18" href="$class_root_system.html#ab132893d2dfd4e3827dfaabbe0a0ea76" title="返回给定分支的第一个根结点 " alt="" coords="255,339,431,381"/>
+<area shape="rect" id="node20" href="$class_root_node.html#a0ed09c0d2171aa761a150260b87fbcf4" title="RootNode::isEmpty" alt="" coords="276,732,411,759"/>
+<area shape="rect" id="node21" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="267,783,420,809"/>
+<area shape="rect" id="node22" href="$class_reslicer.html#a3b68e9d9e4ab1d6de706513d66ed8cab" title="Reslicer::setPlaneOrientation" alt="" coords="248,833,439,860"/>
+<area shape="rect" id="node24" href="$class_reslicer.html#ad21c70fb3d0d6560d2f464b0fb115e0a" title="Reslicer::setPlaneCenter" alt="" coords="260,884,427,911"/>
+<area shape="rect" id="node26" href="$class_root_system.html#ac23cc3cb53ce9267b5b35cbe51b88986" title="获取该结点所在根分支的后一个结点 " alt="" coords="248,535,439,577"/>
+<area shape="rect" id="node30" href="$class_root_system.html#a659d26cbed34bde6eca0601f408adc3f" title="获取该结点所在根分支的前一个结点 " alt="" coords="255,470,432,511"/>
+<area shape="rect" id="node32" href="$class_math_tool.html#ad23b1714a62d26f4315973c51d0389d7" title="MathTool::getVoxelOfImage3D" alt="" coords="244,935,443,961"/>
+<area shape="rect" id="node33" href="$class_reslicer.html#a7255555995567fac2cd119233c5b3a4c" title="Reslicer::setPlaneSize" alt="" coords="266,985,421,1012"/>
+<area shape="rect" id="node36" href="$class_root_skeletion_builder.html#ac473f86ae82e9b6efe846ae2ad2da32d" title="设置重切方法 &#160;" alt="" coords="272,1037,415,1078"/>
+<area shape="rect" id="node37" href="$class_reslicer.html#a8d92947814fc8f3ebbc93e2ea78e86b7" title="Reslicer::push" alt="" coords="291,1103,396,1129"/>
+<area shape="rect" id="node39" href="$class_reslicer.html#a8a5b4f4748f4e0c413cfd7ca124bd0fb" title="Reslicer::GetResliceOutput" alt="" coords="253,1153,433,1180"/>
+<area shape="rect" id="node40" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="237,1204,450,1231"/>
+<area shape="rect" id="node43" href="$class_root_node.html#ae5150e669aca5a21845af8646d07ac49" title="计算当前根结点到指定根结点之间的面积变化率. " alt="" coords="252,1255,435,1281"/>
+<area shape="rect" id="node44" href="$class_root_system.html#a4303bb5ae2a1eb3fa6a6103c2f56c40b" title="RootSystem::getLastNode" alt="" coords="256,1305,431,1332"/>
+<area shape="rect" id="node45" href="$class_root_branch.html#a14bb16ea20538bdcd05eaf91f2a97bf4" title="从首位置向前添加节点Id " alt="" coords="251,1356,435,1383"/>
+<area shape="rect" id="node46" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="285,1407,402,1433"/>
+<area shape="rect" id="node47" href="$class_root_skeletion_builder.html#a07b788d0d982132fcb7617204ef1a51e" title="RootSkeletionBuilder::sleep 延时函数 " alt="" coords="272,1458,415,1499"/>
+<area shape="rect" id="node48" href="$class_root_system.html#a6ed2062c1fbc89bcbd953659bae6bbd7" title="移除根结点 如果该根节点已分组 则进一步将其从分支中移除 " alt="" coords="257,1524,430,1551"/>
+<area shape="rect" id="node49" href="$class_root_branch.html#a9d3d52186b340111f2b65490c853c979" title="RootBranch::removeIncluded\lNodeId" alt="" coords="250,1575,437,1617"/>
+<area shape="rect" id="node50" href="$class_root_skeletion_builder.html#af5bfb39046c5ac152e32a508f4b60078" title="RootSkeletionBuilder::recoverReslicerStatus 恢复自动重切之前的重切器状态 " alt="" coords="265,171,421,213"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="503,5,736,32"/>
+<area shape="rect" id="node5" href="$class_reslicer.html#aebe8a930582e51cbd6865ab1146535ae" title="Reslicer::disconnectvtkEvent\lQtslot" alt="" coords="525,107,713,149"/>
+<area shape="rect" id="node6" href="$class_reslicer.html#a184177d79e90f1c913502dddb95ba060" title="Reslicer::getEnable" alt="" coords="552,56,687,83"/>
+<area shape="rect" id="node7" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="552,173,687,200"/>
+<area shape="rect" id="node10" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="784,300,976,327"/>
+<area shape="rect" id="node14" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="532,376,707,403"/>
+<area shape="rect" id="node15" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="546,477,693,504"/>
+<area shape="rect" id="node16" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="538,427,701,453"/>
+<area shape="rect" id="node17" href="$class_root_branch.html#a5571577ed3aee1ea4cf6f244c2298f70" title="RootBranch::getParentNodeID" alt="" coords="521,325,717,352"/>
+<area shape="rect" id="node19" href="$class_root_branch.html#af58b9fb781b32933f09572dbdb78c2aa" title="获取分支第一个根结点ID " alt="" coords="528,275,711,301"/>
+<area shape="rect" id="node23" href="$class_reslicer.html#abeb941832329e9700bc3e0d4f3978c96" title="Reslicer::setPlaneNormal" alt="" coords="535,833,704,860"/>
+<area shape="rect" id="node25" href="$class_image_plane_widget.html#a342692f2601678dd753016ce2530a0db" title="ImagePlaneWidget::SetCenter" alt="" coords="521,884,718,911"/>
+<area shape="rect" id="node27" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="540,579,699,605"/>
+<area shape="rect" id="node28" href="$class_root_branch.html#ab66fffe5d5e475dcba660902841936ab" title="RootBranch::getNextNodeId 返回当前结点的下一个结点，不存在则返回&#45;1. " alt="" coords="528,680,711,707"/>
+<area shape="rect" id="node29" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="544,629,695,656"/>
+<area shape="rect" id="node31" href="$class_root_branch.html#a45eb3146ccc94060718a36ea3d4bd8eb" title="RootBranch::getPriorNodeId 返回当前结点的前一个结点 不存在 则返回&#45;1. " alt="" coords="528,528,711,555"/>
+<area shape="rect" id="node34" href="$class_reslicer.html#aa2cec7692c4fffb54e86a3018d3effd5" title="Reslicer::setPlaneHigh" alt="" coords="542,1011,697,1037"/>
+<area shape="rect" id="node35" href="$class_reslicer.html#a97f2dc8bf4edfa57e9d7810c49248b53" title="Reslicer::setPlaneWidth" alt="" coords="538,960,701,987"/>
+<area shape="rect" id="node38" href="$class_image_plane_widget.html#a54c436d2b1751c86fe7013e553559a64" title="ImagePlaneWidget::Push" alt="" coords="535,1103,704,1129"/>
+<area shape="rect" id="node41" href="$class_connected_region.html#a23411820a62d68b3fa2af0e3015367fd" title="ConnectedRegion::SetInput" alt="" coords="529,1229,709,1256"/>
+<area shape="rect" id="node42" href="$class_connected_region.html#ae6d4631066636bd2e26aa313775f3858" title="ConnectedRegion::Update" alt="" coords="533,1179,706,1205"/>
+</map>

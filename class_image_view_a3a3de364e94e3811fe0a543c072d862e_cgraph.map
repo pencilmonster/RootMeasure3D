@@ -1,0 +1,45 @@
+<map id="ImageView::SlotClickMenu" name="ImageView::SlotClickMenu">
+<area shape="rect" id="node2" href="$class_seed_widget.html#aaa17674084417cee9820ffcfa68de7fd" title="SeedWidget::SetEnabled" alt="" coords="248,93,416,120"/>
+<area shape="rect" id="node6" href="$class_seed_widget.html#a48b771e07c5851ce0fe073c54f379eed" title="SeedWidget::SlotFinish" alt="" coords="253,164,411,191"/>
+<area shape="rect" id="node7" href="$class_auto_seed_widget.html#a25a304f45fb5f341324db3b2631c3219" title="AutoSeedWidget::SetEnable" alt="" coords="238,236,426,263"/>
+<area shape="rect" id="node8" href="$class_auto_seed_widget.html#a5063de4d62f8a008f765fd6d999b8f9d" title="AutoSeedWidget::SetInputData" alt="" coords="231,337,433,364"/>
+<area shape="rect" id="node21" href="$class_image_view.html#a40fd31755a86eeb017294147e4de2c8d" title="ImageView::SetConnectState 设置交互连接状态。 " alt="" coords="236,287,428,313"/>
+<area shape="rect" id="node27" href="$class_hist_dialog.html#a2a467cf3fbdad1bcfa8ddf3ceada2eff" title="HistDialog::clearHist" alt="" coords="262,388,402,415"/>
+<area shape="rect" id="node28" href="$class_hist_dialog.html#a6ddfb537c1d16f83bb54fa76d2b7d080" title="HistDialog::setInput" alt="" coords="265,439,399,465"/>
+<area shape="rect" id="node31" href="$class_image_view.html#a3eb5dcef43e1bba836efb2159d87d31c" title="ImageView::Slotrepaint" alt="" coords="255,489,409,516"/>
+<area shape="rect" id="node32" href="$class_region_analyzer.html#a6b9d034a5adaf2badfbf2e3f3d975047" title="RegionAnalyzer::setEnable" alt="" coords="771,793,950,820"/>
+<area shape="rect" id="node34" href="$class_image_view.html#aa744211733849e41be5407509b3e01da" title="ImageView::SlotsetRegion\lIndex" alt="" coords="245,555,419,597"/>
+<area shape="rect" id="node3" href="$class_seed_widget.html#addab1f8e9818bbfb6ee9c2847c4203d0" title="SeedWidget::RestartInteraction" alt="" coords="488,68,691,95"/>
+<area shape="rect" id="node4" href="$class_seed_widget.html#a3850561a19374f1298b8d0fbd32b8e12" title="SeedWidget::deleteSeed" alt="" coords="506,119,673,145"/>
+<area shape="rect" id="node5" href="$class_seed_widget.html#abfb96cba6849f1eb93eced6ede99b601" title="SeedWidget::CompleteInteraction" alt="" coords="481,17,697,44"/>
+<area shape="rect" id="node9" href="$class_auto_seed_widget.html#a573a5d22f9ca8f135e896af1e95abf79" title="AutoSeedWidget::Update" alt="" coords="505,337,674,364"/>
+<area shape="rect" id="node10" href="$class_connected_region.html#a23411820a62d68b3fa2af0e3015367fd" title="ConnectedRegion::SetInput" alt="" coords="1049,392,1229,419"/>
+<area shape="rect" id="node11" href="$class_connected_region.html#ae6d4631066636bd2e26aa313775f3858" title="ConnectedRegion::Update" alt="" coords="1052,443,1225,469"/>
+<area shape="rect" id="node12" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="1042,158,1235,199"/>
+<area shape="rect" id="node13" href="$class_auto_seed_widget.html#a25b98d99143f418eb23fcd9c9745921b" title="AutoSeedWidget::Calculate\lMaxInfluence" alt="" coords="769,275,952,317"/>
+<area shape="rect" id="node14" href="$class_connected_region.html#ab09bddf21f1b0f35948e93ac43bc4c95" title="ConnectedRegion::GetCentroid 获取i个连通区域质心 " alt="" coords="1038,224,1239,251"/>
+<area shape="rect" id="node17" href="$class_auto_seed_widget.html#aba70b1aed1bbc4f7fa5125bba87e6a19" title="AutoSeedWidget::setPosition" alt="" coords="764,123,957,149"/>
+<area shape="rect" id="node19" href="$class_connected_region.html#a3829bc50ce6b63281d096f90d7619fff" title="ConnectedRegion::GetBoundingBox 获取i个连通区域的包围盒 " alt="" coords="745,443,976,469"/>
+<area shape="rect" id="node20" href="$class_auto_seed_widget.html#a91a1c31e84d639e9db1424a73a6e3ff6" title="AutoSeedWidget::CalculateZvalue 计算当前切片（图像）的索引号 " alt="" coords="769,57,952,98"/>
+<area shape="rect" id="node15" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="1039,275,1238,317"/>
+<area shape="rect" id="node16" href="$class_connected_region.html#a3104bae943b6072425bb1435b7136636" title="ConnectedRegion::GetRoundness 获取i个连通区域圆率 " alt="" coords="1029,341,1248,368"/>
+<area shape="rect" id="node18" href="$class_auto_seed_widget.html#a9e26eb472672bbbab92881b3be917a9b" title="AutoSeedWidget::SetVisibility" alt="" coords="1040,107,1237,133"/>
+<area shape="rect" id="node22" href="$class_image_view.html#ac57cf657e2bc1b594f9933c2f8b1e2c0" title="ImageView::SlotPickUpCoords 图像坐标拾取 " alt="" coords="490,169,689,196"/>
+<area shape="rect" id="node25" href="$class_image_view.html#a18d7b73bbab469d5791d9e485b166e64" title="ImageView::SlotUpdataLevelWindow 槽函数 设置图像的窗位窗宽 " alt="" coords="496,221,683,262"/>
+<area shape="rect" id="node26" href="$class_image_view.html#a607fda247cc090cac7ced91643ce101a" title="ImageView::SlotPopUp" alt="" coords="512,287,667,313"/>
+<area shape="rect" id="node23" href="$classcross_wire.html#a02895d295887b36459dce969a0753395" title="crossWire::setPosition 设置十字线交叉点的位置 " alt="" coords="783,5,938,32"/>
+<area shape="rect" id="node24" href="$classcross_wire.html#abfc818267de162b48fad64aabe895346" title="crossWire::VisibilityOn" alt="" coords="1061,5,1216,32"/>
+<area shape="rect" id="node29" href="$class_hist_dialog.html#a8fbc8a2187002e496485cc2f20a1e2d8" title="HistDialog::Update" alt="" coords="524,479,655,505"/>
+<area shape="rect" id="node30" href="$class_hist_dialog.html#a2f509b47a78de1c35c55cb351c49336a" title="HistDialog::ShowPlotCurve" alt="" coords="773,493,949,520"/>
+<area shape="rect" id="node33" href="$class_draw_bounding_box2_d.html#a5a84287a54d212bd62923e029bc8a8c0" title="DrawBoundingBox2D::\lsetVisibility" alt="" coords="1063,793,1215,834"/>
+<area shape="rect" id="node35" href="$class_region_analyzer.html#abcd46cf7de647ac7351ac0099a22f279" title="RegionAnalyzer::SlotsetRegion\lIndex" alt="" coords="488,555,691,597"/>
+<area shape="rect" id="node44" href="$class_region_analyzer.html#af87c0d0e72799d07fe54369ad6bcc86e" title="RegionAnalyzer::getRegionInfo" alt="" coords="490,621,689,648"/>
+<area shape="rect" id="node36" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="754,544,967,571"/>
+<area shape="rect" id="node42" href="$class_draw_bounding_box2_d.html#a616d4125722cd7030aad1021cf7ecc54" title="设置像素间隔 " alt="" coords="785,646,937,687"/>
+<area shape="rect" id="node43" href="$class_draw_bounding_box2_d.html#ae82ccf4eecaadb4af5b6ddf15dab7c13" title="设置包围盒的位置 " alt="" coords="785,717,937,758"/>
+<area shape="rect" id="node37" href="$class_connected_region.html#a9392e82b05c2ad593ad9e1a16e3f0da3" title="ConnectedRegion::GetPhysicalSize 获取i个连通区域物理大小 " alt="" coords="1024,691,1253,717"/>
+<area shape="rect" id="node38" href="$class_connected_region.html#a056b729f0710beeba5bd176155f7e7ec" title="ConnectedRegion::GetPerimeter 获取i个连通区域周长 " alt="" coords="1034,741,1243,768"/>
+<area shape="rect" id="node39" href="$class_connected_region.html#a0244a9089b5d3d9c282ba06880375def" title="ConnectedRegion::GetEquivalentSphericalRadius 获取i个连通区等效圆半径 " alt="" coords="1033,494,1245,535"/>
+<area shape="rect" id="node40" href="$class_connected_region.html#ac65d2c99d2c996b5918ba836d5466030" title="ConnectedRegion::GetEquivalentSphericalPerimeter 获取i个连通区等效圆周长 " alt="" coords="1033,559,1245,601"/>
+<area shape="rect" id="node41" href="$class_connected_region.html#a655e1b51e4974def3321ddc039aef805" title="ConnectedRegion::GetEquivalentEllipsoidDiameter 获取i个连通区等效椭圆长短轴 " alt="" coords="1033,625,1245,666"/>
+</map>

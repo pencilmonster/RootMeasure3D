@@ -1,0 +1,5 @@
+<map id="RootSystem::getMainBranch" name="RootSystem::getMainBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#a8d6f4ad1bf472ec5aba2942d2afdca4e" title="获取主分支Id 分支等级为1的分支 " alt="" coords="243,5,441,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="261,56,423,83"/>
+<area shape="rect" id="node4" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="489,56,681,83"/>
+</map>

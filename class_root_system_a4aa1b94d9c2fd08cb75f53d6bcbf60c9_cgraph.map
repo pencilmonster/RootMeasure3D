@@ -1,0 +1,7 @@
+<map id="RootSystem::getLastNodeOfBranch" name="RootSystem::getLastNodeOfBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="245,5,419,32"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#ac6dc5f75ed492b5599aeb3630536690b" title="获取分支最后一个根结点ID " alt="" coords="241,56,423,83"/>
+<area shape="rect" id="node5" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="251,107,413,133"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="471,5,663,32"/>
+<area shape="rect" id="node6" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="476,107,657,133"/>
+</map>

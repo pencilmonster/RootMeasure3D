@@ -1,0 +1,5 @@
+<map id="QtLocalePropertyManager::setValue" name="QtLocalePropertyManager::setValue">
+<area shape="rect" id="node2" href="$class_qt_enum_property_manager.html#a2687a8ff63fdfe89290f330aa9f71ccb" title="Sets the value of the given property to value. " alt="" coords="227,5,396,47"/>
+<area shape="rect" id="node3" href="$class_qt_enum_property_manager.html#a6cdbee64ff4e2174e68e8a52acfd6a49" title="Sets the given property&#39;s list of enum names to enumNames. " alt="" coords="227,71,396,112"/>
+<area shape="rect" id="node4" href="$class_qt_enum_property_manager.html#a5232490499e582da590e6290b1da0441" title="Returns the given property&#39;s list of enum names. " alt="" coords="444,71,613,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ImageReader::getOutput" name="ImageReader::getOutput">
+<area shape="rect" id="node2" href="$class_image_reader.html#a184f25bd6aa1d61b59e3cc78c0f543db" title="ImageReader::SlotreadImageFile 公有槽函数，捕获 sendImageFileName(filename)信号 并完成图像的读取re任�..." alt="" coords="216,5,427,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#aa3e361becbb0526c782482eb2c983dec" title="MainWindow::SlotopenRecentFile" alt="" coords="475,5,692,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="740,5,924,32"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="972,5,1151,32"/>
+</map>

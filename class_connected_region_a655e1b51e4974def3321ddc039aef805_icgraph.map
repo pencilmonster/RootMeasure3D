@@ -1,0 +1,26 @@
+<map id="ConnectedRegion::GetEquivalentEllipsoidDiameter" name="ConnectedRegion::GetEquivalentEllipsoidDiameter">
+<area shape="rect" id="node2" href="$class_connected_region.html#a292c20b2e31cd966b2523088f99571e5" title="ConnectedRegion::GetLongAxesPoints 获取等效椭圆长轴的两个端点坐标 itk中长轴方向与连通区域坐标系（主轴..." alt="" coords="281,5,463,47"/>
+<area shape="rect" id="node5" href="$class_connected_region.html#a123e4ea458b7b7794515e683ca362c89" title="ConnectedRegion::GetShortAxesPoints 获取等效椭圆长轴的两个端点坐标 itk中短轴方向与连通区域坐标系（主�..." alt="" coords="280,71,464,112"/>
+<area shape="rect" id="node6" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="265,143,479,170"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#a9b31c773c6e0a5e071a3b6b4e48e6667" title="ConnectedRegion::GetPrincipalAxesPoints 获取长轴短轴的端点坐标 " alt="" coords="527,5,729,47"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#a65aacce312fe83af499c9f58f6f6df01" title="获取一张图像上的所有连通区域信息。以链表形式返回结果 " alt="" coords="777,13,991,39"/>
+<area shape="rect" id="node7" href="$class_region_analyzer.html#abcd46cf7de647ac7351ac0099a22f279" title="RegionAnalyzer::SlotsetRegion\lIndex" alt="" coords="527,71,729,112"/>
+<area shape="rect" id="node13" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="557,136,699,177"/>
+<area shape="rect" id="node19" href="$class_root_skeletion_builder.html#a172e833b6c86e22de6eb088332b3bb3d" title="更新分支首结点 使用补充重切方法来补充分支首部结点 " alt="" coords="795,195,973,236"/>
+<area shape="rect" id="node24" href="$class_root_skeletion_builder.html#a1432f3c08a5ef61f5a7fdc085acf5d03" title="RootSkeletionBuilder::addNodeProperty 添加结点属性主要包括：半径、周长、面积 " alt="" coords="557,256,699,297"/>
+<area shape="rect" id="node8" href="$class_image_view.html#aa744211733849e41be5407509b3e01da" title="ImageView::SlotsetRegion\lIndex" alt="" coords="797,71,971,112"/>
+<area shape="rect" id="node9" href="$class_image_view.html#a9df09f600cd254f533fb88445e3cce4a" title="ImageView::SlotShowImag() 显示图像 " alt="" coords="1039,35,1221,62"/>
+<area shape="rect" id="node10" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="1041,86,1219,113"/>
+<area shape="rect" id="node11" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="1269,86,1460,113"/>
+<area shape="rect" id="node12" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="1508,86,1664,113"/>
+<area shape="rect" id="node14" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="1712,136,1855,177"/>
+<area shape="rect" id="node15" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1903,169,2101,211"/>
+<area shape="rect" id="node16" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="2149,169,2332,211"/>
+<area shape="rect" id="node17" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2380,177,2564,203"/>
+<area shape="rect" id="node18" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2612,177,2791,203"/>
+<area shape="rect" id="node20" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="1059,201,1201,243"/>
+<area shape="rect" id="node21" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="1293,201,1436,243"/>
+<area shape="rect" id="node22" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1511,201,1661,243"/>
+<area shape="rect" id="node23" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1712,201,1855,243"/>
+<area shape="rect" id="node25" href="$class_root_skeletion_builder.html#abfc840d56a86fc6744ea95dca46e8fea" title="RootSkeletionBuilder::updateNodes 更新结点属性值 包括如下属性： 1、更新结点状态 2、更新法向量 3、补充..." alt="" coords="813,260,955,301"/>
+</map>

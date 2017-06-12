@@ -1,0 +1,5 @@
+<map id="ConnectedRegion::GetLongAxesPoints" name="ConnectedRegion::GetLongAxesPoints">
+<area shape="rect" id="node2" href="$class_connected_region.html#a3fd5ff188d2a023b74f09b88d1d95742" title="ConnectedRegion::GetPrincipalAxes 获取第i个连连通区域的主轴坐标系 " alt="" coords="235,5,468,32"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#a655e1b51e4974def3321ddc039aef805" title="ConnectedRegion::GetEquivalentEllipsoidDiameter 获取i个连通区等效椭圆长短轴 " alt="" coords="245,57,457,98"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#ab09bddf21f1b0f35948e93ac43bc4c95" title="ConnectedRegion::GetCentroid 获取i个连通区域质心 " alt="" coords="251,123,452,149"/>
+</map>

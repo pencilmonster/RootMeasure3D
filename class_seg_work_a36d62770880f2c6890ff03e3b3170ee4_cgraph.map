@@ -1,0 +1,28 @@
+<map id="SegWork::Segmentation3D" name="SegWork::Segmentation3D">
+<area shape="rect" id="node2" href="$class_seg_work.html#a1bfdda5512d02009ab95a155232c1ab4" title="SegWork::resetCommandState" alt="" coords="241,5,444,32"/>
+<area shape="rect" id="node3" href="$classitk_hraw_reader.html#a490c2d39a4b617563b381cdb1424f43d" title="itkHrawReader::setReaderParm" alt="" coords="241,56,445,83"/>
+<area shape="rect" id="node4" href="$classitk_hraw_reader.html#a766ace0485a48e455fbb7cae8775f091" title="itkHrawReader::Init" alt="" coords="277,107,408,133"/>
+<area shape="rect" id="node5" href="$classitk_hraw_reader.html#aae653e71420e962f268eda68d9ed426b" title="itkHrawReader::AddObserver" alt="" coords="249,157,437,184"/>
+<area shape="rect" id="node6" href="$classitk_hraw_reader.html#a93e9a09f142300e1ec2f12d0c05519e6" title="itkHrawReader::Update" alt="" coords="265,208,420,235"/>
+<area shape="rect" id="node7" href="$classitk_image_smooth.html#af92f36d3bcbf152d030118ba855143ba" title="itkImageSmooth::setSmoothParm" alt="" coords="233,259,452,285"/>
+<area shape="rect" id="node8" href="$classitk_image_smooth.html#a1fc6813cd681fc1d0cd6a79666ee97aa" title="itkImageSmooth::Init" alt="" coords="272,309,413,336"/>
+<area shape="rect" id="node9" href="$classitk_image_smooth.html#aa191be0f90583ddbd1de70d7957cfd5f" title="itkImageSmooth::SetInput" alt="" coords="257,360,429,387"/>
+<area shape="rect" id="node10" href="$classitk_hraw_reader.html#a98ec1df63233455ee33500885b3f4fe6" title="itkHrawReader::GetOutput" alt="" coords="255,411,430,437"/>
+<area shape="rect" id="node11" href="$classitk_image_smooth.html#aa084a4d15088f53c598025215d5739b3" title="itkImageSmooth::AddObserver" alt="" coords="243,461,442,488"/>
+<area shape="rect" id="node12" href="$classitk_image_segmentation.html#af50c91721aeae115b1b89dfd00f32c2a" title="itkImageSegmentation\l::setSegmentationParm" alt="" coords="263,513,422,554"/>
+<area shape="rect" id="node13" href="$classitk_image_segmentation.html#a41514d5df9c0f2c716ecf586b791e283" title="itkImageSegmentation\l::Init" alt="" coords="267,578,418,619"/>
+<area shape="rect" id="node14" href="$classitk_image_segmentation.html#a10005ab2a2f4f72601d7bdbd42b1d52d" title="itkImageSegmentation\l::SetInput" alt="" coords="267,643,418,685"/>
+<area shape="rect" id="node15" href="$classitk_image_smooth.html#a3b51ce2a0d3d7e325b68e8df14108a53" title="itkImageSmooth::GetOutput" alt="" coords="251,709,435,736"/>
+<area shape="rect" id="node16" href="$classitk_image_segmentation.html#ac33ab477eaee11ac940b3b970489646d" title="itkImageSegmentation\l::AddObserver" alt="" coords="267,761,418,802"/>
+<area shape="rect" id="node17" href="$classitk_image_hole_fill.html#a54f65a30d1b6bde650275c6c9e83230c" title="itkImageHoleFill::setFill\lEnable" alt="" coords="264,826,421,867"/>
+<area shape="rect" id="node18" href="$classitk_image_hole_fill.html#a5554b79a93ca52323a17e03cef99a4a2" title="itkImageHoleFill::Init" alt="" coords="273,892,412,919"/>
+<area shape="rect" id="node19" href="$classitk_image_hole_fill.html#a34dd14e35848507c094dbcb562c9a2f0" title="itkImageHoleFill::SetInput" alt="" coords="257,943,428,969"/>
+<area shape="rect" id="node20" href="$classitk_image_segmentation.html#a54dcb5e733c19fdf8b2d25b645dbb5cf" title="itkImageSegmentation\l::GetOutput" alt="" coords="267,994,418,1035"/>
+<area shape="rect" id="node21" href="$classitk_image_hole_fill.html#a4be3c502684af277be235769888cb43a" title="itkImageHoleFill::AddObserver" alt="" coords="245,1060,441,1087"/>
+<area shape="rect" id="node22" href="$classitk_image_writer.html#a5e336e941c57c53acf4e00cf55c2bd72" title="itkImageWriter::setWriterParm" alt="" coords="243,1111,442,1137"/>
+<area shape="rect" id="node23" href="$classitk_image_writer.html#a5bab8ca13344d4142f9aca5e3280a00c" title="itkImageWriter::Init" alt="" coords="277,1161,408,1188"/>
+<area shape="rect" id="node24" href="$classitk_image_writer.html#af9f60202de2189df02ad83decbefd10c" title="itkImageWriter::AddObserver" alt="" coords="249,1212,437,1239"/>
+<area shape="rect" id="node25" href="$classitk_image_writer.html#a74a7574ac592a303f3c8052888936e50" title="itkImageWriter::SetInput" alt="" coords="261,1263,424,1289"/>
+<area shape="rect" id="node26" href="$classitk_image_hole_fill.html#a515a67cb76c7814923833cd044379bc8" title="itkImageHoleFill::GetOutput" alt="" coords="251,1313,434,1340"/>
+<area shape="rect" id="node27" href="$classitk_image_writer.html#a3b7c7b32e7b872b7712b420b361ceaec" title="itkImageWriter::Update" alt="" coords="265,1364,420,1391"/>
+</map>

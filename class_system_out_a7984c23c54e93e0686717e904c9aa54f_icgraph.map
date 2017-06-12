@@ -1,0 +1,43 @@
+<map id="SystemOut::SystemOut" name="SystemOut::SystemOut">
+<area shape="rect" id="node2" href="$class_system_out.html#af573feb16cc2747741cc3944297e033d" title="SystemOut::Instance" alt="" coords="216,503,361,529"/>
+<area shape="rect" id="node3" href="$namespacemyprint.html#a4aa4711ad259f0021e2a986dc67e0cee" title="日志信息打印 " alt="" coords="414,300,533,327"/>
+<area shape="rect" id="node11" href="$namespacemyprint.html#a92ee23b1458a0ebb6162012569c4a125" title="警告信息打印 " alt="" coords="409,115,537,141"/>
+<area shape="rect" id="node17" href="$namespacemyprint.html#adc32278a7a49274959e5dedf767e9a22" title="错误信息打印 " alt="" coords="410,503,537,529"/>
+<area shape="rect" id="node32" href="$namespacemyprint.html#af93aa4d5e36fb4ab6b1cfc83b6bd0c9d" title="数据处理结果信息打印 " alt="" coords="413,920,534,947"/>
+<area shape="rect" id="node42" href="$class_main_window.html#a48c3e8027ca338a8d5908ba5c3530360" title="MainWindow::SystemOut2Text\lViewCommunication" alt="" coords="1601,985,1804,1026"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="890,199,1089,225"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a4bbcd0da403164e72c90bd540b6bca31" title="读取VRML格式三维模型文件 " alt="" coords="603,325,818,352"/>
+<area shape="rect" id="node6" href="$class_image_reader.html#a0ab25ac193dbccdbaf386c6062bb43fa" title="ImageReader::setFileName 设置图片地址 " alt="" coords="621,275,800,301"/>
+<area shape="rect" id="node7" href="$class_image_reader.html#a184f25bd6aa1d61b59e3cc78c0f543db" title="ImageReader::SlotreadImageFile 公有槽函数，捕获 sendImageFileName(filename)信号 并完成图像的读取re任�..." alt="" coords="884,376,1095,403"/>
+<area shape="rect" id="node8" href="$class_main_window.html#aa3e361becbb0526c782482eb2c983dec" title="MainWindow::SlotopenRecentFile" alt="" coords="1852,648,2069,675"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2785,895,2969,921"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="3017,941,3196,968"/>
+<area shape="rect" id="node12" href="$class_data_settings_reader.html#acfe39b7bf9d737121ff9ca815282aebe" title="DataSettingsReader\l::setFilename" alt="" coords="641,107,780,149"/>
+<area shape="rect" id="node13" href="$class_re_construct_parm_dig.html#addc08760b3f00ba51e262b82a3d32a8b" title="ReConstructParmDig\l::SlotSetImageInfo" alt="" coords="917,82,1061,123"/>
+<area shape="rect" id="node14" href="$classfile_view.html#a6be4e4ea10f0ddd4b5e273c4b67c00c5" title="删除文件 " alt="" coords="645,5,777,32"/>
+<area shape="rect" id="node16" href="$class_skeleton_reader.html#af0e899c61edbdbf0c054534d226bd983" title="SkeletonReader::setFileName 设置文件名 " alt="" coords="613,173,808,200"/>
+<area shape="rect" id="node15" href="$classfile_view.html#afd6c5ee1de9d5b58a7e0a52f9cba415b" title="实现右击菜单 " alt="" coords="899,5,1080,32"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#ac62f3917e428af71c07507587e519c3e" title="Graph3DView::SlotsetReaderParm" alt="" coords="599,579,822,605"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a2366b0044d4a5aec18c144b17c3a27b7" title="Graph3DView::SlotsetFilterParm" alt="" coords="605,629,816,656"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a1a5e6699b321450ef23f59b182c696ff" title="Graph3DView::SlotsetReconstructParm" alt="" coords="585,427,836,453"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#ab729a063602da317f30511c9f8cabd2d" title="Graph3DView::SlotstartTask" alt="" coords="617,477,804,504"/>
+<area shape="rect" id="node22" href="$class_graph3_d_view.html#aa2e0d6fc08f1390e6c2c6a6f890eaec6" title="设置骨架化参数 " alt="" coords="593,781,828,808"/>
+<area shape="rect" id="node23" href="$class_graph3_d_view.html#a4e8e8f26d392293df7b393ae9b49ae34" title="开始骨架提取 " alt="" coords="591,528,831,555"/>
+<area shape="rect" id="node24" href="$class_image_reader.html#acc28ad026f259b30652489a019e4abc1" title="ImageReader::canReadFile 检测图片是否可以被读取 " alt="" coords="621,376,800,403"/>
+<area shape="rect" id="node25" href="$class_skeleton_writer.html#adf35b39b8d348604cfa361fcd1b4a49f" title="SkeletonWriter::saveSkeletonData 保存骨架点模型 " alt="" coords="1143,680,1363,707"/>
+<area shape="rect" id="node26" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="1411,825,1553,866"/>
+<area shape="rect" id="node27" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="1631,825,1774,866"/>
+<area shape="rect" id="node28" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1885,845,2036,886"/>
+<area shape="rect" id="node29" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="2117,853,2260,894"/>
+<area shape="rect" id="node30" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="2308,887,2507,929"/>
+<area shape="rect" id="node31" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="2555,887,2737,929"/>
+<area shape="rect" id="node33" href="$class_root_branch.html#a1271212c91ccd1c93d8094adbe0bad08" title="RootBranch::printself 打印分支信息 " alt="" coords="639,1051,782,1077"/>
+<area shape="rect" id="node34" href="$class_root_node.html#a76b5f99a477b92b0fed04ecadac0ab86" title="RootNode::printself 打印根结点信息 " alt="" coords="923,1000,1055,1027"/>
+<area shape="rect" id="node38" href="$class_root_system.html#a4c63e2979a50625474afedcdd29d0605" title="RootSystem::printself 打印输出 " alt="" coords="637,1101,784,1128"/>
+<area shape="rect" id="node39" href="$class_root_skeletion_builder.html#a01120d5aa5f47c79ef7359aad59d10f3" title="RootSkeletionBuilder::skeletonGroups 骨架分组 " alt="" coords="1181,883,1324,925"/>
+<area shape="rect" id="node40" href="$class_root_skeletion_builder.html#a8a081f799885a8aee59c826403c0f7ad" title="对零散点分组并存放到离散根分支列表 " alt="" coords="614,883,807,925"/>
+<area shape="rect" id="node35" href="$class_root_skeletion_builder.html#a6ed9fcab586ebedab2fbe9dcd41b7ab1" title="创建根结点 并设置其属性值 " alt="" coords="1181,970,1324,1011"/>
+<area shape="rect" id="node36" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="1411,930,1553,971"/>
+<area shape="rect" id="node37" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="2117,922,2260,963"/>
+<area shape="rect" id="node41" href="$class_root_skeletion_builder.html#aefe58648ab042b5f58639748cbf9f2ec" title="RootSkeletionBuilder::nodesSorting 离散结点整理 主要针对分组算法没有解决的散点(逆生长结点) ..." alt="" coords="918,883,1061,925"/>
+</map>

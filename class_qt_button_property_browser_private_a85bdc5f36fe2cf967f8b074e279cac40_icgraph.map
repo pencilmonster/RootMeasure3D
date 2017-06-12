@@ -1,0 +1,11 @@
+<map id="QtButtonPropertyBrowserPrivate::updateItem" name="QtButtonPropertyBrowserPrivate::updateItem">
+<area shape="rect" id="node2" href="$class_qt_button_property_browser_private.html#ad516eecf37df2b8a229fe5e37f50c5f0" title="QtButtonPropertyBrowserPrivate\l::slotUpdate" alt="" coords="263,51,472,92"/>
+<area shape="rect" id="node4" href="$class_qt_button_property_browser_private.html#abef9aef97840d05531dd47798273f713" title="QtButtonPropertyBrowserPrivate\l::propertyInserted" alt="" coords="777,5,987,47"/>
+<area shape="rect" id="node9" href="$class_qt_button_property_browser_private.html#a47f88cf2c6b1aa90425ce86f01269717" title="QtButtonPropertyBrowserPrivate\l::propertyChanged" alt="" coords="263,148,472,189"/>
+<area shape="rect" id="node3" href="$class_qt_button_property_browser_private.html#a08b5d1f65f2b027b6628d1b53095f8ff" title="QtButtonPropertyBrowserPrivate\l::createEditor" alt="" coords="520,35,729,76"/>
+<area shape="rect" id="node6" href="$class_qt_button_property_browser_private.html#a8a096209d688e4abbb32486a524fedba" title="QtButtonPropertyBrowserPrivate\l::updateLater" alt="" coords="520,100,729,141"/>
+<area shape="rect" id="node5" href="$class_qt_button_property_browser.html#a5a48b5ba05d3294ca11055141755d64e" title="QtButtonPropertyBrowser\l::itemInserted" alt="" coords="1035,5,1205,47"/>
+<area shape="rect" id="node7" href="$class_qt_button_property_browser_private.html#a8a324c6bd9af8ba210f00ee72998ad20" title="QtButtonPropertyBrowserPrivate\l::propertyRemoved" alt="" coords="777,100,987,141"/>
+<area shape="rect" id="node8" href="$class_qt_button_property_browser.html#a9cb389d81d647869465037d96f8710c4" title="QtButtonPropertyBrowser\l::itemRemoved" alt="" coords="1035,100,1205,141"/>
+<area shape="rect" id="node10" href="$class_qt_button_property_browser.html#a5c20f41ccb4f29accad290b5e8aa157c" title="QtButtonPropertyBrowser\l::itemChanged" alt="" coords="539,165,710,207"/>
+</map>

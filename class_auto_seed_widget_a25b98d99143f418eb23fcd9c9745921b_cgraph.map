@@ -1,0 +1,6 @@
+<map id="AutoSeedWidget::CalculateMaxInfluence" name="AutoSeedWidget::CalculateMaxInfluence">
+<area shape="rect" id="node2" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="249,5,442,47"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#ab09bddf21f1b0f35948e93ac43bc4c95" title="ConnectedRegion::GetCentroid 获取i个连通区域质心 " alt="" coords="245,71,446,98"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="246,123,445,164"/>
+<area shape="rect" id="node5" href="$class_connected_region.html#a3104bae943b6072425bb1435b7136636" title="ConnectedRegion::GetRoundness 获取i个连通区域圆率 " alt="" coords="236,189,455,215"/>
+</map>

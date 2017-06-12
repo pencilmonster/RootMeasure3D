@@ -1,0 +1,9 @@
+<map id="QtVariantPropertyPrivate" name="QtVariantPropertyPrivate">
+<area shape="rect" id="node2" href="$class_qt_variant_property.html" title="The QtVariantProperty class is a convenience class handling QVariant based properties. " alt="" coords="58,379,185,405"/>
+<area shape="rect" id="node3" href="$class_qt_property.html" title="The QtProperty class encapsulates an instance of a property. " alt="" coords="5,81,91,108"/>
+<area shape="rect" id="node4" href="$class_qt_property_private.html" title="QtPropertyPrivate" alt="" coords="42,178,166,205"/>
+<area shape="rect" id="node5" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="221,81,405,108"/>
+<area shape="rect" id="node7" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="191,171,375,212"/>
+<area shape="rect" id="node8" href="$class_qt_variant_property_manager.html" title="The QtVariantPropertyManager class provides and manages QVariant based properties. " alt="" coords="399,178,575,205"/>
+<area shape="rect" id="node9" href="$class_qt_variant_property_manager_private.html" title="QtVariantPropertyManager\lPrivate" alt="" coords="399,275,575,316"/>
+</map>

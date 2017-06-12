@@ -1,0 +1,7 @@
+<map id="QtFontPropertyManagerPrivate::slotFontDatabaseChanged" name="QtFontPropertyManagerPrivate::slotFontDatabaseChanged">
+<area shape="rect" id="node2" href="$class_qt_font_property_manager_private.html#a2c1134dcbdf2e56f869667ac119ffe2f" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseDelayedChange" alt="" coords="253,71,476,112"/>
+<area shape="rect" id="node3" href="$class_qt_enum_property_manager.html#afe3d820af367097cc630fa03a0cb31de" title="Returns the given property&#39;s value which is an index in the list returned by enumNames() ..." alt="" coords="524,5,693,47"/>
+<area shape="rect" id="node4" href="$class_qt_enum_property_manager.html#a6cdbee64ff4e2174e68e8a52acfd6a49" title="Sets the given property&#39;s list of enum names to enumNames. " alt="" coords="524,71,693,112"/>
+<area shape="rect" id="node6" href="$class_qt_enum_property_manager.html#a2687a8ff63fdfe89290f330aa9f71ccb" title="Sets the value of the given property to value. " alt="" coords="524,136,693,177"/>
+<area shape="rect" id="node5" href="$class_qt_enum_property_manager.html#a5232490499e582da590e6290b1da0441" title="Returns the given property&#39;s list of enum names. " alt="" coords="741,71,911,112"/>
+</map>

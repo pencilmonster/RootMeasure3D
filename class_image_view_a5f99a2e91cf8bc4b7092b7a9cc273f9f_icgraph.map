@@ -1,0 +1,5 @@
+<map id="ImageView::clearHist" name="ImageView::clearHist">
+<area shape="rect" id="node2" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="197,5,375,32"/>
+<area shape="rect" id="node3" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="423,5,613,32"/>
+<area shape="rect" id="node4" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="661,5,817,32"/>
+</map>

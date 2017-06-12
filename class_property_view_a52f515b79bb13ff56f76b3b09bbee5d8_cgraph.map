@@ -1,0 +1,6 @@
+<map id="PropertyView::SlotsetGraph3DInfo" name="PropertyView::SlotsetGraph3DInfo">
+<area shape="rect" id="node2" href="$class_property_view.html#ac7db77c0e113ed65b6c91206bc9c0fc8" title="PropertyView::setGroupItemVisible 设置属性项的可见性 " alt="" coords="244,37,429,79"/>
+<area shape="rect" id="node5" href="$class_property_view.html#ab4442f62031e649f6049a5149bd9e0ee" title="PropertyView::setPropertyValue 给已有的属性设置值 " alt="" coords="249,103,424,144"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser.html#a4c97e71811113de2813c1d9962678f91" title="Returns the top&#45;level items associated with the given property. " alt="" coords="477,5,659,47"/>
+<area shape="rect" id="node4" href="$class_qt_tree_property_browser.html#a4142953a5fc2de6b5cedb2a2b05d505f" title="Sets the item to be visible, depending on the value of visible. " alt="" coords="489,71,647,112"/>
+</map>

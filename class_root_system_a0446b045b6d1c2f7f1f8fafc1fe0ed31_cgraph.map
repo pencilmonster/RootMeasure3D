@@ -1,0 +1,9 @@
+<map id="RootSystem::getNodeNumberOfBranch" name="RootSystem::getNodeNumberOfBranch">
+<area shape="rect" id="node2" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="266,16,425,43"/>
+<area shape="rect" id="node4" href="$class_root_system.html#a7a53f1fa0cea1f2b823c7e8b91055d69" title="获得当前根分支的根结点个数 " alt="" coords="248,89,443,130"/>
+<area shape="rect" id="node3" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="525,5,679,32"/>
+<area shape="rect" id="node5" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="515,56,689,83"/>
+<area shape="rect" id="node7" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="529,107,675,133"/>
+<area shape="rect" id="node8" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="491,158,713,199"/>
+<area shape="rect" id="node6" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="761,56,953,83"/>
+</map>

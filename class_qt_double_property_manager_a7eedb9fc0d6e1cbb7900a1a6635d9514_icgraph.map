@@ -1,0 +1,8 @@
+<map id="QtDoublePropertyManager::setDecimals" name="QtDoublePropertyManager::setDecimals">
+<area shape="rect" id="node2" href="$class_qt_point_f_property_manager.html#a39cd901ee0bbfaafeba3b0b44b8a407e" title="Sets the precision of the given property to prec. " alt="" coords="228,5,401,47"/>
+<area shape="rect" id="node3" href="$class_qt_point_f_property_manager.html#a93d70b66ddea00a1973d077826e7e5b7" title="QtPointFPropertyManager\l::initializeProperty" alt="" coords="228,71,401,112"/>
+<area shape="rect" id="node4" href="$class_qt_size_f_property_manager.html#a532ae68c09acc7544b8ea8000bf72d0c" title="Sets the precision of the given property to prec. " alt="" coords="230,136,399,177"/>
+<area shape="rect" id="node5" href="$class_qt_size_f_property_manager.html#ade99b4b3076e344ae230a6bceb9f5a0b" title="QtSizeFPropertyManager\l::initializeProperty" alt="" coords="230,201,399,243"/>
+<area shape="rect" id="node6" href="$class_qt_rect_f_property_manager.html#a9a420c1499f1d26d4449da3cc77a5e17" title="Sets the precision of the given property to prec. " alt="" coords="229,267,400,308"/>
+<area shape="rect" id="node7" href="$class_qt_rect_f_property_manager.html#afc07213056ce3d85b04155c9b4edbb12" title="QtRectFPropertyManager\l::initializeProperty" alt="" coords="229,332,400,373"/>
+</map>

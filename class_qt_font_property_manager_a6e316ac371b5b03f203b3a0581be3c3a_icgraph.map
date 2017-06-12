@@ -1,0 +1,8 @@
+<map id="QtFontPropertyManager::valueChanged" name="QtFontPropertyManager::valueChanged">
+<area shape="rect" id="node2" href="$class_qt_font_property_manager.html#af9d5a06d48bbf32e07dafa4ea8cdb131" title="Creates a manager with the given parent. " alt="" coords="215,39,384,80"/>
+<area shape="rect" id="node3" href="$class_qt_font_property_manager.html#a3c6874b1134907b493b26fe8d9b42a64" title="Sets the value of the given property to value. " alt="" coords="219,104,380,145"/>
+<area shape="rect" id="node4" href="$class_qt_font_editor_factory_private.html#a04599092bccd1324431a419c96181f6c" title="QtFontEditorFactoryPrivate\l::slotSetValue" alt="" coords="443,5,621,47"/>
+<area shape="rect" id="node5" href="$class_qt_font_property_manager_private.html#a67189b05940b8dc4f4cbf484e777bb29" title="QtFontPropertyManagerPrivate\l::slotIntChanged" alt="" coords="432,71,632,112"/>
+<area shape="rect" id="node6" href="$class_qt_font_property_manager_private.html#a482688f9dcf50fd34a8c970b4ff279a9" title="QtFontPropertyManagerPrivate\l::slotEnumChanged" alt="" coords="432,136,632,177"/>
+<area shape="rect" id="node7" href="$class_qt_font_property_manager_private.html#abb85da9f3a5891554fdab479501ce90b" title="QtFontPropertyManagerPrivate\l::slotBoolChanged" alt="" coords="432,201,632,243"/>
+</map>

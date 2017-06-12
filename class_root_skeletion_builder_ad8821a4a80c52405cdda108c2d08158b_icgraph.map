@@ -1,0 +1,7 @@
+<map id="RootSkeletionBuilder::RootSkeletionBuilder" name="RootSkeletionBuilder::RootSkeletionBuilder">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="204,5,347,47"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="395,5,593,47"/>
+<area shape="rect" id="node4" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="641,5,824,47"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="872,13,1056,39"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1104,13,1283,39"/>
+</map>

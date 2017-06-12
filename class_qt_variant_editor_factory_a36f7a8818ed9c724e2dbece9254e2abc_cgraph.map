@@ -1,0 +1,9 @@
+<map id="QtVariantEditorFactory::connectPropertyManager" name="QtVariantEditorFactory::connectPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html#af32e5e5341a42399841c97c0e82f1f5c" title="Adds the given manager to this factory&#39;s set of managers, making this factory produce editing widgets..." alt="" coords="245,5,408,47"/>
+<area shape="rect" id="node3" href="$class_qt_color_property_manager.html#ac81788c315cb574e71014890aefc617b" title="Returns the manager that produces the nested red, green and blue subproperties. " alt="" coords="244,71,409,112"/>
+<area shape="rect" id="node4" href="$class_qt_size_policy_property_manager.html#a24317ef553f63e8a7573f75db58acc42" title="Returns the manager that creates the nested horizontalStretch and verticalStretch subproperties..." alt="" coords="228,136,425,177"/>
+<area shape="rect" id="node5" href="$class_qt_size_policy_property_manager.html#a933a7cea4437c635a6013f3e4ca335fc" title="Returns the manager that creates the nested horizontalPolicy and verticalPolicy subproperties. " alt="" coords="228,201,425,243"/>
+<area shape="rect" id="node6" href="$class_qt_font_property_manager.html#aac9078b106ec0c9da1314799b180c79c" title="Returns the manager that creates the pointSize subproperty. " alt="" coords="245,267,409,308"/>
+<area shape="rect" id="node7" href="$class_qt_font_property_manager.html#a7d37a26e6512b1173aa4170b3fd122b5" title="Returns the manager that create the family subproperty. " alt="" coords="235,332,419,373"/>
+<area shape="rect" id="node8" href="$class_qt_font_property_manager.html#a2cf40958f8bd8888cad1e536f371c243" title="Returns the manager that creates the bold, italic, underline, strikeOut and kerning subproperties..." alt="" coords="239,397,415,439"/>
+</map>

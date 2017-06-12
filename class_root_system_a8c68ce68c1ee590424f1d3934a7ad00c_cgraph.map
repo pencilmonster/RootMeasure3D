@@ -1,0 +1,4 @@
+<map id="RootSystem::removeNode" name="RootSystem::removeNode">
+<area shape="rect" id="node2" href="$class_root_system.html#a6ed2062c1fbc89bcbd953659bae6bbd7" title="移除根结点 如果该根节点已分组 则进一步将其从分支中移除 " alt="" coords="227,5,400,32"/>
+<area shape="rect" id="node3" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="255,56,372,83"/>
+</map>

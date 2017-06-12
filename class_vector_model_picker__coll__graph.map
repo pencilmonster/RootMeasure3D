@@ -1,0 +1,8 @@
+<map id="VectorModelPicker" name="VectorModelPicker">
+<area shape="rect" id="node5" href="$class_picker_signals.html" title="PickerCallBack信号类 " alt="" coords="151,81,254,108"/>
+<area shape="rect" id="node6" href="$class_tube_builder.html" title="The TubeBuilder class 管道生成器 生成一个围绕给定折线的管道 " alt="" coords="228,132,319,159"/>
+<area shape="rect" id="node3" href="$class_picker_call_back.html" title="The PickerCallBack class 矢量模型拾取器的回调类 " alt="" coords="67,183,178,209"/>
+<area shape="rect" id="node7" href="$class_root_system.html" title="The RootSystem class 根系统 软件的核心数据结构用来用来保存根矢量模型信息 " alt="" coords="329,183,423,209"/>
+<area shape="rect" id="node8" href="$class_root_node.html" title="The RootNode class 根结点 系统的核心数据结构，记录结点位置、法向量等信息 " alt="" coords="334,81,413,108"/>
+<area shape="rect" id="node9" href="$class_root_branch.html" title="The RootBranch class 根分支 系统核心数据结构 用来记录分支间的拓扑关系以及所属的节点Id. " alt="" coords="448,81,539,108"/>
+</map>

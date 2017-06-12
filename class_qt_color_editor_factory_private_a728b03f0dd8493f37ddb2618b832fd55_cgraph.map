@@ -1,0 +1,5 @@
+<map id="QtColorEditorFactoryPrivate::slotSetValue" name="QtColorEditorFactoryPrivate::slotSetValue">
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html#a8bd19d2e1488aef12477861227de8903" title="Returns the property manager for the given property, or 0 if the given property doesn&#39;t belong to any..." alt="" coords="237,5,400,47"/>
+<area shape="rect" id="node3" href="$class_qt_color_property_manager.html#ab18ff6b769efadd18ec2f56b5ec396bf" title="Sets the value of the given property to value. " alt="" coords="236,71,401,112"/>
+<area shape="rect" id="node4" href="$class_qt_int_property_manager.html#af918e1e91c69de900a3ce3fe8fb4291f" title="Sets the value of the given property to value. " alt="" coords="449,71,599,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DrawBoundingBox2D::setVisibility" name="DrawBoundingBox2D::setVisibility">
+<area shape="rect" id="node2" href="$class_region_analyzer.html#a6b9d034a5adaf2badfbf2e3f3d975047" title="RegionAnalyzer::setEnable" alt="" coords="656,5,835,32"/>
+<area shape="rect" id="node6" href="$class_region_analyzer.html#abcd46cf7de647ac7351ac0099a22f279" title="RegionAnalyzer::SlotsetRegion\lIndex" alt="" coords="405,57,608,98"/>
+<area shape="rect" id="node9" href="$class_draw_bounding_box2_d.html#ae82ccf4eecaadb4af5b6ddf15dab7c13" title="设置包围盒的位置 " alt="" coords="205,107,357,149"/>
+<area shape="rect" id="node10" href="$class_draw_bounding_box2_d.html#af654f5dfe6c335d215a90d5d6ea5a3f6" title="DrawBoundingBox2D::New" alt="" coords="418,148,595,175"/>
+<area shape="rect" id="node3" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="885,9,1063,36"/>
+<area shape="rect" id="node4" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="1113,9,1304,36"/>
+<area shape="rect" id="node5" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="1352,9,1508,36"/>
+<area shape="rect" id="node7" href="$class_image_view.html#aa744211733849e41be5407509b3e01da" title="ImageView::SlotsetRegion\lIndex" alt="" coords="658,57,833,98"/>
+<area shape="rect" id="node8" href="$class_image_view.html#a9df09f600cd254f533fb88445e3cce4a" title="ImageView::SlotShowImag() 显示图像 " alt="" coords="883,64,1065,91"/>
+</map>

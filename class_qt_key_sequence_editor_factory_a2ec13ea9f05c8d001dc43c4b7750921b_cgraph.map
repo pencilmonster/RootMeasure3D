@@ -1,0 +1,6 @@
+<map id="QtKeySequenceEditorFactory::createEditor" name="QtKeySequenceEditorFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a3d2c242fdc7182d8c37b0bad1544fe8b" title="EditorFactoryPrivate\l::createEditor" alt="" coords="287,5,425,47"/>
+<area shape="rect" id="node3" href="$class_qt_key_sequence_edit.html#a780e43e65858e03cb9e05b2e4c7be546" title="QtKeySequenceEdit::\lsetKeySequence" alt="" coords="282,71,430,112"/>
+<area shape="rect" id="node4" href="$class_qt_key_sequence_property_manager.html#a563dc309719d37eea5d02e45d178b8e2" title="Returns the given property&#39;s value. " alt="" coords="248,136,464,177"/>
+<area shape="rect" id="node5" href="$class_qt_key_sequence_editor_factory.html#a681cdfd94300c2fba2ed2ad2cc8c52e4" title="QtKeySequenceEditorFactory\l::slotSetValue" alt="" coords="259,201,453,243"/>
+</map>

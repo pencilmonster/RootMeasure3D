@@ -1,0 +1,4 @@
+<map id="QtEnumEditorFactory::slotEnumNamesChanged" name="QtEnumEditorFactory::slotEnumNamesChanged">
+<area shape="rect" id="node2" href="$class_qt_enum_editor_factory.html#a68bcbb23dea2829c4f4a2d06a45ac612" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="239,5,414,47"/>
+<area shape="rect" id="node3" href="$class_qt_enum_editor_factory.html#a9cc2c1986924891b34ad307aacd89c83" title="Disconnects this factory from the given manager&#39;s signals. " alt="" coords="231,71,423,112"/>
+</map>

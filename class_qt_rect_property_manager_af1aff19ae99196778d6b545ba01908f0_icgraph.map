@@ -1,0 +1,5 @@
+<map id="QtRectPropertyManager::valueChanged" name="QtRectPropertyManager::valueChanged">
+<area shape="rect" id="node2" href="$class_qt_rect_property_manager.html#abd505c279c2de344f0455dadcd28a7af" title="Creates a manager with the given parent. " alt="" coords="216,5,387,47"/>
+<area shape="rect" id="node3" href="$class_qt_rect_property_manager.html#a407029ec29077e974452c1a3318cb261" title="Sets the value of the given property to value. " alt="" coords="220,71,383,112"/>
+<area shape="rect" id="node4" href="$class_qt_rect_property_manager.html#a1c3f251de141136dbd5feafd485652b1" title="Sets the given property&#39;s constraining rectangle to constraint. " alt="" coords="220,136,383,177"/>
+</map>

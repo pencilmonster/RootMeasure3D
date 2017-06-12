@@ -1,0 +1,4 @@
+<map id="Graph3DView::deleteVRMLActor" name="Graph3DView::deleteVRMLActor">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="264,5,468,32"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="516,5,664,32"/>
+</map>

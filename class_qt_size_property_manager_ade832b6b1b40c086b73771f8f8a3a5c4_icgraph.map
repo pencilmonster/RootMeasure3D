@@ -1,0 +1,5 @@
+<map id="QtSizePropertyManager::rangeChanged" name="QtSizePropertyManager::rangeChanged">
+<area shape="rect" id="node2" href="$class_qt_size_property_manager.html#aa476ac5c003190f9d9c5fc2c6ad8ecde" title="Sets the minimum size value for the given property to minVal. " alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node3" href="$class_qt_size_property_manager.html#ae61e1d1ace1aa09791d1eeed92489a80" title="Sets the maximum size value for the given property to maxVal. " alt="" coords="215,71,376,112"/>
+<area shape="rect" id="node4" href="$class_qt_size_property_manager.html#ae33ffb20e71a6c0d543650ce60ec529c" title="Sets the range of valid values. " alt="" coords="215,136,376,177"/>
+</map>

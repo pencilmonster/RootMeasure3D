@@ -1,0 +1,6 @@
+<map id="QtEnumPropertyManager::enumIcons" name="QtEnumPropertyManager::enumIcons">
+<area shape="rect" id="node2" href="$class_qt_enum_editor_factory_private.html#a2eef41a12585dd42424c00c578cd1d2f" title="QtEnumEditorFactoryPrivate\l::slotEnumNamesChanged" alt="" coords="223,5,409,47"/>
+<area shape="rect" id="node3" href="$class_qt_enum_editor_factory.html#a9ef61b3b305c8fb8e0ae2a8bc37e2c26" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="242,71,390,112"/>
+<area shape="rect" id="node4" href="$class_qt_enum_property_manager.html#a14a47ec5109c7a333cb83971aeb8f835" title="Sets the given property&#39;s map of enum values to their icons to enumIcons. " alt="" coords="231,136,401,177"/>
+<area shape="rect" id="node5" href="$class_qt_cursor_editor_factory.html#ab8a32881e55f038ea5afc3e11150d20d" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="457,136,609,177"/>
+</map>

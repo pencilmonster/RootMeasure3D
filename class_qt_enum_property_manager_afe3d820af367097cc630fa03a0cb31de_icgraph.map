@@ -1,0 +1,7 @@
+<map id="QtEnumPropertyManager::value" name="QtEnumPropertyManager::value">
+<area shape="rect" id="node2" href="$class_qt_enum_editor_factory_private.html#a2eef41a12585dd42424c00c578cd1d2f" title="QtEnumEditorFactoryPrivate\l::slotEnumNamesChanged" alt="" coords="241,5,427,47"/>
+<area shape="rect" id="node3" href="$class_qt_enum_editor_factory_private.html#a70efc128eb6a6efab0035942009a71bf" title="QtEnumEditorFactoryPrivate\l::slotEnumIconsChanged" alt="" coords="241,71,427,112"/>
+<area shape="rect" id="node4" href="$class_qt_enum_editor_factory.html#a9ef61b3b305c8fb8e0ae2a8bc37e2c26" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="260,136,408,177"/>
+<area shape="rect" id="node5" href="$class_qt_font_property_manager_private.html#a2c1134dcbdf2e56f869667ac119ffe2f" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseDelayedChange" alt="" coords="223,201,445,243"/>
+<area shape="rect" id="node6" href="$class_qt_font_property_manager_private.html#a9eb0c3ff0d60ddf5644b78b4536d30d3" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseChanged" alt="" coords="493,201,693,243"/>
+</map>

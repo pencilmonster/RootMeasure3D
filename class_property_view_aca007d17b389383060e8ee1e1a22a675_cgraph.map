@@ -1,0 +1,17 @@
+<map id="PropertyView::addQVector3DProperty" name="PropertyView::addQVector3DProperty">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager.html#a82c785789a85a4e037ab34f19f786486" title="Creates and returns a variant property of the given propertyType with the given name. " alt="" coords="248,168,424,209"/>
+<area shape="rect" id="node9" href="$class_property_view.html#ab7a0a1564008edae30884011ce54a707" title="PropertyView::addSubProperty 给组分添加属性项 Property==&gt;Group. " alt="" coords="236,402,436,429"/>
+<area shape="rect" id="node11" href="$class_qt_variant_property.html#a906f63c5230a99ec0ccefc872ee83de8" title="Sets the attribute of property to value. " alt="" coords="269,336,403,377"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager.html#add646bb06ac57d1158574fb30e573a3c" title="Returns true if the given propertyType is supported by this variant manager; otherwise false..." alt="" coords="489,168,665,209"/>
+<area shape="rect" id="node4" href="$class_qt_variant_property_manager.html#a45afcf7341022677099b06728dc92107" title="Returns the given property&#39;s type. " alt="" coords="958,277,1134,319"/>
+<area shape="rect" id="node5" href="$class_qt_abstract_property_manager.html#abc5b894d6b9ba0441edebe561ca9f2f3" title="Creates a property with the given name which then is owned by this manager. " alt="" coords="485,37,669,79"/>
+<area shape="rect" id="node8" href="$class_qt_variant_property_manager.html#a89c7feffa0357a99bd4c3aba0915d818" title="Returns the given property converted into a QtVariantProperty. " alt="" coords="489,103,665,144"/>
+<area shape="rect" id="node6" href="$class_qt_abstract_property_manager.html#ac7db11b00fc5384f9fc10eb8f02e3637" title="Creates a property. " alt="" coords="719,71,903,112"/>
+<area shape="rect" id="node7" href="$class_qt_abstract_property_manager.html#ab7501ecabc5285cb50d7ed91a2ef44fc" title="This function is called whenever a new valid property pointer has been created, passing the pointer a..." alt="" coords="719,5,903,47"/>
+<area shape="rect" id="node10" href="$class_qt_property.html#a48af72160de86b566253b19098143c53" title="Appends the given property to this property&#39;s subproperties. " alt="" coords="484,402,671,429"/>
+<area shape="rect" id="node12" href="$class_qt_variant_property_manager.html#a55adf195cb65c4bab2aee1ee8d973582" title="Sets the value of the specified attribute of the given property, to value. " alt="" coords="489,336,665,377"/>
+<area shape="rect" id="node13" href="$class_qt_variant_property_manager.html#a24e90736a5f6142dd1c301ddb1f1de8f" title="Returns the given property&#39;s value for the specified attribute. " alt="" coords="723,336,899,377"/>
+<area shape="rect" id="node15" href="$class_qt_property.html#afbf9a7febbdb3461572aa5fc9e210245" title="Returns a pointer to the manager that owns this property. " alt="" coords="951,373,1141,399"/>
+<area shape="rect" id="node16" href="$class_qt_variant_property_manager.html#a3814b120240954eec49d66c1b9adabd9" title="Returns the type of the specified attribute of the given propertyType. " alt="" coords="723,453,899,495"/>
+<area shape="rect" id="node14" href="$class_qt_variant_property_manager.html#af964b5819fb7d69c55a338d09da51d35" title="Returns a list of the given propertyType &#39;s attributes. " alt="" coords="958,453,1134,495"/>
+</map>

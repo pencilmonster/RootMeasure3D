@@ -1,0 +1,13 @@
+<map id="RootSystem::getPriorNode" name="RootSystem::getPriorNode">
+<area shape="rect" id="node2" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="247,208,410,235"/>
+<area shape="rect" id="node4" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="249,5,408,32"/>
+<area shape="rect" id="node6" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="241,56,416,83"/>
+<area shape="rect" id="node8" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="255,157,402,184"/>
+<area shape="rect" id="node9" href="$class_root_branch.html#a45eb3146ccc94060718a36ea3d4bd8eb" title="RootBranch::getPriorNodeId 返回当前结点的前一个结点 不存在 则返回&#45;1. " alt="" coords="237,309,420,336"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#a5571577ed3aee1ea4cf6f244c2298f70" title="RootBranch::getParentNodeID" alt="" coords="231,259,427,285"/>
+<area shape="rect" id="node12" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="253,107,404,133"/>
+<area shape="rect" id="node3" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="486,157,667,184"/>
+<area shape="rect" id="node5" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="500,5,653,32"/>
+<area shape="rect" id="node7" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="481,56,673,83"/>
+<area shape="rect" id="node10" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="475,309,679,336"/>
+</map>

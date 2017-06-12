@@ -1,0 +1,4 @@
+<map id="QtSliderFactory::slotSingleStepChanged" name="QtSliderFactory::slotSingleStepChanged">
+<area shape="rect" id="node2" href="$class_qt_slider_factory.html#a497b098a40b97c3f2903832592cebaf1" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="241,5,407,47"/>
+<area shape="rect" id="node3" href="$class_qt_slider_factory.html#a07d556bcc5b73e5fcc2cf35b57cf4a6c" title="Disconnects this factory from the given manager&#39;s signals. " alt="" coords="232,71,416,112"/>
+</map>

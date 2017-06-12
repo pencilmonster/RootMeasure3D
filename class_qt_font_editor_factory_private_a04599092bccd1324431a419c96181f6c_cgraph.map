@@ -1,0 +1,7 @@
+<map id="QtFontEditorFactoryPrivate::slotSetValue" name="QtFontEditorFactoryPrivate::slotSetValue">
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html#a8bd19d2e1488aef12477861227de8903" title="Returns the property manager for the given property, or 0 if the given property doesn&#39;t belong to any..." alt="" coords="232,5,395,47"/>
+<area shape="rect" id="node3" href="$class_qt_font_property_manager.html#a3c6874b1134907b493b26fe8d9b42a64" title="Sets the value of the given property to value. " alt="" coords="233,71,394,112"/>
+<area shape="rect" id="node4" href="$class_qt_enum_property_manager.html#a2687a8ff63fdfe89290f330aa9f71ccb" title="Sets the value of the given property to value. " alt="" coords="443,5,612,47"/>
+<area shape="rect" id="node5" href="$class_qt_int_property_manager.html#af918e1e91c69de900a3ce3fe8fb4291f" title="Sets the value of the given property to value. " alt="" coords="453,71,602,112"/>
+<area shape="rect" id="node6" href="$class_qt_bool_property_manager.html#a046b39b8d8554b599bd50592967fa97d" title="Sets the value of the given property to value. " alt="" coords="447,136,608,177"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="RootSystem::removeBranch" name="RootSystem::removeBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="531,107,692,134"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="237,41,460,83"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="247,107,451,134"/>
+<area shape="rect" id="node6" href="$class_root_system.html#a6ed2062c1fbc89bcbd953659bae6bbd7" title="移除根结点 如果该根节点已分组 则进一步将其从分支中移除 " alt="" coords="262,158,435,185"/>
+<area shape="rect" id="node7" href="$class_root_system.html#a3a1ba969544708bc92d0ea4c4db8daaf" title="返回给定根分支的父分支ID 如果不存在返回&#45;1 " alt="" coords="249,209,448,235"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#a32b2550b4b56e6923e350f89704de170" title="RootBranch::removeChildBranchId" alt="" coords="239,259,458,286"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="763,133,955,159"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="524,158,699,185"/>
+<area shape="rect" id="node9" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="538,209,685,235"/>
+<area shape="rect" id="node10" href="$class_root_branch.html#a7ccca4c88772d9ab2575914e68b288c8" title="RootBranch::getParentBranchID" alt="" coords="508,259,715,286"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QtKeySequenceEditorFactory" name="QtKeySequenceEditorFactory">
+<area shape="rect" id="node5" href="$class_qt_key_sequence_editor_factory_private.html" title="QtKeySequenceEditorFactory\lPrivate" alt="" coords="933,40,1128,81"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html" title="QtAbstractEditorFactory\l\&lt; QtKeySequencePropertyManager \&gt;" alt="" coords="368,75,608,116"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html" title="The QtAbstractEditorFactoryBase provides an interface for editor factories. " alt="" coords="125,82,319,109"/>
+<area shape="rect" id="node6" href="$class_editor_factory_private.html" title="EditorFactoryPrivate\l\&lt; QtKeySequenceEdit \&gt;" alt="" coords="673,5,837,47"/>
+</map>

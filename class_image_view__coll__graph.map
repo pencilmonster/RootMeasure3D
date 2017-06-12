@@ -1,0 +1,10 @@
+<map id="ImageView" name="ImageView">
+<area shape="rect" id="node3" href="$class_region_analyzer.html" title="RegionAnalyzer" alt="" coords="103,171,216,197"/>
+<area shape="rect" id="node7" href="$class_seed_widget.html" title="SeedWidget" alt="" coords="241,171,334,197"/>
+<area shape="rect" id="node8" href="$classcross_wire.html" title="The crossWire class 十字交叉线用来对图像浏览器中的图像进行坐标拾取标定 " alt="" coords="503,171,584,197"/>
+<area shape="rect" id="node13" href="$class_auto_seed_widget.html" title="The AutoSeedWidget class 种子点自动拾取器 拾取的种子点被用作三维区域生长分割发的种子点 ..." alt="" coords="358,171,478,197"/>
+<area shape="rect" id="node5" href="$class_draw_bounding_box2_d.html" title="The DrawBoundingBox2D class 二维包围框 主要用来标记给定的连通区域 " alt="" coords="87,81,231,108"/>
+<area shape="rect" id="node9" href="$class_hist_dialog.html" title="The HistDialog class 直方图对话框 " alt="" coords="608,171,689,197"/>
+<area shape="rect" id="node11" href="$class_ui_1_1_hist_dialog.html" title="Ui::HistDialog" alt="" coords="657,81,758,108"/>
+<area shape="rect" id="node12" href="$class_ui___hist_dialog.html" title="Ui_HistDialog" alt="" coords="657,5,757,32"/>
+</map>

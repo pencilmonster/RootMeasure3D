@@ -1,0 +1,5 @@
+<map id="QtAbstractPropertyBrowser" name="QtAbstractPropertyBrowser">
+<area shape="rect" id="node3" href="$class_qt_button_property_browser.html" title="The QtButtonPropertyBrowser class provides a drop down QToolButton based property browser..." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node4" href="$class_qt_group_box_property_browser.html" title="The QtGroupBoxPropertyBrowser class provides a QGroupBox based property browser. " alt="" coords="201,155,391,181"/>
+<area shape="rect" id="node5" href="$class_qt_tree_property_browser.html" title="The QtTreePropertyBrowser class provides QTreeWidget based property browser. " alt="" coords="416,155,573,181"/>
+</map>

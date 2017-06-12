@@ -1,0 +1,9 @@
+<map id="ConcavePointSeg::upDate" name="ConcavePointSeg::upDate">
+<area shape="rect" id="node2" href="$class_concave_point_seg.html#a05e73cd4ba64ea04b96dc0696b71ff10" title="ConcavePointSeg::ROIProcessing 感兴趣区域处理 " alt="" coords="227,13,446,39"/>
+<area shape="rect" id="node4" href="$class_concave_point_seg.html#a90ac085f840fe09a3183897c715e499c" title="ConcavePointSeg::shapeFactorDetection 形状因子检测 " alt="" coords="235,64,439,105"/>
+<area shape="rect" id="node5" href="$class_concave_point_seg.html#a8d117aba2282e1261185f7b66fa70773" title="ConcavePointSeg::getLongAxisVector 获取当前轮廓的长轴向量 " alt="" coords="247,129,426,171"/>
+<area shape="rect" id="node6" href="$class_concave_point_seg.html#aa2292ced59f4ad91ae707e8c8e9ef1d0" title="ConcavePointSeg::searchConcaveRegion 寻找凹区域 " alt="" coords="227,195,447,236"/>
+<area shape="rect" id="node7" href="$class_concave_point_seg.html#ad1b2c67adcea761bd7768ccf4b4b8a62" title="ConcavePointSeg::searchConcavePoint. " alt="" coords="227,260,447,301"/>
+<area shape="rect" id="node3" href="$class_concave_point_seg.html#a9d5c3c3fc02acdcef172eaef60c3f6db" title="ConcavePointSeg::getShort\lAxisLength" alt="" coords="509,5,690,47"/>
+<area shape="rect" id="node8" href="$class_math_tool.html#a041da8c02f28ef243330b30daf21088a" title="MathTool::angleBetweenVectors" alt="" coords="495,267,704,294"/>
+</map>

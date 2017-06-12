@@ -1,0 +1,6 @@
+<map id="PropertyView::SlotwindowLevelChange" name="PropertyView::SlotwindowLevelChange">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager.html#ad3cc8978018b8f6932b39f1bb8db9371" title="Sets the value of the given property to value. " alt="" coords="225,35,401,76"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager.html#a8ea29dc82404046acd3db692cc05319a" title="Returns the given property&#39;s value type. " alt="" coords="457,5,633,47"/>
+<area shape="rect" id="node5" href="$class_qt_property.html#afbf9a7febbdb3461572aa5fc9e210245" title="Returns a pointer to the manager that owns this property. " alt="" coords="449,71,640,98"/>
+<area shape="rect" id="node4" href="$class_qt_variant_property_manager.html#a45afcf7341022677099b06728dc92107" title="Returns the given property&#39;s type. " alt="" coords="688,5,864,47"/>
+</map>

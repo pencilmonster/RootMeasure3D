@@ -1,0 +1,10 @@
+<map id="SkeletionParmDialog::SkeletionParmDialog" name="SkeletionParmDialog::SkeletionParmDialog">
+<area shape="rect" id="node2" href="$class_skeletion_parm_dialog.html#a019175e71e83579ad17cc6b7e6bbdcde" title="SkeletionParmDialog\l::SlotupdateMoreButton" alt="" coords="210,5,369,47"/>
+<area shape="rect" id="node3" href="$class_skeletion_parm_dialog.html#aef09b8bfabe07a6f8e0e998ef9cb5c91" title="SkeletionParmDialog\l::SlotsetSmoothEnable" alt="" coords="211,71,367,112"/>
+<area shape="rect" id="node4" href="$class_skeletion_parm_dialog.html#a44fed0459a5421afd82faf77b32f5b67" title="SkeletionParmDialog\l::SlotsetlBranchEnable" alt="" coords="212,136,367,177"/>
+<area shape="rect" id="node5" href="$class_skeletion_parm_dialog.html#ae74a0afa118331d20c6ba2d473491cec" title="SkeletionParmDialog\l::SlotsetMinMeanSpacing" alt="" coords="204,201,375,243"/>
+<area shape="rect" id="node6" href="$class_skeletion_parm_dialog.html#ad7915ca936a34a0261643e373a36628f" title="SkeletionParmDialog\l::SlotsetSaveAddress" alt="" coords="216,267,363,308"/>
+<area shape="rect" id="node7" href="$class_skeletion_parm_dialog.html#a6e16116bbedafd7e95eb9290359f6fca" title="SkeletionParmDialog\l::accept" alt="" coords="218,332,361,373"/>
+<area shape="rect" id="node9" href="$class_skeletion_parm_dialog.html#a9e12abbceaa219075e625ea71e70d6ec" title="SkeletionParmDialog\l::reject" alt="" coords="218,397,361,439"/>
+<area shape="rect" id="node8" href="$class_skeletion_parm_dialog.html#a3a409306ef0a3ed384343f9a9f0c8c34" title="SkeletionParmDialog\l::getSkeletonParm" alt="" coords="423,332,565,373"/>
+</map>

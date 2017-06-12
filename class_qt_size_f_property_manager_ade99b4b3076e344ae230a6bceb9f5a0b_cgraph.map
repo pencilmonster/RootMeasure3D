@@ -1,0 +1,11 @@
+<map id="QtSizeFPropertyManager::initializeProperty" name="QtSizeFPropertyManager::initializeProperty">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html#abc5b894d6b9ba0441edebe561ca9f2f3" title="Creates a property with the given name which then is owned by this manager. " alt="" coords="228,37,412,79"/>
+<area shape="rect" id="node5" href="$class_qt_property.html#ade8c6cab7fca8e29f3d60f0a41aaed99" title="Sets the property&#39;s name to the given name. " alt="" coords="223,103,417,130"/>
+<area shape="rect" id="node6" href="$class_qt_double_property_manager.html#a7eedb9fc0d6e1cbb7900a1a6635d9514" title="Sets the precision of the given property to prec. " alt="" coords="233,155,407,196"/>
+<area shape="rect" id="node7" href="$class_qt_size_f_property_manager.html#a6f4f4dbdcc0a4ee70747d99e9180a027" title="Returns the given property&#39;s precision, in decimals. " alt="" coords="235,220,405,261"/>
+<area shape="rect" id="node8" href="$class_qt_double_property_manager.html#ac38dda79cdc700a6484d6a6cdd234d75" title="Sets the value of the given property to value. " alt="" coords="233,285,407,327"/>
+<area shape="rect" id="node9" href="$class_qt_double_property_manager.html#ac303052e95e61e4bbce4e0b70efe35eb" title="Sets the minimum value for the given property to minVal. " alt="" coords="233,351,407,392"/>
+<area shape="rect" id="node10" href="$class_qt_property.html#a48af72160de86b566253b19098143c53" title="Appends the given property to this property&#39;s subproperties. " alt="" coords="227,417,413,443"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_manager.html#ac7db11b00fc5384f9fc10eb8f02e3637" title="Creates a property. " alt="" coords="465,5,649,47"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager.html#ab7501ecabc5285cb50d7ed91a2ef44fc" title="This function is called whenever a new valid property pointer has been created, passing the pointer a..." alt="" coords="465,71,649,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtIntPropertyManager::singleStep" name="QtIntPropertyManager::singleStep">
+<area shape="rect" id="node2" href="$class_qt_spin_box_factory.html#a33b988d62c8f0c3c8f6907c1ee908f26" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="211,5,385,47"/>
+<area shape="rect" id="node3" href="$class_qt_slider_factory.html#a3a55068f01d96ae2cd264c23dbb8071e" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="203,71,393,98"/>
+<area shape="rect" id="node4" href="$class_qt_scroll_bar_factory.html#ab14e4808e65e35777d9a8ab9a0f8a8f3" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="231,123,365,164"/>
+</map>

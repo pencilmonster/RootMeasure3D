@@ -1,0 +1,14 @@
+<map id="RootSystem::getNodesOfBranch" name="RootSystem::getNodesOfBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#a7a351d879db282075acd66c8c9c29b09" title="获取指定根分支的生长范围 " alt="" coords="264,5,476,32"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#af98b10a83ec5fc175c27af4f2c80a969" title="RootSkeletionBuilder::branchReslice 分支重切 方法二 根据待重切根分枝上相邻两节点求取重切器移动方向和�..." alt="" coords="299,57,441,98"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a6575f5b3a6be9f08789d81491117a220" title="获取分支的朝向 0 x normal 1 y normal 2 z Normal " alt="" coords="524,5,748,32"/>
+<area shape="rect" id="node5" href="$class_root_skeletion_builder.html#a9d7ec06fba39fa9fb824f791653fa546" title="自由重切 获取所有结点分布较为稀疏的根分支 然后启动分支重切 问题分支确定：分支点平均间隔大于切片最大移..." alt="" coords="565,57,707,98"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="796,57,939,98"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="987,57,1129,98"/>
+<area shape="rect" id="node8" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="1177,57,1328,98"/>
+<area shape="rect" id="node9" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="1376,57,1519,98"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1567,57,1765,98"/>
+<area shape="rect" id="node11" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1813,57,1996,98"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2044,64,2228,91"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2276,64,2455,91"/>
+</map>

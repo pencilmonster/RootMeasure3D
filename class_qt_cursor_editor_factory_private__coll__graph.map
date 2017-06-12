@@ -1,0 +1,13 @@
+<map id="QtCursorEditorFactoryPrivate" name="QtCursorEditorFactoryPrivate">
+<area shape="rect" id="node8" href="$class_qt_cursor_editor_factory.html" title="The QtCursorEditorFactory class provides QComboBox widgets for properties created by QtCursorProperty..." alt="" coords="1500,115,1652,142"/>
+<area shape="rect" id="node2" href="$class_qt_enum_editor_factory.html" title="The QtEnumEditorFactory class provides QComboBox widgets for properties created by QtEnumPropertyMana..." alt="" coords="869,115,1017,142"/>
+<area shape="rect" id="node6" href="$class_qt_enum_editor_factory_private.html" title="QtEnumEditorFactoryPrivate" alt="" coords="1230,70,1417,97"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory.html" title="QtAbstractEditorFactory\l\&lt; QtEnumPropertyManager \&gt;" alt="" coords="400,108,593,149"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_editor_factory_base.html" title="The QtAbstractEditorFactoryBase provides an interface for editor factories. " alt="" coords="125,115,319,142"/>
+<area shape="rect" id="node9" href="$class_qt_abstract_editor_factory.html" title="QtAbstractEditorFactory\l\&lt; QtCursorPropertyManager \&gt;" alt="" coords="617,5,815,47"/>
+<area shape="rect" id="node11" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="130,190,314,217"/>
+<area shape="rect" id="node7" href="$class_editor_factory_private.html" title="EditorFactoryPrivate\l\&lt; QComboBox \&gt;" alt="" coords="873,39,1012,80"/>
+<area shape="rect" id="node10" href="$class_qt_enum_property_manager.html" title="The QtEnumPropertyManager provides and manages enum properties. " alt="" coords="412,239,581,266"/>
+<area shape="rect" id="node13" href="$class_qt_enum_property_manager_private.html" title="QtEnumPropertyManagerPrivate" alt="" coords="839,275,1047,302"/>
+<area shape="rect" id="node12" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="405,173,589,215"/>
+</map>

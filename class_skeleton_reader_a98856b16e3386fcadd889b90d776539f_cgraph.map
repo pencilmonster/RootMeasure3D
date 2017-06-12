@@ -1,0 +1,37 @@
+<map id="SkeletonReader::parseSkeletonElement" name="SkeletonReader::parseSkeletonElement">
+<area shape="rect" id="node2" href="$class_root_system.html#aa93f510d73c14e7d8a99931775d2e3e7" title="RootSystem::setDownSampling" alt="" coords="259,453,465,479"/>
+<area shape="rect" id="node3" href="$class_skeleton_reader.html#a454f670cc53aa7fea87bb3456cfba1ad" title="解析结点元素 获取每个根节点的数据 " alt="" coords="270,504,454,545"/>
+<area shape="rect" id="node20" href="$class_root_node.html#a77c18f378777045f5353b6ae05075ac3" title="RootNode::setID" alt="" coords="303,981,421,1007"/>
+<area shape="rect" id="node21" href="$class_root_system.html#a588809016c1acaacbb2cf2aaaf550e97" title="RootSystem::addNode 添加根节点到根系统中 如果该根结点已经具有归属的分支 则进一步把节点ID加入到分支 ..." alt="" coords="285,1031,439,1058"/>
+<area shape="rect" id="node23" href="$class_skeleton_reader.html#a94cf172c2748257345731ad8424b61d7" title="解析根分支 获取根分支元素 " alt="" coords="265,1200,459,1241"/>
+<area shape="rect" id="node34" href="$class_root_branch.html#a29290d925465722f6e2a1dcb61a9625a" title="RootBranch::setBranchID" alt="" coords="277,1266,447,1293"/>
+<area shape="rect" id="node35" href="$class_root_system.html#abf23a84a41e5038029f40f405b90ef06" title="RootSystem::addBranch" alt="" coords="280,1441,444,1467"/>
+<area shape="rect" id="node4" href="$class_skeleton_reader.html#ab25bd1f51ea65da32302e233a72378f7" title="获取结点类型 " alt="" coords="532,5,716,47"/>
+<area shape="rect" id="node5" href="$class_root_node.html#ab2d831a302d99a7c47270386085e409c" title="RootNode::setNodeType" alt="" coords="543,71,705,98"/>
+<area shape="rect" id="node6" href="$class_skeleton_reader.html#a6cdbd3253cbfffdba9c2d75d51b5744d" title="获取结点质心 " alt="" coords="528,123,720,164"/>
+<area shape="rect" id="node7" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="547,189,701,215"/>
+<area shape="rect" id="node8" href="$class_skeleton_reader.html#ad910f28328a5a09457f62d08c0b9b4eb" title="获取结点法向量 " alt="" coords="527,240,721,281"/>
+<area shape="rect" id="node9" href="$class_root_node.html#a481435cab57ed57cbfce47779c57d56a" title="RootNode::setNormal" alt="" coords="551,306,697,333"/>
+<area shape="rect" id="node10" href="$class_skeleton_reader.html#afefaf977e1a40692f004ea0d0a8a44bd" title="获取结点分支号 " alt="" coords="527,357,721,399"/>
+<area shape="rect" id="node11" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="545,423,703,450"/>
+<area shape="rect" id="node12" href="$class_skeleton_reader.html#a428b9d524245fd3d251595515070975d" title="获取结点所在截面的圆率信息 " alt="" coords="515,475,733,516"/>
+<area shape="rect" id="node13" href="$class_root_node.html#a15dc347ec7f275e7e3827d7949f87124" title="RootNode::setRoundness" alt="" coords="539,541,709,567"/>
+<area shape="rect" id="node14" href="$class_skeleton_reader.html#a16e0230346710f8ea36bbe640d439b42" title="获取结点所在截面的物理面积 " alt="" coords="522,592,726,633"/>
+<area shape="rect" id="node15" href="$class_root_node.html#a03ef372ccbcdc6fa693be94dc7604434" title="RootNode::setPhysicalSize" alt="" coords="533,658,715,685"/>
+<area shape="rect" id="node16" href="$class_skeleton_reader.html#a8081ba0d34f0df9712f8e6aed341e4e4" title="获取结点所在截面的周长 " alt="" coords="519,709,729,751"/>
+<area shape="rect" id="node17" href="$class_root_node.html#a23722150c3d93727d5e6625063bd42af" title="RootNode::setPerimeter" alt="" coords="543,775,705,802"/>
+<area shape="rect" id="node18" href="$class_skeleton_reader.html#a59ab9bee0a852e3b874d415b784d6fa6" title="获取结点所在截面的半径 " alt="" coords="527,827,721,868"/>
+<area shape="rect" id="node19" href="$class_root_node.html#aed3fc18b3510a3581c356a5f4ba56605" title="RootNode::setRadius" alt="" coords="551,893,697,919"/>
+<area shape="rect" id="node22" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="565,943,683,970"/>
+<area shape="rect" id="node24" href="$class_skeleton_reader.html#a75731d9ee2d32bc67ac6e6f722ba0509" title="SkeletonReader::parseGrade\lElement" alt="" coords="529,995,719,1036"/>
+<area shape="rect" id="node25" href="$class_root_branch.html#ac393f977f4272715e2d16f9e7cb8bac2" title="RootBranch::setBranchGrade" alt="" coords="528,1061,720,1087"/>
+<area shape="rect" id="node26" href="$class_skeleton_reader.html#ae1ab37e15e20c716750dba6b604d0244" title="SkeletonReader::parsepBranch\lIdElement" alt="" coords="523,1112,725,1153"/>
+<area shape="rect" id="node27" href="$class_root_branch.html#a22ae03bc1d5e94bf0ea1caf566c29356" title="RootBranch::setParentBranchID" alt="" coords="521,1178,727,1205"/>
+<area shape="rect" id="node28" href="$class_skeleton_reader.html#a1c71a2fc8ae3ef27507707a880934988" title="SkeletonReader::parsepNode\lIdElement" alt="" coords="529,1229,719,1271"/>
+<area shape="rect" id="node29" href="$class_root_branch.html#a42cc0b31a08d330dfc574f333166cabd" title="RootBranch::setParentNodeID" alt="" coords="526,1295,722,1322"/>
+<area shape="rect" id="node30" href="$class_skeleton_reader.html#a1865d03418296cad23b851bdc13cfc88" title="SkeletonReader::parseChild\lBranchIds" alt="" coords="533,1347,715,1388"/>
+<area shape="rect" id="node31" href="$class_root_branch.html#a6aeac8f5d2c6752e7e4a8419f470b6ac" title="RootBranch::addAllChildBranchIds" alt="" coords="513,1413,735,1439"/>
+<area shape="rect" id="node32" href="$class_skeleton_reader.html#a688e34fc99d6692064f72a9fc2893df3" title="SkeletonReader::parseIncude\lNodeIds" alt="" coords="528,1464,720,1505"/>
+<area shape="rect" id="node33" href="$class_root_branch.html#a5b0865b68502e578c8e790b83270625a" title="RootBranch::addAllInclude\lNodeId" alt="" coords="537,1529,711,1571"/>
+<area shape="rect" id="node36" href="$class_root_branch.html#a9d3f0f31da79838fd133c08fc5e7fc4b" title="RootBranch::getBranchID" alt="" coords="539,1595,709,1622"/>
+</map>

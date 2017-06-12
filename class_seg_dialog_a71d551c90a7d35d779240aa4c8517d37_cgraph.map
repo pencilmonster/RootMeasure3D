@@ -1,0 +1,11 @@
+<map id="SegDialog::SegDialog" name="SegDialog::SegDialog">
+<area shape="rect" id="node2" href="$main_8cpp.html#af61266860126fabad3ed6bdc2d95fa25" title="setStyleSheet" alt="" coords="251,56,355,83"/>
+<area shape="rect" id="node3" href="$class_seg_dialog.html#a292a175c2dc170f0ec0447766ccc4a91" title="SegDialog::accept" alt="" coords="239,107,367,133"/>
+<area shape="rect" id="node10" href="$class_seg_dialog.html#a40be638939a16957b02594566fadf69d" title="SegDialog::SlotOpenAddDialog" alt="" coords="201,157,404,184"/>
+<area shape="rect" id="node4" href="$class_seg_dialog.html#a56bc0b40fa4f3c276dce98a82f55fdc9" title="SegDialog::getReaderParm" alt="" coords="472,5,651,32"/>
+<area shape="rect" id="node5" href="$class_seg_dialog.html#a3cdf3d6a2567922351f02e1fbbaf597f" title="SegDialog::getSmoothParm" alt="" coords="470,56,653,83"/>
+<area shape="rect" id="node6" href="$class_seg_dialog.html#af83fee7f4f267c998de1b1d3fa42ed22" title="SegDialog::getSegmentationParm" alt="" coords="452,107,671,133"/>
+<area shape="rect" id="node8" href="$class_seg_dialog.html#ac01f22b2b605e6b0ff993fdf62360825" title="SegDialog::getFillEnable" alt="" coords="479,157,643,184"/>
+<area shape="rect" id="node9" href="$class_seg_dialog.html#ae685c3e89a02d92b64e2fe76af3bb387" title="SegDialog::getWriterParm" alt="" coords="475,208,648,235"/>
+<area shape="rect" id="node7" href="$class_seg_dialog.html#aece9cb99f2973a96d418b8e718ebbbcf" title="SegDialog::getSeedValue" alt="" coords="719,107,889,133"/>
+</map>

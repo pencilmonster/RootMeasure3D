@@ -1,0 +1,51 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="node2" href="$class_main_window.html#a2194a7b95a4b6bd2866efae6d8f09f96" title="MainWindow::setupUi" alt="" coords="295,321,443,348"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="277,372,461,399"/>
+<area shape="rect" id="node24" href="$class_main_window.html#aa4907b0251d305659e403c62921ef331" title="MainWindow::createMenus" alt="" coords="279,423,458,449"/>
+<area shape="rect" id="node25" href="$class_main_window.html#acce4e32b95d3d5cb48470c053a1740c2" title="MainWindow::createToolBars" alt="" coords="273,473,464,500"/>
+<area shape="rect" id="node26" href="$class_main_window.html#a50dfee275a9d36bd369ddc22ea15c833" title="MainWindow::initProgress\lDialog" alt="" coords="282,525,455,566"/>
+<area shape="rect" id="node27" href="$class_graph3_d_view.html#a7345e409169bcbd727d69f03aab9367d" title="Graph3DView::setProgress\lDialog" alt="" coords="279,590,458,631"/>
+<area shape="rect" id="node28" href="$class_main_window.html#acb7b48951ffd5d57c0b9c14a5aa9a411" title="MainWindow::SlotsetCurrentFile" alt="" coords="265,656,473,683"/>
+<area shape="rect" id="node31" href="$class_main_window.html#a99cebb1d20a92afc8f7bf2be681cfa2d" title="MainWindow::SlotsetAction\lEnable" alt="" coords="277,707,460,749"/>
+<area shape="rect" id="node32" href="$class_main_window.html#a535178f1ea63e67c3020e4b3e742d3ba" title="MainWindow::SlotShowMessage" alt="" coords="263,773,475,800"/>
+<area shape="rect" id="node33" href="$class_main_window.html#a528f913d34b6e10c4442a88995bf68a0" title="MainWindow::File2ReaderCommunication" alt="" coords="237,824,500,851"/>
+<area shape="rect" id="node34" href="$class_main_window.html#a43c8f01edd86270c35f597b9ef66f724" title="MainWindow::File2Graph3DCommunication" alt="" coords="232,875,505,901"/>
+<area shape="rect" id="node35" href="$class_main_window.html#a16b476843bd29f923e2a66882c4216d3" title="MainWindow::Reader2Image\lCommunication" alt="" coords="275,926,462,967"/>
+<area shape="rect" id="node36" href="$class_main_window.html#ad51f1e438f02f4d162a76d857c3ed3c5" title="MainWindow::Reader2SegDialog\lCommunication" alt="" coords="263,991,474,1033"/>
+<area shape="rect" id="node37" href="$class_main_window.html#a846279829d89698579ba36674249663d" title="MainWindow::Reader2RCSDialog\lCommunication" alt="" coords="261,1057,476,1098"/>
+<area shape="rect" id="node38" href="$class_main_window.html#a77c8a49a5e9cf08aef0695609852430b" title="MainWindow::Reader2Skeleton\lDialogCommunication" alt="" coords="267,1122,470,1163"/>
+<area shape="rect" id="node39" href="$class_main_window.html#af490ee85ed4bb17f9233d2418c929c63" title="MainWindow::Reader2HistCommunication" alt="" coords="236,1188,501,1215"/>
+<area shape="rect" id="node40" href="$class_main_window.html#a32c5ea51f1da223eaa28bf4b21d156a2" title="MainWindow::Property2Image\lCommunication" alt="" coords="271,1239,466,1281"/>
+<area shape="rect" id="node41" href="$class_main_window.html#a6a8a3926c7993cafcc52a027481503be" title="MainWindow::Image2HistCommunication" alt="" coords="239,1305,498,1332"/>
+<area shape="rect" id="node42" href="$class_main_window.html#a2d5ac35844b58c78d129fed558b75fca" title="MainWindow::Image2SegDialog\lCommunication" alt="" coords="266,1357,471,1398"/>
+<area shape="rect" id="node43" href="$class_main_window.html#aaf1e535c6b6ec94db9df1d6b17655536" title="MainWindow::Graph3D2Property\lCommunication" alt="" coords="263,1422,474,1463"/>
+<area shape="rect" id="node44" href="$class_main_window.html#aade996d84089c6d41f5d3ae1d1585243" title="MainWindow::Graph3D2Image\lCommunication" alt="" coords="270,1487,467,1529"/>
+<area shape="rect" id="node45" href="$class_main_window.html#a4c1fee3b13c38548eee378281603be39" title="MainWindow::ReconstructDialog2\lGraph3DCommunication" alt="" coords="260,1553,477,1594"/>
+<area shape="rect" id="node46" href="$class_main_window.html#afa558a00722bcc7bf77fc6dfd601aa3e" title="MainWindow::SkeletonDialog2\lGraph3DCommunication" alt="" coords="269,1618,468,1659"/>
+<area shape="rect" id="node47" href="$class_main_window.html#a48c3e8027ca338a8d5908ba5c3530360" title="MainWindow::SystemOut2Text\lViewCommunication" alt="" coords="267,1735,470,1777"/>
+<area shape="rect" id="node50" href="$class_main_window.html#adaf7774bf872815d1428b530ea2db862" title="MainWindow::readSetting" alt="" coords="283,1684,454,1711"/>
+<area shape="rect" id="node4" href="$class_main_window.html#aa3e361becbb0526c782482eb2c983dec" title="MainWindow::SlotopenRecentFile" alt="" coords="557,227,775,253"/>
+<area shape="rect" id="node14" href="$class_main_window.html#a1e5108dcf41b45d805b9afa6c28dd39f" title="MainWindow::closeWindow" alt="" coords="575,321,757,348"/>
+<area shape="rect" id="node15" href="$class_main_window.html#ae08b19ee27eac9d4ba0f213316a3f385" title="MainWindow::SlotopenSegDialog" alt="" coords="559,372,773,399"/>
+<area shape="rect" id="node20" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="553,453,779,494"/>
+<area shape="rect" id="node22" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="575,533,757,574"/>
+<area shape="rect" id="node5" href="$class_image_reader.html#a184f25bd6aa1d61b59e3cc78c0f543db" title="ImageReader::SlotreadImageFile 公有槽函数，捕获 sendImageFileName(filename)信号 并完成图像的读取re任�..." alt="" coords="830,183,1041,209"/>
+<area shape="rect" id="node6" href="$class_image_reader.html#acc28ad026f259b30652489a019e4abc1" title="ImageReader::canReadFile 检测图片是否可以被读取 " alt="" coords="1101,5,1279,32"/>
+<area shape="rect" id="node7" href="$class_image_reader.html#a0ab25ac193dbccdbaf386c6062bb43fa" title="ImageReader::setFileName 设置图片地址 " alt="" coords="1101,56,1279,83"/>
+<area shape="rect" id="node8" href="$class_image_reader.html#aad47f1e133ff156e426e17c26aabb043" title="ImageReader::update" alt="" coords="1117,107,1263,133"/>
+<area shape="rect" id="node9" href="$class_image_reader.html#a2c1e01e3d6916dc3f96a13b36ee21a7b" title="ImageReader::getOutput 获取图像 " alt="" coords="1109,157,1271,184"/>
+<area shape="rect" id="node10" href="$class_image_reader.html#aec63761db48a0a87b2d44faa5f78ccbb" title="ImageReader::getSuffix 获取图像的后缀名 " alt="" coords="1112,208,1268,235"/>
+<area shape="rect" id="node11" href="$class_image_reader.html#a6cbd29ce4f0f40a30fe9c8e8b961d3c2" title="This is an overloaded member function, provided for convenience. It differs from the above function o..." alt="" coords="1095,259,1285,285"/>
+<area shape="rect" id="node12" href="$class_image_reader.html#ab6fa0c235eb6716152a9d4442c68f1b9" title="ImageReader::getDimenstions" alt="" coords="1092,309,1288,336"/>
+<area shape="rect" id="node13" href="$class_image_reader.html#a054ee279d423fd835b24bf7a196ba8ad" title="ImageReader::getDataOrigin" alt="" coords="1097,360,1283,387"/>
+<area shape="rect" id="node16" href="$class_seg_thread_controller.html#af3e3fff30129a33aec6a6f1d4b240932" title="SegThreadController\l::setPorgressDialog" alt="" coords="866,234,1005,275"/>
+<area shape="rect" id="node17" href="$class_main_window.html#a2ccf35cad8d73badef02050e8545aa51" title="MainWindow::SegDialog2Seg\lThreadCommunication" alt="" coords="839,299,1032,341"/>
+<area shape="rect" id="node18" href="$class_main_window.html#a3e227bab873d109b0a37d30d6573ed2b" title="MainWindow::SegThread2File\lCommunication" alt="" coords="838,365,1033,406"/>
+<area shape="rect" id="node19" href="$class_main_window.html#a068b4265323069f016069f64a6e5765a" title="MainWindow::SegThread2Reader\lCommunication" alt="" coords="828,430,1043,471"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="827,496,1044,523"/>
+<area shape="rect" id="node23" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="836,547,1035,589"/>
+<area shape="rect" id="node29" href="$class_main_window.html#a5a5edfc80e49def8bef7c765725bc811" title="MainWindow::updateRecentFile" alt="" coords="563,1171,769,1197"/>
+<area shape="rect" id="node30" href="$class_main_window.html#a37bcca7fc7bf0b871d99913c447c237f" title="MainWindow::strippedName" alt="" coords="843,1171,1027,1197"/>
+<area shape="rect" id="node48" href="$class_system_out.html#af573feb16cc2747741cc3944297e033d" title="SystemOut::Instance" alt="" coords="593,1743,739,1769"/>
+<area shape="rect" id="node49" href="$class_system_out.html#a7984c23c54e93e0686717e904c9aa54f" title="SystemOut::SystemOut" alt="" coords="854,1743,1017,1769"/>
+</map>

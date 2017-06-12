@@ -1,0 +1,6 @@
+<map id="QtKeySequenceEdit::keySequenceChanged" name="QtKeySequenceEdit::keySequenceChanged">
+<area shape="rect" id="node2" href="$class_qt_key_sequence_edit.html#a007883f386d9d2e35df5cfe763a2d596" title="QtKeySequenceEdit::\lslotClearShortcut" alt="" coords="205,5,353,47"/>
+<area shape="rect" id="node4" href="$class_qt_key_sequence_edit.html#ac123073bb01857fea1f58dbdd630c23d" title="QtKeySequenceEdit::\lhandleKeyEvent" alt="" coords="205,71,353,112"/>
+<area shape="rect" id="node3" href="$class_qt_key_sequence_edit.html#af10fbb3caedb67cbae810e709093c173" title="QtKeySequenceEdit::\leventFilter" alt="" coords="401,5,549,47"/>
+<area shape="rect" id="node5" href="$class_qt_key_sequence_edit.html#a105848a6ce5fb0c474312ef5bc21f92f" title="QtKeySequenceEdit::\lkeyPressEvent" alt="" coords="401,71,549,112"/>
+</map>

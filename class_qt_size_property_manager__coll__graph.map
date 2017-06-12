@@ -1,0 +1,7 @@
+<map id="QtSizePropertyManager" name="QtSizePropertyManager">
+<area shape="rect" id="node5" href="$class_qt_size_property_manager_private.html" title="QtSizePropertyManagerPrivate" alt="" coords="50,275,250,301"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="191,81,375,108"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="191,171,375,212"/>
+<area shape="rect" id="node6" href="$class_qt_int_property_manager.html" title="The QtIntPropertyManager provides and manages int properties. " alt="" coords="399,178,549,205"/>
+<area shape="rect" id="node7" href="$class_qt_int_property_manager_private.html" title="QtIntPropertyManagerPrivate" alt="" coords="380,275,568,301"/>
+</map>

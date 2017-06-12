@@ -1,0 +1,5 @@
+<map id="Reslicer::resetPosition" name="Reslicer::resetPosition">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#aee05a8086869b85a8a8a1b86fcd2a504" title="重置重切器 保证自动重切开始时在正确的位置 " alt="" coords="207,5,349,47"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a934a662fd1b6e54ae1c269b23154bb82" title="RootSkeletionBuilder::startTask 启动计时器 开始任务 " alt="" coords="397,5,540,47"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a4e8e8f26d392293df7b393ae9b49ae34" title="开始骨架提取 " alt="" coords="588,13,828,39"/>
+</map>

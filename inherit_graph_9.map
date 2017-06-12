@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_down_sample_dialog.html" title="DownSampleDialog" alt="" coords="126,5,261,32"/>
+<area shape="rect" id="node3" href="$class_hist_dialog.html" title="The HistDialog class 直方图对话框 " alt="" coords="153,56,234,83"/>
+<area shape="rect" id="node4" href="$class_re_construct_parm_dig.html" title="The ReConstructParmDig class 重建参数对话框 " alt="" coords="121,107,265,133"/>
+<area shape="rect" id="node5" href="$class_seg_dialog.html" title="The SegDialog class 分割参数对话框 " alt="" coords="153,157,234,184"/>
+<area shape="rect" id="node6" href="$class_skeletion_parm_dialog.html" title="The SkeletionParmDialog class 骨架分组参数对话框 " alt="" coords="122,208,265,235"/>
+</map>

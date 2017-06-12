@@ -1,0 +1,5 @@
+<map id="RegionAnalyzer::setEnable" name="RegionAnalyzer::setEnable">
+<area shape="rect" id="node2" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="232,5,409,32"/>
+<area shape="rect" id="node3" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="457,5,648,32"/>
+<area shape="rect" id="node4" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="696,5,852,32"/>
+</map>

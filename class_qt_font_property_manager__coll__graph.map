@@ -1,0 +1,11 @@
+<map id="QtFontPropertyManager" name="QtFontPropertyManager">
+<area shape="rect" id="node5" href="$class_qt_font_property_manager_private.html" title="QtFontPropertyManagerPrivate" alt="" coords="780,169,980,196"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="125,275,309,301"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="391,362,575,403"/>
+<area shape="rect" id="node6" href="$class_qt_bool_property_manager.html" title="The QtBoolPropertyManager class provides and manages boolean properties. " alt="" coords="402,56,563,83"/>
+<area shape="rect" id="node8" href="$class_qt_int_property_manager.html" title="The QtIntPropertyManager provides and manages int properties. " alt="" coords="408,257,557,284"/>
+<area shape="rect" id="node10" href="$class_qt_enum_property_manager.html" title="The QtEnumPropertyManager provides and manages enum properties. " alt="" coords="398,309,567,336"/>
+<area shape="rect" id="node7" href="$class_qt_bool_property_manager_private.html" title="QtBoolPropertyManagerPrivate" alt="" coords="780,11,980,37"/>
+<area shape="rect" id="node9" href="$class_qt_int_property_manager_private.html" title="QtIntPropertyManagerPrivate" alt="" coords="786,339,974,365"/>
+<area shape="rect" id="node11" href="$class_qt_enum_property_manager_private.html" title="QtEnumPropertyManagerPrivate" alt="" coords="776,409,984,436"/>
+</map>

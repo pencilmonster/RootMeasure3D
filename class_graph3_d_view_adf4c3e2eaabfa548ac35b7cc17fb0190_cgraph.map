@@ -1,0 +1,5 @@
+<map id="Graph3DView::deleteVectorModel" name="Graph3DView::deleteVectorModel">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#aceb2477c20247b71238499de377856d3" title="Graph3DView::SlotsetRootInfo" alt="" coords="239,5,437,32"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="236,56,440,83"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="488,56,636,83"/>
+</map>

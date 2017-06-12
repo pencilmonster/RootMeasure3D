@@ -1,0 +1,5 @@
+<map id="QtSizeFPropertyManagerPrivate::setRange" name="QtSizeFPropertyManagerPrivate::setRange">
+<area shape="rect" id="node2" href="$class_qt_size_f_property_manager.html#ac5a3c8115053f0726d5e4fa00ac5d20d" title="Sets the minimum size value for the given property to minVal. " alt="" coords="261,5,431,47"/>
+<area shape="rect" id="node3" href="$class_qt_size_f_property_manager.html#adcbfce551d01f723c30bd27f713ed137" title="Sets the maximum size value for the given property to maxVal. " alt="" coords="261,71,431,112"/>
+<area shape="rect" id="node4" href="$class_qt_size_f_property_manager.html#aa5c648cc2c6cf30eb5702d398798f0e4" title="Sets the range of valid values. " alt="" coords="261,136,431,177"/>
+</map>

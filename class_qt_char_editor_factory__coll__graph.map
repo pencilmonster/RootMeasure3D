@@ -1,0 +1,6 @@
+<map id="QtCharEditorFactory" name="QtCharEditorFactory">
+<area shape="rect" id="node5" href="$class_qt_char_editor_factory_private.html" title="QtCharEditorFactoryPrivate" alt="" coords="85,352,265,379"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_editor_factory.html" title="QtAbstractEditorFactory\l\&lt; QtCharPropertyManager \&gt;" alt="" coords="145,157,332,199"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html" title="The QtAbstractEditorFactoryBase provides an interface for editor factories. " alt="" coords="142,81,335,108"/>
+<area shape="rect" id="node6" href="$class_editor_factory_private.html" title="EditorFactoryPrivate\l\&lt; QtCharEdit \&gt;" alt="" coords="5,248,144,289"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QtTimeEditFactory::createEditor" name="QtTimeEditFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a3d2c242fdc7182d8c37b0bad1544fe8b" title="EditorFactoryPrivate\l::createEditor" alt="" coords="204,5,343,47"/>
+<area shape="rect" id="node3" href="$class_qt_time_property_manager.html#a517205aa297d2623fca6a55595fda2ed" title="Returns the given property&#39;s value. " alt="" coords="192,71,355,112"/>
+<area shape="rect" id="node4" href="$class_qt_time_edit_factory.html#a27c9b7bf47b6b49ecb8baf9e639cec6f" title="QtTimeEditFactory::\lslotSetValue" alt="" coords="204,136,343,177"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="QtVariantPropertyManager::addProperty" name="QtVariantPropertyManager::addProperty">
+<area shape="rect" id="node2" href="$class_property_view.html#aca007d17b389383060e8ee1e1a22a675" title="PropertyView::addQVector3DProperty 添加类型为QVector3D的属性项 " alt="" coords="233,5,416,47"/>
+<area shape="rect" id="node3" href="$class_property_view.html#aed40194e09ce5d6759aeeed69254586f" title="PropertyView::createProtractorInfoProperty 创建量角器属性项 具体内容如下： . " alt="" coords="468,35,668,76"/>
+<area shape="rect" id="node5" href="$class_property_view.html#a3bf411cae2eff28c8bc026b5460eda79" title="PropertyView::createImageInfoProperty 创建二维图像组分 具体属性内容如下: . " alt="" coords="479,100,657,141"/>
+<area shape="rect" id="node6" href="$class_property_view.html#afc971bfc13e796a0d0d58c9827ea3b12" title="PropertyView::createGraph3DInfoProperty 创建三维图形分组 具体属性内容如下 . " alt="" coords="475,165,661,207"/>
+<area shape="rect" id="node7" href="$class_property_view.html#a709a3c79ed85620d70616a563195a705" title="PropertyView::createRegionInfoProperty 创建连通区域分析信息组分 具体属性内容如下: ..." alt="" coords="477,231,659,272"/>
+<area shape="rect" id="node8" href="$class_property_view.html#aca0b947582e36766ee7ef0dab2685ca0" title="PropertyView::createReslicerInfoProperty 创建重切器组分 具体属性内容如下: . " alt="" coords="229,275,420,316"/>
+<area shape="rect" id="node9" href="$class_property_view.html#a4e62da95f1fcc0d18f9efbb9d8cac437" title="PropertyView::createRulerInfoProperty 创建刻度尺属性项 具体内容如下： . " alt="" coords="238,340,411,381"/>
+<area shape="rect" id="node10" href="$class_property_view.html#acc0d33391dfb54b41b1913be585b2ddf" title="PropertyView::createBranchInfoProperty 创建根分支属性项 具体内容如下： . " alt="" coords="233,405,417,447"/>
+<area shape="rect" id="node11" href="$class_property_view.html#a42960d6fde6041b778ed309ca2b463fc" title="PropertyView::createRootInfoProperty 创建根分支属性项 具体内容如下： . " alt="" coords="239,471,410,512"/>
+<area shape="rect" id="node12" href="$class_qt_variant_property_manager_private.html#a35673057243cb927fa12f465f1b073d0" title="QtVariantPropertyManager\lPrivate::createSubProperty" alt="" coords="236,536,413,577"/>
+<area shape="rect" id="node4" href="$class_property_view.html#ac560eb7ba577449aff818072508370df" title="PropertyView::PropertyView" alt="" coords="716,267,900,294"/>
+<area shape="rect" id="node13" href="$class_qt_variant_property_manager_private.html#aeb2f7ef2d06eaee38c954a496e642469" title="QtVariantPropertyManager\lPrivate::slotPropertyInserted" alt="" coords="475,527,661,568"/>
+<area shape="rect" id="node14" href="$class_qt_variant_property_manager.html#a2b57de024031199e7d84caf917f5508d" title="QtVariantPropertyManager\l::initializeProperty" alt="" coords="480,592,656,633"/>
+</map>

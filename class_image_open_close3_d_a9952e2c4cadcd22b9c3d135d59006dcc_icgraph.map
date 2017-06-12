@@ -1,0 +1,23 @@
+<map id="ImageOpenClose3D::SetOperate" name="ImageOpenClose3D::SetOperate">
+<area shape="rect" id="node2" href="$classvtk_reconstruct.html#ab31525dcfda65423ed5793969ccdf681" title="vtkReconstruct::setFilterParm 三位滤波器的参数 这里包括膨胀腐蚀滤波器、开闭运算滤波器、中值滤波器 ..." alt="" coords="264,210,459,237"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a2366b0044d4a5aec18c144b17c3a27b7" title="Graph3DView::SlotsetFilterParm" alt="" coords="517,185,728,211"/>
+<area shape="rect" id="node4" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="507,235,739,262"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="787,235,971,262"/>
+<area shape="rect" id="node6" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="2053,71,2271,98"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="2055,214,2269,241"/>
+<area shape="rect" id="node15" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="1023,199,1229,240"/>
+<area shape="rect" id="node22" href="$class_graph3_d_view.html#a4bbcd0da403164e72c90bd540b6bca31" title="读取VRML格式三维模型文件 " alt="" coords="1019,341,1233,367"/>
+<area shape="rect" id="node7" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="2319,64,2544,105"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2603,42,2787,69"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2851,42,3030,69"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="2333,189,2529,215"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="2335,239,2528,266"/>
+<area shape="rect" id="node13" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="2592,239,2799,266"/>
+<area shape="rect" id="node14" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="2847,239,3035,266"/>
+<area shape="rect" id="node16" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1536,123,1735,164"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="1281,173,1480,215"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="1281,239,1480,266"/>
+<area shape="rect" id="node17" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1807,5,1989,47"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="1528,189,1743,215"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="1791,163,2005,190"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SegThreadController::sendReaderParm" name="SegThreadController::sendReaderParm">
+<area shape="rect" id="node2" href="$class_seg_thread_controller.html#aaf3718a5293d188556ce0af3332e089d" title="SegThreadController\l::queuedConnect" alt="" coords="383,5,521,47"/>
+<area shape="rect" id="node4" href="$class_seg_thread_controller.html#abc8f8e495abb9467642cec16ff4b563d" title="SegThreadController\l::SlotsetReaderParm" alt="" coords="192,35,335,76"/>
+<area shape="rect" id="node3" href="$class_seg_thread_controller.html#ad9177cfe4dbfc27f24dafbcc8df6bbae" title="SegThreadController\l::SegThreadController" alt="" coords="569,5,716,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtAbstractPropertyBrowser::addFactory" name="QtAbstractPropertyBrowser::addFactory">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#a55c476dd090c48b84927b7fbce3106d8" title="Removes the association between the given manager and the factory bound to it, automatically calling ..." alt="" coords="235,5,416,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html#a0608f6600aab1e8c8fc7cf1476452321" title="QtAbstractEditorFactoryBase\l::breakConnection" alt="" coords="464,5,657,47"/>
+</map>

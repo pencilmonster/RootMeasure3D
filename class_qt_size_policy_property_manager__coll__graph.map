@@ -1,0 +1,9 @@
+<map id="QtSizePolicyPropertyManager" name="QtSizePolicyPropertyManager">
+<area shape="rect" id="node5" href="$class_qt_size_policy_property_manager_private.html" title="QtSizePolicyPropertyManager\lPrivate" alt="" coords="28,275,225,316"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="427,81,611,108"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="628,171,812,212"/>
+<area shape="rect" id="node6" href="$class_qt_int_property_manager.html" title="The QtIntPropertyManager provides and manages int properties. " alt="" coords="260,178,409,205"/>
+<area shape="rect" id="node8" href="$class_qt_enum_property_manager.html" title="The QtEnumPropertyManager provides and manages enum properties. " alt="" coords="434,178,603,205"/>
+<area shape="rect" id="node7" href="$class_qt_int_property_manager_private.html" title="QtIntPropertyManagerPrivate" alt="" coords="273,282,461,309"/>
+<area shape="rect" id="node9" href="$class_qt_enum_property_manager_private.html" title="QtEnumPropertyManagerPrivate" alt="" coords="575,282,783,309"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="RootSkeletionBuilder::branchReslice" name="RootSkeletionBuilder::branchReslice">
+<area shape="rect" id="node2" href="$class_root_branch.html#a6dded88bdd8dcaa211b6a1df2572b178" title="RootBranch::clear" alt="" coords="231,5,357,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="737,711,899,737"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#a78a8306aaf4feab36808faec3bf67707" title="RootBranch::clearNodeIds" alt="" coords="207,679,381,705"/>
+<area shape="rect" id="node6" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="745,325,891,352"/>
+<area shape="rect" id="node7" href="$class_root_system.html#a7a53f1fa0cea1f2b823c7e8b91055d69" title="获得当前根分支的根结点个数 " alt="" coords="452,259,647,301"/>
+<area shape="rect" id="node10" href="$class_root_system.html#ab132893d2dfd4e3827dfaabbe0a0ea76" title="返回给定分支的第一个根结点 " alt="" coords="461,77,637,118"/>
+<area shape="rect" id="node14" href="$class_root_node.html#addb6962357f2b4fdaac807043ed8fedc" title="获取根结点的主轴端点坐标 " alt="" coords="201,730,387,771"/>
+<area shape="rect" id="node15" href="$class_reslicer.html#ad21c70fb3d0d6560d2f464b0fb115e0a" title="Reslicer::setPlaneCenter" alt="" coords="211,796,377,823"/>
+<area shape="rect" id="node17" href="$class_math_tool.html#a421603b0781ce637ff8341d0eff39a71" title="MathTool::distanceBetween\lPoints" alt="" coords="203,847,385,889"/>
+<area shape="rect" id="node18" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="473,208,626,235"/>
+<area shape="rect" id="node19" href="$class_root_system.html#a4aa1b94d9c2fd08cb75f53d6bcbf60c9" title="返回给定分支的最后一个根结点 " alt="" coords="455,11,643,53"/>
+<area shape="rect" id="node21" href="$class_root_system.html#abc6cc30ea0da4346e2bd59bc78cfb5eb" title="返回根分支的生长朝向 " alt="" coords="196,158,392,199"/>
+<area shape="rect" id="node24" href="$class_reslicer.html#a3b68e9d9e4ab1d6de706513d66ed8cab" title="Reslicer::setPlaneOrientation" alt="" coords="199,913,389,940"/>
+<area shape="rect" id="node27" href="$class_root_system.html#afb71656d44ed45ee49e44eb6ab5feacd" title="获取指定根分支的最大半径 " alt="" coords="457,377,642,418"/>
+<area shape="rect" id="node30" href="$class_root_system.html#ad8b3363861c8da504c1d5ca5292898f2" title="获取指定根分枝到指定直线的最大距离 " alt="" coords="453,442,645,483"/>
+<area shape="rect" id="node32" href="$class_reslicer.html#a7255555995567fac2cd119233c5b3a4c" title="Reslicer::setPlaneSize" alt="" coords="217,964,371,991"/>
+<area shape="rect" id="node37" href="$class_reslicer.html#aebe8a930582e51cbd6865ab1146535ae" title="Reslicer::disconnectvtkEvent\lQtslot" alt="" coords="200,1015,388,1057"/>
+<area shape="rect" id="node38" href="$class_reslicer.html#a184177d79e90f1c913502dddb95ba060" title="Reslicer::getEnable" alt="" coords="227,1081,361,1108"/>
+<area shape="rect" id="node39" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="227,1132,361,1159"/>
+<area shape="rect" id="node40" href="$class_root_system.html#aa04c3bdba59f299311e28e762b085a3e" title="移除根分支，具体移除如下三项内容： &#160;" alt="" coords="202,577,386,604"/>
+<area shape="rect" id="node4" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="977,491,1169,517"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="731,271,905,297"/>
+<area shape="rect" id="node9" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="707,427,929,469"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#af58b9fb781b32933f09572dbdb78c2aa" title="获取分支第一个根结点ID " alt="" coords="727,84,909,111"/>
+<area shape="rect" id="node12" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="737,143,899,169"/>
+<area shape="rect" id="node13" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="983,143,1164,169"/>
+<area shape="rect" id="node16" href="$class_image_plane_widget.html#a342692f2601678dd753016ce2530a0db" title="ImagePlaneWidget::SetCenter" alt="" coords="451,863,648,889"/>
+<area shape="rect" id="node20" href="$class_root_branch.html#ac6dc5f75ed492b5599aeb3630536690b" title="获取分支最后一个根结点ID " alt="" coords="727,19,909,45"/>
+<area shape="rect" id="node22" href="$class_root_system.html#ad46d8ff422cb0c928eab7582edfdddf0" title="返回给定根分支的父结点 如果不存在返回空结点 " alt="" coords="455,142,643,183"/>
+<area shape="rect" id="node23" href="$class_root_branch.html#a5571577ed3aee1ea4cf6f244c2298f70" title="RootBranch::getParentNodeID" alt="" coords="720,193,916,220"/>
+<area shape="rect" id="node25" href="$class_reslicer.html#abeb941832329e9700bc3e0d4f3978c96" title="Reslicer::setPlaneNormal" alt="" coords="465,913,634,940"/>
+<area shape="rect" id="node26" href="$class_image_plane_widget.html#a32dbe9dda2b8e2a30b646944b9ec6ba8" title="ImagePlaneWidget::SetNormal" alt="" coords="718,913,918,940"/>
+<area shape="rect" id="node28" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="716,493,920,520"/>
+<area shape="rect" id="node29" href="$class_root_node.html#a83c8f810451dde7f3f65d306c53c3edb" title="RootNode::getRadius" alt="" coords="745,376,891,403"/>
+<area shape="rect" id="node31" href="$class_root_node.html#a0fd57c99d41581f42132ef3fe777b473" title="计算结点到指定直线的空间距离 " alt="" coords="731,544,905,571"/>
+<area shape="rect" id="node33" href="$class_reslicer.html#aa2cec7692c4fffb54e86a3018d3effd5" title="Reslicer::setPlaneHigh" alt="" coords="472,964,627,991"/>
+<area shape="rect" id="node35" href="$class_reslicer.html#a97f2dc8bf4edfa57e9d7810c49248b53" title="Reslicer::setPlaneWidth" alt="" coords="468,1015,631,1041"/>
+<area shape="rect" id="node34" href="$class_image_plane_widget.html#a420afeea0b2dc166906d553fc15af046" title="ImagePlaneWidget::SetHigh" alt="" coords="725,964,911,991"/>
+<area shape="rect" id="node36" href="$class_image_plane_widget.html#a7b444b422863a5c087b7cbc77f4acd4e" title="ImagePlaneWidget::SetWidth" alt="" coords="721,1015,915,1041"/>
+<area shape="rect" id="node41" href="$class_root_system.html#a6ed2062c1fbc89bcbd953659bae6bbd7" title="移除根结点 如果该根节点已分组 则进一步将其从分支中移除 " alt="" coords="463,711,636,737"/>
+<area shape="rect" id="node42" href="$class_root_system.html#a3a1ba969544708bc92d0ea4c4db8daaf" title="返回给定根分支的父分支ID 如果不存在返回&#45;1 " alt="" coords="450,609,649,636"/>
+<area shape="rect" id="node44" href="$class_root_branch.html#a32b2550b4b56e6923e350f89704de170" title="RootBranch::removeChildBranchId" alt="" coords="440,660,659,687"/>
+<area shape="rect" id="node43" href="$class_root_branch.html#a7ccca4c88772d9ab2575914e68b288c8" title="RootBranch::getParentBranchID" alt="" coords="715,609,921,636"/>
+</map>

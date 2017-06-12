@@ -1,0 +1,12 @@
+<map id="SkeletonReader::parseBranchElement" name="SkeletonReader::parseBranchElement">
+<area shape="rect" id="node2" href="$class_skeleton_reader.html#a75731d9ee2d32bc67ac6e6f722ba0509" title="SkeletonReader::parseGrade\lElement" alt="" coords="264,5,453,47"/>
+<area shape="rect" id="node3" href="$class_root_branch.html#ac393f977f4272715e2d16f9e7cb8bac2" title="RootBranch::setBranchGrade" alt="" coords="263,71,455,98"/>
+<area shape="rect" id="node4" href="$class_skeleton_reader.html#ae1ab37e15e20c716750dba6b604d0244" title="SkeletonReader::parsepBranch\lIdElement" alt="" coords="257,123,460,164"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#a22ae03bc1d5e94bf0ea1caf566c29356" title="RootBranch::setParentBranchID" alt="" coords="255,189,462,215"/>
+<area shape="rect" id="node6" href="$class_skeleton_reader.html#a1c71a2fc8ae3ef27507707a880934988" title="SkeletonReader::parsepNode\lIdElement" alt="" coords="263,240,454,281"/>
+<area shape="rect" id="node7" href="$class_root_branch.html#a42cc0b31a08d330dfc574f333166cabd" title="RootBranch::setParentNodeID" alt="" coords="261,306,457,333"/>
+<area shape="rect" id="node8" href="$class_skeleton_reader.html#a1865d03418296cad23b851bdc13cfc88" title="SkeletonReader::parseChild\lBranchIds" alt="" coords="267,357,450,399"/>
+<area shape="rect" id="node9" href="$class_root_branch.html#a6aeac8f5d2c6752e7e4a8419f470b6ac" title="RootBranch::addAllChildBranchIds" alt="" coords="248,423,469,450"/>
+<area shape="rect" id="node10" href="$class_skeleton_reader.html#a688e34fc99d6692064f72a9fc2893df3" title="SkeletonReader::parseIncude\lNodeIds" alt="" coords="263,475,455,516"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#a5b0865b68502e578c8e790b83270625a" title="RootBranch::addAllInclude\lNodeId" alt="" coords="271,540,446,581"/>
+</map>

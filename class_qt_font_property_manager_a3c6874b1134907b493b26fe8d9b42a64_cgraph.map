@@ -1,0 +1,5 @@
+<map id="QtFontPropertyManager::setValue" name="QtFontPropertyManager::setValue">
+<area shape="rect" id="node2" href="$class_qt_enum_property_manager.html#a2687a8ff63fdfe89290f330aa9f71ccb" title="Sets the value of the given property to value. " alt="" coords="215,5,384,47"/>
+<area shape="rect" id="node3" href="$class_qt_int_property_manager.html#af918e1e91c69de900a3ce3fe8fb4291f" title="Sets the value of the given property to value. " alt="" coords="225,71,374,112"/>
+<area shape="rect" id="node4" href="$class_qt_bool_property_manager.html#a046b39b8d8554b599bd50592967fa97d" title="Sets the value of the given property to value. " alt="" coords="219,136,380,177"/>
+</map>

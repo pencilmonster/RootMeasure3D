@@ -1,0 +1,5 @@
+<map id="QtVariantPropertyManager::setValue" name="QtVariantPropertyManager::setValue">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager.html#a8ea29dc82404046acd3db692cc05319a" title="Returns the given property&#39;s value type. " alt="" coords="237,5,413,47"/>
+<area shape="rect" id="node4" href="$class_qt_property.html#afbf9a7febbdb3461572aa5fc9e210245" title="Returns a pointer to the manager that owns this property. " alt="" coords="229,71,420,98"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager.html#a45afcf7341022677099b06728dc92107" title="Returns the given property&#39;s type. " alt="" coords="468,5,644,47"/>
+</map>

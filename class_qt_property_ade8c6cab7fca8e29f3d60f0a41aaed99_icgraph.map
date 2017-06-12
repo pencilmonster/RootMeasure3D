@@ -1,0 +1,16 @@
+<map id="QtProperty::setPropertyName" name="QtProperty::setPropertyName">
+<area shape="rect" id="node2" href="$class_qt_locale_property_manager.html#aba1f7221a566326fd45550425aadf86c" title="QtLocalePropertyManager\l::initializeProperty" alt="" coords="260,5,433,47"/>
+<area shape="rect" id="node3" href="$class_qt_point_property_manager.html#a5ae6d35655a2d0f514a87ded1f2fd6b5" title="QtPointPropertyManager\l::initializeProperty" alt="" coords="264,71,429,112"/>
+<area shape="rect" id="node4" href="$class_qt_point_f_property_manager.html#a93d70b66ddea00a1973d077826e7e5b7" title="QtPointFPropertyManager\l::initializeProperty" alt="" coords="260,136,433,177"/>
+<area shape="rect" id="node5" href="$class_qt_size_property_manager.html#affbd5b7cfafc273b1af7b6e535de39ee" title="QtSizePropertyManager\l::initializeProperty" alt="" coords="266,201,427,243"/>
+<area shape="rect" id="node6" href="$class_qt_size_f_property_manager.html#ade99b4b3076e344ae230a6bceb9f5a0b" title="QtSizeFPropertyManager\l::initializeProperty" alt="" coords="262,267,431,308"/>
+<area shape="rect" id="node7" href="$class_qt_rect_property_manager.html#a7ef8e45d21bf2c9556d8bd46d2adee99" title="QtRectPropertyManager\l::initializeProperty" alt="" coords="265,332,428,373"/>
+<area shape="rect" id="node8" href="$class_qt_rect_f_property_manager.html#afc07213056ce3d85b04155c9b4edbb12" title="QtRectFPropertyManager\l::initializeProperty" alt="" coords="261,397,432,439"/>
+<area shape="rect" id="node9" href="$class_qt_flag_property_manager.html#ac9a69f02f5b95265dde11182b22584b1" title="Sets the given property&#39;s list of flag names to flagNames. " alt="" coords="267,463,427,504"/>
+<area shape="rect" id="node10" href="$class_qt_size_policy_property_manager.html#ac721a0721079c7b9a379e168af071105" title="QtSizePolicyPropertyManager\l::initializeProperty" alt="" coords="248,528,445,569"/>
+<area shape="rect" id="node11" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="266,593,427,635"/>
+<area shape="rect" id="node12" href="$class_qt_color_property_manager.html#a3ed1db5091e4254e1c7cd84901fe493c" title="QtColorPropertyManager\l::initializeProperty" alt="" coords="264,659,429,700"/>
+<area shape="rect" id="node13" href="$class_qt_variant_property_manager_private.html#a35673057243cb927fa12f465f1b073d0" title="QtVariantPropertyManager\lPrivate::createSubProperty" alt="" coords="258,724,435,765"/>
+<area shape="rect" id="node14" href="$class_qt_variant_property_manager_private.html#aeb2f7ef2d06eaee38c954a496e642469" title="QtVariantPropertyManager\lPrivate::slotPropertyInserted" alt="" coords="493,691,679,732"/>
+<area shape="rect" id="node15" href="$class_qt_variant_property_manager.html#a2b57de024031199e7d84caf917f5508d" title="QtVariantPropertyManager\l::initializeProperty" alt="" coords="498,756,674,797"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="RootSystem::getSurfaceAreaOfBranch" name="RootSystem::getSurfaceAreaOfBranch">
+<area shape="rect" id="node2" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="739,18,886,45"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a5310a22be8b8b3b8c81e84e02cd392a0" title="RootSystem::getSurfaceOfBranch 分段累加计算根分支表面积 公 式：S = length * (pi * D0 + pi * D1) / 2 =..." alt="" coords="244,213,435,255"/>
+<area shape="rect" id="node21" href="$class_root_branch.html#a9d3f0f31da79838fd133c08fc5e7fc4b" title="RootBranch::getBranchID" alt="" coords="255,279,424,306"/>
+<area shape="rect" id="node4" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="725,135,900,162"/>
+<area shape="rect" id="node6" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="731,338,894,365"/>
+<area shape="rect" id="node8" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="952,338,1156,365"/>
+<area shape="rect" id="node9" href="$class_root_system.html#ac23cc3cb53ce9267b5b35cbe51b88986" title="获取该结点所在根分支的后一个结点 " alt="" coords="483,272,673,313"/>
+<area shape="rect" id="node14" href="$class_root_node.html#a0ed09c0d2171aa761a150260b87fbcf4" title="RootNode::isEmpty" alt="" coords="511,439,645,466"/>
+<area shape="rect" id="node15" href="$class_root_node.html#a5f36301af8219f017a207958eb89ae6b" title="计算当前根结点到指定根结点之间的距离. " alt="" coords="488,490,668,517"/>
+<area shape="rect" id="node18" href="$class_root_node.html#acea547a94c390ec3e08eb1b8b315d355" title="RootNode::getPhysicalSize" alt="" coords="487,69,669,95"/>
+<area shape="rect" id="node19" href="$class_root_node.html#a83c8f810451dde7f3f65d306c53c3edb" title="RootNode::getRadius" alt="" coords="505,119,651,146"/>
+<area shape="rect" id="node20" href="$class_root_node.html#adfc779af14200e9acc946a274186d9e4" title="RootNode::getPerimeter" alt="" coords="497,170,659,197"/>
+<area shape="rect" id="node5" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="958,135,1150,162"/>
+<area shape="rect" id="node7" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="963,287,1145,314"/>
+<area shape="rect" id="node10" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="733,186,892,213"/>
+<area shape="rect" id="node12" href="$class_root_branch.html#ab66fffe5d5e475dcba660902841936ab" title="RootBranch::getNextNodeId 返回当前结点的下一个结点，不存在则返回&#45;1. " alt="" coords="721,287,904,314"/>
+<area shape="rect" id="node13" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="737,237,888,263"/>
+<area shape="rect" id="node11" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="977,186,1131,213"/>
+<area shape="rect" id="node16" href="$class_math_tool.html#a421603b0781ce637ff8341d0eff39a71" title="MathTool::distanceBetween\lPoints" alt="" coords="721,516,904,557"/>
+<area shape="rect" id="node17" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="736,465,889,491"/>
+</map>

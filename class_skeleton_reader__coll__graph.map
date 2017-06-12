@@ -1,0 +1,5 @@
+<map id="SkeletonReader" name="SkeletonReader">
+<area shape="rect" id="node3" href="$class_root_system.html" title="The RootSystem class 根系统 软件的核心数据结构用来用来保存根矢量模型信息 " alt="" coords="100,95,195,121"/>
+<area shape="rect" id="node4" href="$class_root_node.html" title="The RootNode class 根结点 系统的核心数据结构，记录结点位置、法向量等信息 " alt="" coords="48,5,127,32"/>
+<area shape="rect" id="node5" href="$class_root_branch.html" title="The RootBranch class 根分支 系统核心数据结构 用来记录分支间的拓扑关系以及所属的节点Id. " alt="" coords="162,5,253,32"/>
+</map>

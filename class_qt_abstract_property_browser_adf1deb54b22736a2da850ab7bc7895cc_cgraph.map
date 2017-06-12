@@ -1,0 +1,5 @@
+<map id="QtAbstractPropertyBrowser::~QtAbstractPropertyBrowser" name="QtAbstractPropertyBrowser::~QtAbstractPropertyBrowser">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#a2e6d6c9edb561c2d6ae5a87871dc73c7" title="Returns the list of top&#45;level items. " alt="" coords="251,5,432,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser_private.html#a2bb5dee3be01c7fd2c092aa69b9bca68" title="QtAbstractPropertyBrowser\lPrivate::clearIndex" alt="" coords="251,71,432,112"/>
+<area shape="rect" id="node4" href="$class_qt_browser_item.html#ac48e519bf9dfd8d65d51f0dcbfa98e86" title="Returns the children items of this item. " alt="" coords="480,78,641,105"/>
+</map>

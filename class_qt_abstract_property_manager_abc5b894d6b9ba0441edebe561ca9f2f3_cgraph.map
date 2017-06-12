@@ -1,0 +1,4 @@
+<map id="QtAbstractPropertyManager::addProperty" name="QtAbstractPropertyManager::addProperty">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html#ac7db11b00fc5384f9fc10eb8f02e3637" title="Creates a property. " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_manager.html#ab7501ecabc5285cb50d7ed91a2ef44fc" title="This function is called whenever a new valid property pointer has been created, passing the pointer a..." alt="" coords="237,71,421,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AutoSeedWidget::SetVisibility" name="AutoSeedWidget::SetVisibility">
+<area shape="rect" id="node2" href="$class_auto_seed_widget.html#aba70b1aed1bbc4f7fa5125bba87e6a19" title="AutoSeedWidget::setPosition" alt="" coords="251,31,444,57"/>
+<area shape="rect" id="node3" href="$class_auto_seed_widget.html#a573a5d22f9ca8f135e896af1e95abf79" title="AutoSeedWidget::Update" alt="" coords="492,31,661,57"/>
+<area shape="rect" id="node4" href="$class_auto_seed_widget.html#a5063de4d62f8a008f765fd6d999b8f9d" title="AutoSeedWidget::SetInputData" alt="" coords="709,31,912,57"/>
+<area shape="rect" id="node5" href="$class_image_view.html#a9df09f600cd254f533fb88445e3cce4a" title="ImageView::SlotShowImag() 显示图像 " alt="" coords="960,5,1143,32"/>
+<area shape="rect" id="node6" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="963,56,1140,83"/>
+<area shape="rect" id="node7" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="1191,56,1381,83"/>
+<area shape="rect" id="node8" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="1429,56,1585,83"/>
+</map>

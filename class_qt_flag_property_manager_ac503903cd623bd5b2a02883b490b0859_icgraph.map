@@ -1,0 +1,5 @@
+<map id="QtFlagPropertyManager::valueChanged" name="QtFlagPropertyManager::valueChanged">
+<area shape="rect" id="node2" href="$class_qt_flag_property_manager.html#a32aade733faa88a50178cf44fd120ab8" title="Creates a manager with the given parent. " alt="" coords="213,5,381,47"/>
+<area shape="rect" id="node3" href="$class_qt_flag_property_manager.html#aad7c51a700c985b1bbad8aa6cfcbf22a" title="Sets the value of the given property to value. " alt="" coords="217,71,377,112"/>
+<area shape="rect" id="node4" href="$class_qt_flag_property_manager.html#ac9a69f02f5b95265dde11182b22584b1" title="Sets the given property&#39;s list of flag names to flagNames. " alt="" coords="217,136,377,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="QtAbstractEditorFactory::addPropertyManager" name="QtAbstractEditorFactory::addPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_cursor_editor_factory.html#a368b9ae9e5d663f3f9e46d600410482c" title="Creates a factory with the given parent. " alt="" coords="227,5,387,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser.html#a952b5b393e83f16253033fa4a9f5ea89" title="Connects the given manager to the given factory, ensuring that properties of the manager&#39;s type will ..." alt="" coords="216,71,397,112"/>
+<area shape="rect" id="node5" href="$class_qt_variant_editor_factory.html#a36f7a8818ed9c724e2dbece9254e2abc" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="219,136,394,177"/>
+<area shape="rect" id="node4" href="$class_property_view.html#ac560eb7ba577449aff818072508370df" title="PropertyView::PropertyView" alt="" coords="445,78,629,105"/>
+</map>

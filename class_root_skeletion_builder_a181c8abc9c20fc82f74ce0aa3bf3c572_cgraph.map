@@ -1,0 +1,5 @@
+<map id="RootSkeletionBuilder::saveReslicerStatus" name="RootSkeletionBuilder::saveReslicerStatus">
+<area shape="rect" id="node2" href="$class_reslicer.html#aebe8a930582e51cbd6865ab1146535ae" title="Reslicer::disconnectvtkEvent\lQtslot" alt="" coords="196,5,384,47"/>
+<area shape="rect" id="node3" href="$class_reslicer.html#a184177d79e90f1c913502dddb95ba060" title="Reslicer::getEnable" alt="" coords="223,71,357,98"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="223,122,357,149"/>
+</map>

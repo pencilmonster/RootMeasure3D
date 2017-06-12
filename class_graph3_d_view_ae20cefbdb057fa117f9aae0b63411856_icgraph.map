@@ -1,0 +1,4 @@
+<map id="Graph3DView::sendCoordInfo" name="Graph3DView::sendCoordInfo">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a159a8c50468367144d446f9a63975215" title="获取拾取器所拾取的坐标，并发送到主界面状态栏上显示 " alt="" coords="244,5,448,32"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="496,5,684,32"/>
+</map>

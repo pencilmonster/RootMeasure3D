@@ -1,0 +1,5 @@
+<map id="QtSpinBoxFactory::connectPropertyManager" name="QtSpinBoxFactory::connectPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_spin_box_factory.html#aa898176b04bb5be3ca94189829a0e627" title="QtSpinBoxFactory::slotRange\lChanged" alt="" coords="236,5,431,47"/>
+<area shape="rect" id="node3" href="$class_qt_spin_box_factory.html#a4740603a01e08a506c935e729e07c156" title="QtSpinBoxFactory::slotSingle\lStepChanged" alt="" coords="236,71,431,112"/>
+<area shape="rect" id="node4" href="$class_qt_spin_box_factory.html#ad9f61e84b9f5ca2b90772e46481f98bb" title="QtSpinBoxFactory::slotRead\lOnlyChanged" alt="" coords="239,136,427,177"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="RootNode::getShortAxis" name="RootNode::getShortAxis">
+<area shape="rect" id="node2" href="$rootnode_8h.html#ac3701d4a0cf719c85800149b5882c66b" title="operator\&lt;\&lt;" alt="" coords="245,5,330,32"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a29856bf48f078f1c96337e449ca251ca" title="细小根分支处理 细小根分支：只有一个结点的分支(或由用户自定义) 判定移除规则：移除所有长短轴比小于给定�..." alt="" coords="216,57,359,98"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="407,57,549,98"/>
+<area shape="rect" id="node5" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="597,57,740,98"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="788,57,939,98"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="987,57,1129,98"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1177,57,1376,98"/>
+<area shape="rect" id="node9" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1424,57,1607,98"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1655,64,1839,91"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1887,64,2065,91"/>
+</map>

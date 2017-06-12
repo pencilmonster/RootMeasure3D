@@ -1,0 +1,12 @@
+<map id="QtEnumPropertyManager::enumNames" name="QtEnumPropertyManager::enumNames">
+<area shape="rect" id="node2" href="$class_qt_enum_editor_factory_private.html#a70efc128eb6a6efab0035942009a71bf" title="QtEnumEditorFactoryPrivate\l::slotEnumIconsChanged" alt="" coords="223,39,409,80"/>
+<area shape="rect" id="node3" href="$class_qt_enum_editor_factory.html#a9ef61b3b305c8fb8e0ae2a8bc37e2c26" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="242,104,390,145"/>
+<area shape="rect" id="node4" href="$class_qt_enum_property_manager.html#a6cdbee64ff4e2174e68e8a52acfd6a49" title="Sets the given property&#39;s list of enum names to enumNames. " alt="" coords="231,169,401,211"/>
+<area shape="rect" id="node5" href="$class_qt_cursor_editor_factory.html#ab8a32881e55f038ea5afc3e11150d20d" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="493,5,645,47"/>
+<area shape="rect" id="node6" href="$class_qt_locale_property_manager.html#acc0660fa1d6e9bb101b8617ad586f519" title="Sets the value of the given property to value. " alt="" coords="482,71,655,112"/>
+<area shape="rect" id="node7" href="$class_qt_locale_property_manager.html#aba1f7221a566326fd45550425aadf86c" title="QtLocalePropertyManager\l::initializeProperty" alt="" coords="482,136,655,177"/>
+<area shape="rect" id="node8" href="$class_qt_size_policy_property_manager.html#ac721a0721079c7b9a379e168af071105" title="QtSizePolicyPropertyManager\l::initializeProperty" alt="" coords="470,201,667,243"/>
+<area shape="rect" id="node9" href="$class_qt_font_property_manager_private.html#a2c1134dcbdf2e56f869667ac119ffe2f" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseDelayedChange" alt="" coords="457,267,680,308"/>
+<area shape="rect" id="node11" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="488,332,649,373"/>
+<area shape="rect" id="node10" href="$class_qt_font_property_manager_private.html#a9eb0c3ff0d60ddf5644b78b4536d30d3" title="QtFontPropertyManagerPrivate\l::slotFontDatabaseChanged" alt="" coords="728,267,928,308"/>
+</map>

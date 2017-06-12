@@ -1,0 +1,5 @@
+<map id="SurfaceModelPicker::SurfaceModelPicker" name="SurfaceModelPicker::SurfaceModelPicker">
+<area shape="rect" id="node2" href="$class_surface_model_picker.html#aab755d3b1b050cd8c254b53a2953b45f" title="SurfaceModelPicker::initActors 初始化拾取器部件 " alt="" coords="200,5,339,47"/>
+<area shape="rect" id="node3" href="$class_surface_model_picker.html#a8de8201d033b6d1e00b6bd3fd7f1f559" title="SurfaceModelPicker::SlotsetPosition 设置拾取器位置 " alt="" coords="200,71,339,112"/>
+<area shape="rect" id="node4" href="$class_surface_model_picker.html#a11c3887ee9ae6e4fb12b70d8122d4ace" title="set cone position and direction " alt="" coords="387,71,525,112"/>
+</map>

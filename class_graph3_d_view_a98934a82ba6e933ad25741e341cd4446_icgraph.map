@@ -1,0 +1,6 @@
+<map id="Graph3DView::sendRulerInfo" name="Graph3DView::sendRulerInfo">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#abbcb810f514aebb6ef31b4447f5b124a" title="Graph3DView::SlotgetRulerInfo 获取刻度尺属性信息并发出相关信号 " alt="" coords="240,5,440,32"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="488,5,681,32"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="729,5,936,32"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="984,5,1172,32"/>
+</map>

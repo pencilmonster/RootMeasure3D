@@ -1,0 +1,20 @@
+<map id="QtButtonPropertyBrowser::itemInserted" name="QtButtonPropertyBrowser::itemInserted">
+<area shape="rect" id="node2" href="$class_qt_button_property_browser_private.html#abef9aef97840d05531dd47798273f713" title="QtButtonPropertyBrowserPrivate\l::propertyInserted" alt="" coords="224,319,433,361"/>
+<area shape="rect" id="node3" href="$class_qt_browser_item.html#afed8197ad887301642017d7b61c185b7" title="Returns the parent item of this item. " alt="" coords="510,5,662,32"/>
+<area shape="rect" id="node4" href="$struct_qt_button_property_browser_private_1_1_widget_item.html#aa2116ac1ff667645886db96de4f49f80" title="QtButtonPropertyBrowserPrivate\l::WidgetItem::WidgetItem" alt="" coords="481,57,691,98"/>
+<area shape="rect" id="node5" href="$class_qt_button_property_browser_private.html#a88daae0d25ea3c563b884ddc3adcb9f1" title="QtButtonPropertyBrowserPrivate\l::gridRow" alt="" coords="1253,329,1463,370"/>
+<area shape="rect" id="node6" href="$class_qt_button_property_browser_private.html#ad0e0b739d42399e1f252ead406486287" title="QtButtonPropertyBrowserPrivate\l::gridSpan" alt="" coords="1511,211,1720,253"/>
+<area shape="rect" id="node7" href="$class_qt_button_property_browser_private.html#adad7e77db2fa647f6bc59fa9fcba313c" title="QtButtonPropertyBrowserPrivate\l::createButton" alt="" coords="481,231,691,273"/>
+<area shape="rect" id="node8" href="$class_qt_button_property_browser_private.html#a3b6a5bfb6b74039a8a616f69cb036422" title="QtButtonPropertyBrowserPrivate\l::slotToggled" alt="" coords="739,225,948,266"/>
+<area shape="rect" id="node10" href="$class_qt_button_property_browser_private.html#a6fb965adc6156e03087d2d453e368ede" title="QtButtonPropertyBrowserPrivate\l::insertRow" alt="" coords="1253,174,1463,215"/>
+<area shape="rect" id="node12" href="$class_qt_button_property_browser_private.html#a85bdc5f36fe2cf967f8b074e279cac40" title="QtButtonPropertyBrowserPrivate\l::updateItem" alt="" coords="996,442,1205,483"/>
+<area shape="rect" id="node13" href="$class_qt_button_property_browser_private.html#a08b5d1f65f2b027b6628d1b53095f8ff" title="QtButtonPropertyBrowserPrivate\l::createEditor" alt="" coords="481,349,691,390"/>
+<area shape="rect" id="node16" href="$class_qt_button_property_browser_private.html#a312908934b770954e9031041a3593802" title="QtButtonPropertyBrowserPrivate\l::slotEditorDestroyed" alt="" coords="739,421,948,462"/>
+<area shape="rect" id="node18" href="$class_qt_browser_item.html#a2c4edfa9e76dfaefc5866f2e3e9d48f4" title="Returns the property which is accosiated with this item. " alt="" coords="505,588,667,615"/>
+<area shape="rect" id="node19" href="$class_qt_property.html#a80fd0816efcaaa8698ea7dbed95a230d" title="Returns whether the property has a value. " alt="" coords="513,639,659,665"/>
+<area shape="rect" id="node9" href="$class_qt_button_property_browser_private.html#ae8a6931eabe7acd0d1367354faa6f084" title="QtButtonPropertyBrowserPrivate\l::setExpanded" alt="" coords="996,225,1205,266"/>
+<area shape="rect" id="node11" href="$class_qt_button_property_browser_private.html#ae1c8f044afe3c7295bb9de1829c1b503" title="QtButtonPropertyBrowserPrivate\l::removeRow" alt="" coords="1253,239,1463,281"/>
+<area shape="rect" id="node14" href="$class_qt_abstract_property_browser.html#ae138c214f5f5638c6750e357cd83c5c7" title="Creates an editing widget (with the given parent) for the given property according to the previously ..." alt="" coords="753,290,934,331"/>
+<area shape="rect" id="node17" href="$class_qt_button_property_browser_private.html#ad516eecf37df2b8a229fe5e37f50c5f0" title="QtButtonPropertyBrowserPrivate\l::slotUpdate" alt="" coords="739,355,948,397"/>
+<area shape="rect" id="node15" href="$class_qt_abstract_editor_factory_base.html#aecea70732c941a1d992a61179389e9a2" title="Creates an editing widget (with the given parent) for the given property. " alt="" coords="1004,290,1197,331"/>
+</map>

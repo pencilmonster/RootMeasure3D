@@ -1,0 +1,51 @@
+<map id="RootSkeletionBuilder::SlotupdateReslicer" name="RootSkeletionBuilder::SlotupdateReslicer">
+<area shape="rect" id="node2" href="$class_reslicer.html#a8d92947814fc8f3ebbc93e2ea78e86b7" title="Reslicer::push" alt="" coords="723,1286,829,1313"/>
+<area shape="rect" id="node4" href="$class_root_skeletion_builder.html#aec0d9a4256751459583044ccc6eb3199" title="RootSkeletionBuilder::updateProgress 更新进度条 " alt="" coords="954,782,1097,823"/>
+<area shape="rect" id="node5" href="$class_reslicer.html#a422e9990d9cb144e7d397430fe4f6401" title="Reslicer::getPlaneCenter" alt="" coords="196,1309,363,1336"/>
+<area shape="rect" id="node6" href="$class_root_skeletion_builder.html#ac63e47edea9452caadc6a9f06808f4f6" title="槽函数 停止重切器重切 " alt="" coords="208,1848,351,1890"/>
+<area shape="rect" id="node10" href="$class_root_skeletion_builder.html#a476b6b80519fb9b750e6855fd3c522d8" title="RootSkeletionBuilder::SlotskeletionGroup 骨架分组响应函数(算法核心流程) 主要完成以下步骤: ..." alt="" coords="208,1444,351,1486"/>
+<area shape="rect" id="node3" href="$class_image_plane_widget.html#a54c436d2b1751c86fe7013e553559a64" title="ImagePlaneWidget::Push" alt="" coords="941,1286,1110,1313"/>
+<area shape="rect" id="node7" href="$class_root_skeletion_builder.html#af5bfb39046c5ac152e32a508f4b60078" title="RootSkeletionBuilder::recoverReslicerStatus 恢复自动重切之前的重切器状态 " alt="" coords="698,2108,854,2150"/>
+<area shape="rect" id="node8" href="$class_reslicer.html#ab2196ad834fbf9140db569a540f79e5f" title="Reslicer::connectvtkEvent\lQtslot" alt="" coords="940,2108,1111,2150"/>
+<area shape="rect" id="node9" href="$class_reslicer.html#aa422c8441216fb3b79a37ea6471a97b5" title="Reslicer::setEnable" alt="" coords="958,1977,1093,2004"/>
+<area shape="rect" id="node11" href="$class_root_skeletion_builder.html#a01120d5aa5f47c79ef7359aad59d10f3" title="RootSkeletionBuilder::skeletonGroups 骨架分组 " alt="" coords="449,548,592,590"/>
+<area shape="rect" id="node14" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="1177,1988,1411,2014"/>
+<area shape="rect" id="node23" href="$namespacemyprint.html#af93aa4d5e36fb4ab6b1cfc83b6bd0c9d" title="数据处理结果信息打印 " alt="" coords="715,901,837,928"/>
+<area shape="rect" id="node31" href="$class_root_skeletion_builder.html#a29856bf48f078f1c96337e449ca251ca" title="细小根分支处理 细小根分支：只有一个结点的分支(或由用户自定义) 判定移除规则：移除所有长短轴比小于给定�..." alt="" coords="449,1138,592,1179"/>
+<area shape="rect" id="node37" href="$class_root_system.html#ad79c541ddc5d732434a94b3dc1221d97" title="移除离散的根结点 " alt="" coords="425,1539,616,1580"/>
+<area shape="rect" id="node38" href="$class_root_skeletion_builder.html#a9d7ec06fba39fa9fb824f791653fa546" title="自由重切 获取所有结点分布较为稀疏的根分支 然后启动分支重切 问题分支确定：分支点平均间隔大于切片最大移..." alt="" coords="449,1766,592,1807"/>
+<area shape="rect" id="node42" href="$class_root_skeletion_builder.html#a172e833b6c86e22de6eb088332b3bb3d" title="更新分支首结点 使用补充重切方法来补充分支首部结点 " alt="" coords="431,1474,610,1515"/>
+<area shape="rect" id="node43" href="$class_reslicer.html#a3b68e9d9e4ab1d6de706513d66ed8cab" title="Reslicer::setPlaneOrientation" alt="" coords="681,1590,871,1617"/>
+<area shape="rect" id="node44" href="$class_root_skeletion_builder.html#af10e731ad44018e635569208b28c6e7a" title="RootSkeletionBuilder::curveFitting 使用SplineBulider完成曲线拟合 " alt="" coords="705,1642,847,1683"/>
+<area shape="rect" id="node45" href="$class_root_skeletion_builder.html#a0a5926b05c11be267ad1a3f5e43d7247" title="更新根分支 包括以下几方面内容： 1 重新确立分支父节点 2 分支首尾两端补充结点 3 分支结点下采样 ..." alt="" coords="449,1870,592,1911"/>
+<area shape="rect" id="node46" href="$class_root_skeletion_builder.html#abfc840d56a86fc6744ea95dca46e8fea" title="RootSkeletionBuilder::updateNodes 更新结点属性值 包括如下属性： 1、更新结点状态 2、更新法向量 3、补充..." alt="" coords="449,2011,592,2052"/>
+<area shape="rect" id="node47" href="$class_skeleton_writer.html#adf35b39b8d348604cfa361fcd1b4a49f" title="SkeletonWriter::saveSkeletonData 保存骨架点模型 " alt="" coords="411,1372,631,1398"/>
+<area shape="rect" id="node48" href="$namespacemyprint.html#adc32278a7a49274959e5dedf767e9a22" title="错误信息打印 " alt="" coords="713,1337,839,1364"/>
+<area shape="rect" id="node49" href="$class_root_skeletion_builder.html#a4828de2d5f381e4c0ab1b41dbcad5dd0" title="RootSkeletionBuilder::closeProgressDialog 关闭进度对话框 " alt="" coords="446,1255,595,1296"/>
+<area shape="rect" id="node50" href="$class_root_system.html#a86062e02b01ded04865a3785e27418ef" title="RootSystem::getNumberOfNodes" alt="" coords="413,1321,628,1348"/>
+<area shape="rect" id="node12" href="$class_root_system.html#ab221fb617d37c72dfaf897188d947cd5" title="RootSystem::isNodesEmpty" alt="" coords="683,530,869,557"/>
+<area shape="rect" id="node13" href="$class_root_skeletion_builder.html#a3bb4def6aa5127e92321295dedfa5ce2" title="RootSkeletionBuilder::computeProgress 计算总体进度同时重置进度对话框 " alt="" coords="954,1795,1097,1836"/>
+<area shape="rect" id="node15" href="$class_root_skeletion_builder.html#a5a0213773d5690a7d00c7bef53c3f26b" title="RootSkeletionBuilder::createRootBranch 创建根分支 " alt="" coords="705,232,847,274"/>
+<area shape="rect" id="node16" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="946,160,1105,186"/>
+<area shape="rect" id="node17" href="$class_root_system.html#a4670245750e0906bb93b75ecc7543d03" title="添加结点Id到根分支 " alt="" coords="921,225,1129,252"/>
+<area shape="rect" id="node18" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="1219,225,1369,252"/>
+<area shape="rect" id="node19" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="1215,400,1373,426"/>
+<area shape="rect" id="node20" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="967,480,1084,506"/>
+<area shape="rect" id="node21" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="1213,836,1375,862"/>
+<area shape="rect" id="node22" href="$class_root_skeletion_builder.html#aa2123b1e7bea2b09b1805d60f282da51" title="RootSkeletionBuilder::isConnected 根结点连通性验证 方法：选取node2根结点质心点以及长轴上的四个点。 no..." alt="" coords="705,64,847,106"/>
+<area shape="rect" id="node24" href="$class_root_node.html#ae5150e669aca5a21845af8646d07ac49" title="计算当前根结点到指定根结点之间的面积变化率. " alt="" coords="685,1053,867,1080"/>
+<area shape="rect" id="node25" href="$class_root_node.html#a5f36301af8219f017a207958eb89ae6b" title="计算当前根结点到指定根结点之间的距离. " alt="" coords="935,1186,1115,1213"/>
+<area shape="rect" id="node26" href="$class_root_system.html#a7a53f1fa0cea1f2b823c7e8b91055d69" title="获得当前根分支的根结点个数 " alt="" coords="679,1155,873,1196"/>
+<area shape="rect" id="node27" href="$class_root_skeletion_builder.html#afd94bf0f8b7f565f76b30de54e0eaa45" title="RootSkeletionBuilder::angleDetection 分支偏转角检测， 只有大于给定阈值才表示一个新分支 ..." alt="" coords="705,363,847,404"/>
+<area shape="rect" id="node28" href="$class_root_system.html#a5b94ff96d8d101c4541a831f360f532c" title="获取该结点所在根分支的前一个结点 如果该结点为根分支的首结点 则返回分支父结点 如果分支不存在父结点 则�..." alt="" coords="937,400,1114,426"/>
+<area shape="rect" id="node29" href="$class_root_skeletion_builder.html#a62c5e2a49e40d66d4fb34fe056f602df" title="RootSkeletionBuilder::updateRootSlice 更新根切片中的根结点 只保留还未分组的结点 " alt="" coords="705,298,847,339"/>
+<area shape="rect" id="node30" href="$class_root_skeletion_builder.html#aefe58648ab042b5f58639748cbf9f2ec" title="RootSkeletionBuilder::nodesSorting 离散结点整理 主要针对分组算法没有解决的散点(逆生长结点) ..." alt="" coords="705,734,847,775"/>
+<area shape="rect" id="node32" href="$class_root_system.html#ae4daf2e7512cd226f96a7aa9533c22d3" title="返回所有的根分支Id " alt="" coords="687,1489,865,1516"/>
+<area shape="rect" id="node33" href="$class_root_system.html#ab132893d2dfd4e3827dfaabbe0a0ea76" title="返回给定分支的第一个根结点 " alt="" coords="688,1220,864,1262"/>
+<area shape="rect" id="node34" href="$class_root_node.html#af17f5955718e1b1dcc4865fb44cf3bf6" title="RootNode::getLongAxis" alt="" coords="697,1002,855,1029"/>
+<area shape="rect" id="node35" href="$class_root_node.html#a75bb1d1c625b79f17c5f59241892df38" title="RootNode::getShortAxis" alt="" coords="695,1104,857,1130"/>
+<area shape="rect" id="node36" href="$class_root_system.html#aa04c3bdba59f299311e28e762b085a3e" title="移除根分支，具体移除如下三项内容： &#160;" alt="" coords="684,952,868,978"/>
+<area shape="rect" id="node39" href="$class_root_system.html#aedad88187d8210a38b8ddea14f344f8c" title="计算指定根分支的结点平均间隔 " alt="" coords="685,1824,867,1866"/>
+<area shape="rect" id="node40" href="$class_root_skeletion_builder.html#ac473f86ae82e9b6efe846ae2ad2da32d" title="设置重切方法 &#160;" alt="" coords="705,1707,847,1748"/>
+<area shape="rect" id="node41" href="$class_root_skeletion_builder.html#a181c8abc9c20fc82f74ce0aa3bf3c572" title="RootSkeletionBuilder::saveReslicerStatus 记录在自动重切开始之前，重切器的一些状态信息 ..." alt="" coords="705,1890,847,1931"/>
+</map>

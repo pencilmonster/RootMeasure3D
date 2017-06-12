@@ -1,0 +1,7 @@
+<map id="HistDialog::ShowPlotCurve" name="HistDialog::ShowPlotCurve">
+<area shape="rect" id="node2" href="$class_hist_dialog.html#a8fbc8a2187002e496485cc2f20a1e2d8" title="HistDialog::Update" alt="" coords="229,5,360,32"/>
+<area shape="rect" id="node3" href="$class_hist_dialog.html#a6ddfb537c1d16f83bb54fa76d2b7d080" title="HistDialog::setInput" alt="" coords="408,5,543,32"/>
+<area shape="rect" id="node4" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="591,5,768,32"/>
+<area shape="rect" id="node5" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="816,5,1007,32"/>
+<area shape="rect" id="node6" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="1055,5,1211,32"/>
+</map>

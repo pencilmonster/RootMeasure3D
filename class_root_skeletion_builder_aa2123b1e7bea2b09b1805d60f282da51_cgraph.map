@@ -1,0 +1,5 @@
+<map id="RootSkeletionBuilder::isConnected" name="RootSkeletionBuilder::isConnected">
+<area shape="rect" id="node2" href="$class_root_node.html#addb6962357f2b4fdaac807043ed8fedc" title="获取根结点的主轴端点坐标 " alt="" coords="196,5,381,47"/>
+<area shape="rect" id="node3" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="212,71,365,98"/>
+<area shape="rect" id="node4" href="$class_math_tool.html#a7585aaee0b857018c74515984685e5fb" title="MathTool::isConnectivity" alt="" coords="207,122,370,149"/>
+</map>

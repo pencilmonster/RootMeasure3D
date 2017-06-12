@@ -1,0 +1,5 @@
+<map id="SegThreadController::startSegmentation" name="SegThreadController::startSegmentation">
+<area shape="rect" id="node2" href="$class_seg_thread_controller.html#aaf3718a5293d188556ce0af3332e089d" title="SegThreadController\l::queuedConnect" alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node4" href="$class_seg_thread_controller.html#a012846eab0e437d9a58c43f2f2c4348e" title="SegThreadController\l::SlotstartThread" alt="" coords="192,71,331,112"/>
+<area shape="rect" id="node3" href="$class_seg_thread_controller.html#ad9177cfe4dbfc27f24dafbcc8df6bbae" title="SegThreadController\l::SegThreadController" alt="" coords="379,5,525,47"/>
+</map>

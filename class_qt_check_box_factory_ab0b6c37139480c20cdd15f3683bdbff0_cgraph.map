@@ -1,0 +1,10 @@
+<map id="QtCheckBoxFactory::createEditor" name="QtCheckBoxFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a3d2c242fdc7182d8c37b0bad1544fe8b" title="EditorFactoryPrivate\l::createEditor" alt="" coords="219,5,358,47"/>
+<area shape="rect" id="node3" href="$class_qt_bool_edit.html#aa288fa942f18b768f0d564b14dc08e73" title="QtBoolEdit::setChecked" alt="" coords="207,71,370,98"/>
+<area shape="rect" id="node5" href="$class_qt_bool_property_manager.html#a82860dfedfbdb3de44a1efee3fb940c8" title="Returns the given property&#39;s value. " alt="" coords="208,123,369,164"/>
+<area shape="rect" id="node6" href="$class_qt_bool_edit.html#a53d506f35c0544e054867b8de07cbf91" title="QtBoolEdit::setTextVisible" alt="" coords="201,189,376,215"/>
+<area shape="rect" id="node8" href="$class_qt_bool_property_manager.html#a9da7cf7a9cb864d715764ed67b69401a" title="QtBoolPropertyManager\l::textVisible" alt="" coords="208,240,369,281"/>
+<area shape="rect" id="node9" href="$class_qt_check_box_factory.html#a6e5a3313bbbabfdb4628ca590f340fd7" title="QtCheckBoxFactory::\lslotSetValue" alt="" coords="215,305,363,347"/>
+<area shape="rect" id="node4" href="$class_qt_bool_edit.html#a83e158c3a51f485d372dda99fec77e69" title="QtBoolEdit::isChecked" alt="" coords="424,105,579,131"/>
+<area shape="rect" id="node7" href="$class_qt_bool_edit.html#a15d2265e09f579a25ab3f02289f99e3e" title="QtBoolEdit::textVisible" alt="" coords="424,189,579,215"/>
+</map>

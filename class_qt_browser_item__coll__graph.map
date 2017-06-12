@@ -1,0 +1,9 @@
+<map id="QtBrowserItem" name="QtBrowserItem">
+<area shape="rect" id="node2" href="$class_qt_browser_item_private.html" title="QtBrowserItemPrivate" alt="" coords="281,310,427,337"/>
+<area shape="rect" id="node5" href="$class_qt_abstract_property_browser_private.html" title="QtAbstractPropertyBrowser\lPrivate" alt="" coords="103,95,285,136"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser.html" title="QtAbstractPropertyBrowser provides a base class for implementing property browsers. " alt="" coords="87,213,269,240"/>
+<area shape="rect" id="node6" href="$class_qt_property.html" title="The QtProperty class encapsulates an instance of a property. " alt="" coords="487,213,573,240"/>
+<area shape="rect" id="node7" href="$class_qt_property_private.html" title="QtPropertyPrivate" alt="" coords="532,310,656,337"/>
+<area shape="rect" id="node8" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="670,213,854,240"/>
+<area shape="rect" id="node10" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="707,303,891,344"/>
+</map>

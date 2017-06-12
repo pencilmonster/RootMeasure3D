@@ -1,0 +1,13 @@
+<map id="QtAbstractPropertyBrowser::insertProperty" name="QtAbstractPropertyBrowser::insertProperty">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#a06c72eac8e19c78db1ea559d8df74868" title="Appends the given property (and its subproperties) to the property browser&#39;s list of top level proper..." alt="" coords="235,235,416,276"/>
+<area shape="rect" id="node3" href="$class_property_view.html#aa40b5594948eaed4ae709c86b722ce82" title="PropertyView::addGroup 增加组分项 Group==&gt;propertyView. " alt="" coords="464,242,627,269"/>
+<area shape="rect" id="node4" href="$class_property_view.html#a3bf411cae2eff28c8bc026b5460eda79" title="PropertyView::createImageInfoProperty 创建二维图像组分 具体属性内容如下: . " alt="" coords="685,5,864,47"/>
+<area shape="rect" id="node6" href="$class_property_view.html#afc971bfc13e796a0d0d58c9827ea3b12" title="PropertyView::createGraph3DInfoProperty 创建三维图形分组 具体属性内容如下 . " alt="" coords="682,71,867,112"/>
+<area shape="rect" id="node7" href="$class_property_view.html#a709a3c79ed85620d70616a563195a705" title="PropertyView::createRegionInfoProperty 创建连通区域分析信息组分 具体属性内容如下: ..." alt="" coords="683,136,866,177"/>
+<area shape="rect" id="node8" href="$class_property_view.html#aca0b947582e36766ee7ef0dab2685ca0" title="PropertyView::createReslicerInfoProperty 创建重切器组分 具体属性内容如下: . " alt="" coords="679,201,870,243"/>
+<area shape="rect" id="node9" href="$class_property_view.html#a4e62da95f1fcc0d18f9efbb9d8cac437" title="PropertyView::createRulerInfoProperty 创建刻度尺属性项 具体内容如下： . " alt="" coords="688,267,861,308"/>
+<area shape="rect" id="node10" href="$class_property_view.html#aed40194e09ce5d6759aeeed69254586f" title="PropertyView::createProtractorInfoProperty 创建量角器属性项 具体内容如下： . " alt="" coords="675,332,875,373"/>
+<area shape="rect" id="node11" href="$class_property_view.html#acc0d33391dfb54b41b1913be585b2ddf" title="PropertyView::createBranchInfoProperty 创建根分支属性项 具体内容如下： . " alt="" coords="683,397,867,439"/>
+<area shape="rect" id="node12" href="$class_property_view.html#a42960d6fde6041b778ed309ca2b463fc" title="PropertyView::createRootInfoProperty 创建根分支属性项 具体内容如下： . " alt="" coords="689,463,860,504"/>
+<area shape="rect" id="node5" href="$class_property_view.html#ac560eb7ba577449aff818072508370df" title="PropertyView::PropertyView" alt="" coords="923,242,1107,269"/>
+</map>

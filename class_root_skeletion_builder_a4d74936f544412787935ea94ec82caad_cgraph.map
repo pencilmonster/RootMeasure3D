@@ -1,0 +1,4 @@
+<map id="RootSkeletionBuilder::showProgressDialog" name="RootSkeletionBuilder::showProgressDialog">
+<area shape="rect" id="node2" href="$class_root_skeletion_builder.html#a0c5aa39a835875457a362520b82e1706" title="RootSkeletionBuilder::SlotcancelSkeletonBuild 取消骨架提取 响应进度对话框中的取消按钮 ..." alt="" coords="201,5,372,47"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a4828de2d5f381e4c0ab1b41dbcad5dd0" title="RootSkeletionBuilder::closeProgressDialog 关闭进度对话框 " alt="" coords="420,5,569,47"/>
+</map>

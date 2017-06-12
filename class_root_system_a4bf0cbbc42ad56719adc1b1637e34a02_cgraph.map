@@ -1,0 +1,7 @@
+<map id="RootSystem::getFirstNodeOfBranch" name="RootSystem::getFirstNodeOfBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="233,5,408,32"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#af58b9fb781b32933f09572dbdb78c2aa" title="获取分支第一个根结点ID " alt="" coords="229,56,412,83"/>
+<area shape="rect" id="node5" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="245,107,396,133"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="460,5,652,32"/>
+<area shape="rect" id="node6" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="465,107,647,133"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="RootSkeletionBuilder::setReslicer" name="RootSkeletionBuilder::setReslicer">
+<area shape="rect" id="node2" href="$class_reslicer.html#a539d1471ea28de519949ad88ef99d80c" title="Reslicer::getVloumeData 获取原始序列图像形成的体数据 " alt="" coords="196,389,363,416"/>
+<area shape="rect" id="node3" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="208,441,351,482"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#a8a5b4f4748f4e0c413cfd7ca124bd0fb" title="Reslicer::GetResliceOutput" alt="" coords="432,5,612,32"/>
+<area shape="rect" id="node5" href="$class_concave_point_seg.html#a48e0811f450a9f789d3d7c3b2a545117" title="ConcavePointSeg::setSmooth\lEnable" alt="" coords="425,57,619,98"/>
+<area shape="rect" id="node6" href="$class_concave_point_seg.html#aa2f39b9043aea3ec0b81b2a698e54002" title="ConcavePointSeg::setSmoothType" alt="" coords="411,123,633,149"/>
+<area shape="rect" id="node7" href="$class_concave_point_seg.html#a0c2ea746b945feb0dda3ad6f1b00aa3f" title="ConcavePointSeg::setSmooth\lThres" alt="" coords="425,174,619,215"/>
+<area shape="rect" id="node8" href="$class_concave_point_seg.html#a5524b712677a08a298bd54b0ed970a8b" title="ConcavePointSeg::setSmooth\lKsize" alt="" coords="425,239,619,281"/>
+<area shape="rect" id="node9" href="$class_concave_point_seg.html#add8bbfac08d962150212d480682809bd" title="ConcavePointSeg::setSegEnable" alt="" coords="415,305,629,332"/>
+<area shape="rect" id="node10" href="$class_concave_point_seg.html#a44bb1aa98957ce137f79a2b403b6caf8" title="ConcavePointSeg::setSegShape\lFactor" alt="" coords="417,357,627,398"/>
+<area shape="rect" id="node11" href="$class_concave_point_seg.html#a83d9139d1b135aad4f1ff5a2797f3a80" title="ConcavePointSeg::setSegMinArea" alt="" coords="411,423,633,449"/>
+<area shape="rect" id="node12" href="$class_concave_point_seg.html#a232d12f9b5bafcc1e496931fbf480722" title="ConcavePointSeg::setInputData" alt="" coords="419,473,625,500"/>
+<area shape="rect" id="node14" href="$class_concave_point_seg.html#a935bb8d8d027e03dd5bf598f157336c9" title="ConcavePointSeg::upDate 更新 对获取的图像数据进行凹点匹配分割 " alt="" coords="435,524,609,551"/>
+<area shape="rect" id="node20" href="$class_concave_point_seg.html#a5bcf4256a7b262d836d6325acb88b2d5" title="ConcavePointSeg::getOutPut" alt="" coords="427,575,617,601"/>
+<area shape="rect" id="node21" href="$class_root_skeletion_builder.html#a6ed9fcab586ebedab2fbe9dcd41b7ab1" title="创建根结点 并设置其属性值 " alt="" coords="451,1087,593,1129"/>
+<area shape="rect" id="node43" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="415,1436,629,1463"/>
+<area shape="rect" id="node48" href="$class_fringe_area_remover.html#ab5bdc2912aca252f52a4403cf1353aab" title="FringeAreaRemover::\lsetInputData" alt="" coords="451,1487,593,1529"/>
+<area shape="rect" id="node49" href="$class_fringe_area_remover.html#abd6ddfb54d4f01310a1204c19a325636" title="更新 执行算法 " alt="" coords="451,1553,593,1594"/>
+<area shape="rect" id="node50" href="$class_fringe_area_remover.html#a4685cbd91c4ea935c8e0fd88fecdaced" title="FringeAreaRemover::\lgetOutPut" alt="" coords="451,1618,593,1659"/>
+<area shape="rect" id="node13" href="$class_concave_point_seg.html#af6a0c940023cf57680e816c530a256b9" title="ConcavePointSeg::vtkImage2Mat vtkImageData转换为为Mat. " alt="" coords="685,219,897,245"/>
+<area shape="rect" id="node15" href="$class_concave_point_seg.html#a05e73cd4ba64ea04b96dc0696b71ff10" title="ConcavePointSeg::ROIProcessing 感兴趣区域处理 " alt="" coords="682,269,901,296"/>
+<area shape="rect" id="node16" href="$class_concave_point_seg.html#a90ac085f840fe09a3183897c715e499c" title="ConcavePointSeg::shapeFactorDetection 形状因子检测 " alt="" coords="689,321,893,362"/>
+<area shape="rect" id="node17" href="$class_concave_point_seg.html#a8d117aba2282e1261185f7b66fa70773" title="ConcavePointSeg::getLongAxisVector 获取当前轮廓的长轴向量 " alt="" coords="702,386,881,427"/>
+<area shape="rect" id="node18" href="$class_concave_point_seg.html#aa2292ced59f4ad91ae707e8c8e9ef1d0" title="ConcavePointSeg::searchConcaveRegion 寻找凹区域 " alt="" coords="681,451,901,493"/>
+<area shape="rect" id="node19" href="$class_concave_point_seg.html#ad1b2c67adcea761bd7768ccf4b4b8a62" title="ConcavePointSeg::searchConcavePoint. " alt="" coords="681,517,901,558"/>
+<area shape="rect" id="node22" href="$class_root_skeletion_builder.html#a3dca63d1fcb24f44877012656fd37ad3" title="RootSkeletionBuilder::rootNodeFilter 结点筛选器 判别提取的区域信息是否满足根结点要求 ..." alt="" coords="720,582,863,623"/>
+<area shape="rect" id="node23" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="715,648,868,675"/>
+<area shape="rect" id="node24" href="$class_root_skeletion_builder.html#ae41c4bace5aa24d73c850585bc6a3f8f" title="RootSkeletionBuilder::pixel2Voxel 像素转化为体素 " alt="" coords="720,699,863,741"/>
+<area shape="rect" id="node25" href="$class_root_node.html#a481435cab57ed57cbfce47779c57d56a" title="RootNode::setNormal" alt="" coords="718,765,865,792"/>
+<area shape="rect" id="node26" href="$class_reslicer.html#ad400f5eb77812214cf74941f5a4a9812" title="Reslicer::getPlaneNormal" alt="" coords="707,816,876,843"/>
+<area shape="rect" id="node27" href="$class_root_node.html#ae6061118dac877a5dd308b76a3d619c5" title="RootNode::setPixelsNum" alt="" coords="707,867,875,893"/>
+<area shape="rect" id="node28" href="$class_root_node.html#a03ef372ccbcdc6fa693be94dc7604434" title="RootNode::setPhysicalSize" alt="" coords="701,917,882,944"/>
+<area shape="rect" id="node29" href="$class_root_node.html#a23722150c3d93727d5e6625063bd42af" title="RootNode::setPerimeter" alt="" coords="711,968,872,995"/>
+<area shape="rect" id="node30" href="$class_root_node.html#aed3fc18b3510a3581c356a5f4ba56605" title="RootNode::setRadius" alt="" coords="719,1019,864,1045"/>
+<area shape="rect" id="node31" href="$class_root_node.html#a15dc347ec7f275e7e3827d7949f87124" title="RootNode::setRoundness" alt="" coords="706,1069,877,1096"/>
+<area shape="rect" id="node32" href="$class_root_node.html#ac579a1eb01b204d2b4ffe5a42f51c1df" title="RootNode::setShortAxis" alt="" coords="710,1120,873,1147"/>
+<area shape="rect" id="node33" href="$class_root_node.html#a223df93f69cc33377284e52f9c671960" title="RootNode::setLongAxis" alt="" coords="712,1171,871,1197"/>
+<area shape="rect" id="node34" href="$class_root_node.html#a6702b321bade05b2dd58fcf6f749847f" title="RootNode::setPrincipalAxesPoints. " alt="" coords="699,1222,884,1263"/>
+<area shape="rect" id="node35" href="$class_root_node.html#a76b5f99a477b92b0fed04ecadac0ab86" title="RootNode::printself 打印根结点信息 " alt="" coords="725,1288,857,1315"/>
+<area shape="rect" id="node36" href="$class_root_system.html#a588809016c1acaacbb2cf2aaaf550e97" title="RootSystem::addNode 添加根节点到根系统中 如果该根结点已经具有归属的分支 则进一步把节点ID加入到分支 ..." alt="" coords="715,1339,868,1365"/>
+<area shape="rect" id="node37" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="949,1364,1067,1391"/>
+<area shape="rect" id="node38" href="$class_root_slice.html#a6d4224287aa5356d8198a9f986404a7b" title="RootSlice::addNodeId" alt="" coords="718,1440,865,1467"/>
+<area shape="rect" id="node39" href="$class_root_branch.html#a9d3f0f31da79838fd133c08fc5e7fc4b" title="RootBranch::getBranchID" alt="" coords="707,1491,876,1517"/>
+<area shape="rect" id="node40" href="$class_root_system.html#a4303bb5ae2a1eb3fa6a6103c2f56c40b" title="RootSystem::getLastNode" alt="" coords="704,1541,879,1568"/>
+<area shape="rect" id="node41" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="712,1592,871,1619"/>
+<area shape="rect" id="node42" href="$class_root_branch.html#a52d06751adc3bb7a8c3d77e9adccaf42" title="RootBranch::addIncludedNodeId" alt="" coords="688,1643,895,1669"/>
+<area shape="rect" id="node44" href="$class_connected_region.html#a23411820a62d68b3fa2af0e3015367fd" title="ConnectedRegion::SetInput" alt="" coords="701,1693,881,1720"/>
+<area shape="rect" id="node45" href="$class_connected_region.html#ae6d4631066636bd2e26aa313775f3858" title="ConnectedRegion::Update" alt="" coords="705,1744,878,1771"/>
+<area shape="rect" id="node46" href="$class_connected_region.html#a3f7b423d0c0a457440ecff2f134a95b9" title="ConnectedRegion::GetRegionNumber 获取连通区域个数 " alt="" coords="695,1795,888,1837"/>
+<area shape="rect" id="node47" href="$class_connected_region.html#a39360aaef77ec39eee3d6b006a03ebfe" title="ConnectedRegion::GetNumberOfPixels 获取i个连通区域像素个数 " alt="" coords="692,1861,891,1902"/>
+</map>

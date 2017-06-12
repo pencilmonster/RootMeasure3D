@@ -1,0 +1,4 @@
+<map id="PropertyView::setGroupItemExpandable" name="PropertyView::setGroupItemExpandable">
+<area shape="rect" id="node2" href="$class_qt_abstract_property_browser.html#a4c97e71811113de2813c1d9962678f91" title="Returns the top&#45;level items associated with the given property. " alt="" coords="239,5,420,47"/>
+<area shape="rect" id="node3" href="$class_qt_tree_property_browser.html#a581853e8b11c7f417df6ac334d2e5ee9" title="Sets the item to either collapse or expanded, depending on the value of expanded. ..." alt="" coords="251,71,408,112"/>
+</map>

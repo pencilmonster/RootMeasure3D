@@ -1,0 +1,8 @@
+<map id="RootSystem::getNodeClosestToPos" name="RootSystem::getNodeClosestToPos">
+<area shape="rect" id="node2" href="$class_root_system.html#acba97a402dc394cba3a2c5e4d474d2c1" title="返回所有的结点Id " alt="" coords="251,5,418,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="253,56,416,83"/>
+<area shape="rect" id="node5" href="$class_root_node.html#ae5448b0934408c5bb06e23bcdd59ace5" title="计算从根结点中心（根心点）到指定空间坐标的距离. " alt="" coords="248,111,421,137"/>
+<area shape="rect" id="node4" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="470,52,651,79"/>
+<area shape="rect" id="node6" href="$class_math_tool.html#a421603b0781ce637ff8341d0eff39a71" title="MathTool::distanceBetween\lPoints" alt="" coords="469,103,652,145"/>
+<area shape="rect" id="node7" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="484,169,637,196"/>
+</map>

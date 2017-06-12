@@ -1,0 +1,7 @@
+<map id="QtAbstractPropertyBrowserPrivate::removeBrowserIndex" name="QtAbstractPropertyBrowserPrivate::removeBrowserIndex">
+<area shape="rect" id="node2" href="$class_qt_browser_item.html#ac48e519bf9dfd8d65d51f0dcbfa98e86" title="Returns the children items of this item. " alt="" coords="251,5,413,32"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser.html#ad605abd88d30b906e85e920d64727a9e" title="This function is called to update the widget whenever a property is removed from the property browser..." alt="" coords="241,57,423,98"/>
+<area shape="rect" id="node4" href="$class_qt_browser_item.html#afed8197ad887301642017d7b61c185b7" title="Returns the parent item of this item. " alt="" coords="256,123,408,149"/>
+<area shape="rect" id="node5" href="$class_qt_browser_item_private.html#aa29eb5e92be494c8b98a2c4d1cf3b6ad" title="QtBrowserItemPrivate\l::removeChild" alt="" coords="259,174,405,215"/>
+<area shape="rect" id="node6" href="$class_qt_browser_item.html#a2c4edfa9e76dfaefc5866f2e3e9d48f4" title="Returns the property which is accosiated with this item. " alt="" coords="251,240,413,267"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="QtDoubleSpinBoxFactory::slotReadOnlyChanged" name="QtDoubleSpinBoxFactory::slotReadOnlyChanged">
+<area shape="rect" id="node2" href="$class_qt_double_spin_box_factory.html#a4fc70c2e15de95c4a80836a1a1a7b5f8" title="Connects this factory to the given manager&#39;s signals. " alt="" coords="231,5,406,47"/>
+<area shape="rect" id="node3" href="$class_qt_double_spin_box_factory.html#a9d8a659388bcf7c81e4d2d31a9f458d7" title="Disconnects this factory from the given manager&#39;s signals. " alt="" coords="223,71,415,112"/>
+</map>

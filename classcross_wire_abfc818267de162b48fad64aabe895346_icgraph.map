@@ -1,0 +1,9 @@
+<map id="crossWire::VisibilityOn" name="crossWire::VisibilityOn">
+<area shape="rect" id="node2" href="$classcross_wire.html#a02895d295887b36459dce969a0753395" title="crossWire::setPosition 设置十字线交叉点的位置 " alt="" coords="208,23,363,49"/>
+<area shape="rect" id="node3" href="$class_image_view.html#ac57cf657e2bc1b594f9933c2f8b1e2c0" title="ImageView::SlotPickUpCoords 图像坐标拾取 " alt="" coords="411,23,609,49"/>
+<area shape="rect" id="node4" href="$class_image_view.html#a40fd31755a86eeb017294147e4de2c8d" title="ImageView::SetConnectState 设置交互连接状态。 " alt="" coords="657,23,849,49"/>
+<area shape="rect" id="node5" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="1128,23,1319,49"/>
+<area shape="rect" id="node7" href="$class_image_view.html#a9df09f600cd254f533fb88445e3cce4a" title="ImageView::SlotShowImag() 显示图像 " alt="" coords="897,23,1080,49"/>
+<area shape="rect" id="node8" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="900,73,1077,100"/>
+<area shape="rect" id="node6" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="1367,23,1523,49"/>
+</map>

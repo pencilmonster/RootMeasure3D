@@ -1,0 +1,11 @@
+<map id="F:/Qt/HSCDetection/ImageReader/SeriesReader/vtkimageseriesreader.h" name="F:/Qt/HSCDetection/ImageReader/SeriesReader/vtkimageseriesreader.h">
+<area shape="rect" id="node2" href="$hrawseriesreader_8h.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/HRAWSeriesReader/hrawseriesreader.h" alt="" coords="155,109,412,165"/>
+<area shape="rect" id="node5" href="$jpgseriesreader_8h.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/JPGSeriesReader/jpgseriesreader.h" alt="" coords="437,109,669,165"/>
+<area shape="rect" id="node7" href="$pngseriesreader_8h.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/PNGSeriesReader/pngseriesreader.h" alt="" coords="693,109,932,165"/>
+<area shape="rect" id="node9" href="$tifseriesreader_8h.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/TIFFSeriesReader/tifseriesreader.h" alt="" coords="957,109,1183,165"/>
+<area shape="rect" id="node3" href="$hrawseriesreader_8cpp.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/HRAWSeriesReader/hrawseriesreader.cpp" alt="" coords="5,213,276,269"/>
+<area shape="rect" id="node4" href="$vtkreconstruct_8cpp.html" title="F:/Qt/HSCDetection\l/Reconstruct3D/vtkreconstruct.cpp" alt="" coords="571,221,793,262"/>
+<area shape="rect" id="node6" href="$jpgseriesreader_8cpp.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/JPGSeriesReader/jpgseriesreader.cpp" alt="" coords="300,213,547,269"/>
+<area shape="rect" id="node8" href="$pngseriesreader_8cpp.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/PNGSeriesReader/pngseriesreader.cpp" alt="" coords="818,213,1071,269"/>
+<area shape="rect" id="node10" href="$tifseriesreader_8cpp.html" title="F:/Qt/HSCDetection\l/ImageReader/SeriesReader\l/TIFFSeriesReader/tifseriesreader.cpp" alt="" coords="1095,213,1335,269"/>
+</map>

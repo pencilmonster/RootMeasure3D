@@ -1,0 +1,7 @@
+<map id="RootSkeletionBuilder" name="RootSkeletionBuilder">
+<area shape="rect" id="node3" href="$class_root_branch.html" title="The RootBranch class 根分支 系统核心数据结构 用来记录分支间的拓扑关系以及所属的节点Id. " alt="" coords="101,81,191,108"/>
+<area shape="rect" id="node4" href="$class_root_system.html" title="The RootSystem class 根系统 软件的核心数据结构用来用来保存根矢量模型信息 " alt="" coords="239,172,333,199"/>
+<area shape="rect" id="node5" href="$class_root_node.html" title="The RootNode class 根结点 系统的核心数据结构，记录结点位置、法向量等信息 " alt="" coords="260,81,339,108"/>
+<area shape="rect" id="node6" href="$class_reslicer.html" title="三维体数据重切器. " alt="" coords="374,172,443,199"/>
+<area shape="rect" id="node8" href="$class_image_plane_widget.html" title="ImagePlaneWidget" alt="" coords="469,81,599,108"/>
+</map>

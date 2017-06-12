@@ -1,0 +1,8 @@
+<map id="SegDialog::accept" name="SegDialog::accept">
+<area shape="rect" id="node2" href="$class_seg_dialog.html#a56bc0b40fa4f3c276dce98a82f55fdc9" title="SegDialog::getReaderParm" alt="" coords="201,5,380,32"/>
+<area shape="rect" id="node3" href="$class_seg_dialog.html#a3cdf3d6a2567922351f02e1fbbaf597f" title="SegDialog::getSmoothParm" alt="" coords="199,56,382,83"/>
+<area shape="rect" id="node4" href="$class_seg_dialog.html#af83fee7f4f267c998de1b1d3fa42ed22" title="SegDialog::getSegmentationParm" alt="" coords="181,107,400,133"/>
+<area shape="rect" id="node6" href="$class_seg_dialog.html#ac01f22b2b605e6b0ff993fdf62360825" title="SegDialog::getFillEnable" alt="" coords="209,157,373,184"/>
+<area shape="rect" id="node7" href="$class_seg_dialog.html#ae685c3e89a02d92b64e2fe76af3bb387" title="SegDialog::getWriterParm" alt="" coords="204,208,377,235"/>
+<area shape="rect" id="node5" href="$class_seg_dialog.html#aece9cb99f2973a96d418b8e718ebbbcf" title="SegDialog::getSeedValue" alt="" coords="448,107,619,133"/>
+</map>

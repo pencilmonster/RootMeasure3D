@@ -1,0 +1,13 @@
+<map id="QtAbstractPropertyManager::propertyDestroyed" name="QtAbstractPropertyManager::propertyDestroyed">
+<area shape="rect" id="node2" href="$class_qt_locale_property_manager.html#a9fd3bb2a6ab0ad820a21d14e30d199ae" title="Creates a manager with the given parent. " alt="" coords="249,5,431,47"/>
+<area shape="rect" id="node3" href="$class_qt_point_property_manager.html#aac1f0b8e98ec65f94c458f7477d0d6d1" title="Creates a manager with the given parent. " alt="" coords="253,71,427,112"/>
+<area shape="rect" id="node4" href="$class_qt_point_f_property_manager.html#a36e360f9933c09ff308f988a6764b3d1" title="Creates a manager with the given parent. " alt="" coords="249,136,431,177"/>
+<area shape="rect" id="node5" href="$class_qt_size_property_manager.html#a91e79d5d59863963fe2d1419da645520" title="Creates a manager with the given parent. " alt="" coords="255,201,425,243"/>
+<area shape="rect" id="node6" href="$class_qt_size_f_property_manager.html#ae0de7fc843ed65e15ea6ac82d6c77d69" title="Creates a manager with the given parent. " alt="" coords="251,267,429,308"/>
+<area shape="rect" id="node7" href="$class_qt_rect_property_manager.html#abd505c279c2de344f0455dadcd28a7af" title="Creates a manager with the given parent. " alt="" coords="255,332,425,373"/>
+<area shape="rect" id="node8" href="$class_qt_rect_f_property_manager.html#a89e34dff79f9415c689efa57f3546593" title="Creates a manager with the given parent. " alt="" coords="251,397,429,439"/>
+<area shape="rect" id="node9" href="$class_qt_flag_property_manager.html#a32aade733faa88a50178cf44fd120ab8" title="Creates a manager with the given parent. " alt="" coords="256,463,424,504"/>
+<area shape="rect" id="node10" href="$class_qt_size_policy_property_manager.html#aa7b72668759f698c53249a934f65085e" title="Creates a manager with the given parent. " alt="" coords="237,528,443,569"/>
+<area shape="rect" id="node11" href="$class_qt_font_property_manager.html#af9d5a06d48bbf32e07dafa4ea8cdb131" title="Creates a manager with the given parent. " alt="" coords="255,593,425,635"/>
+<area shape="rect" id="node12" href="$class_qt_color_property_manager.html#acf4f9e9a0b44c9ce7229e320bf2d04ed" title="Creates a manager with the given parent. " alt="" coords="253,659,427,700"/>
+</map>

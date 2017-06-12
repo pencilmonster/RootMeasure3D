@@ -1,0 +1,7 @@
+<map id="QtRectFPropertyManager" name="QtRectFPropertyManager">
+<area shape="rect" id="node5" href="$class_qt_rect_f_property_manager_private.html" title="QtRectFPropertyManagerPrivate" alt="" coords="50,275,259,301"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="200,81,384,108"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="200,171,384,212"/>
+<area shape="rect" id="node6" href="$class_qt_double_property_manager.html" title="The QtDoublePropertyManager provides and manages double properties. " alt="" coords="409,178,583,205"/>
+<area shape="rect" id="node7" href="$class_qt_double_property_manager_private.html" title="QtDoublePropertyManagerPrivate" alt="" coords="389,275,603,301"/>
+</map>

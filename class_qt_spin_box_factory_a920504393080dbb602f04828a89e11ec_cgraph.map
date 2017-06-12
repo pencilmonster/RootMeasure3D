@@ -1,0 +1,5 @@
+<map id="QtSpinBoxFactory::disconnectPropertyManager" name="QtSpinBoxFactory::disconnectPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_spin_box_factory.html#aa898176b04bb5be3ca94189829a0e627" title="QtSpinBoxFactory::slotRange\lChanged" alt="" coords="253,5,448,47"/>
+<area shape="rect" id="node3" href="$class_qt_spin_box_factory.html#a4740603a01e08a506c935e729e07c156" title="QtSpinBoxFactory::slotSingle\lStepChanged" alt="" coords="253,71,448,112"/>
+<area shape="rect" id="node4" href="$class_qt_spin_box_factory.html#ad9f61e84b9f5ca2b90772e46481f98bb" title="QtSpinBoxFactory::slotRead\lOnlyChanged" alt="" coords="257,136,445,177"/>
+</map>

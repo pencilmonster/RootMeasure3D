@@ -1,0 +1,13 @@
+<map id="QtAbstractEditorFactoryBase::createEditor" name="QtAbstractEditorFactoryBase::createEditor">
+<area shape="rect" id="node2" href="$class_qt_cursor_editor_factory.html#ab8a32881e55f038ea5afc3e11150d20d" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="261,5,413,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser.html#ae138c214f5f5638c6750e357cd83c5c7" title="Creates an editing widget (with the given parent) for the given property according to the previously ..." alt="" coords="247,71,428,112"/>
+<area shape="rect" id="node12" href="$class_qt_variant_editor_factory.html#a62231fcd3777237784ec2327974c163f" title="Creates an editing widget with the given parent for the specified property created by the given manag..." alt="" coords="260,136,415,177"/>
+<area shape="rect" id="node4" href="$class_qt_button_property_browser_private.html#a08b5d1f65f2b027b6628d1b53095f8ff" title="QtButtonPropertyBrowserPrivate\l::createEditor" alt="" coords="476,5,685,47"/>
+<area shape="rect" id="node7" href="$class_qt_group_box_property_browser_private.html#ac2fbd429e30f5b97b49433ad6b402cd5" title="QtGroupBoxPropertyBrowser\lPrivate::createEditor" alt="" coords="485,71,676,112"/>
+<area shape="rect" id="node10" href="$class_qt_tree_property_browser_private.html#a3d2c9f10c30feac6768374041e643dbd" title="QtTreePropertyBrowserPrivate\l::createEditor" alt="" coords="483,136,679,177"/>
+<area shape="rect" id="node5" href="$class_qt_button_property_browser_private.html#abef9aef97840d05531dd47798273f713" title="QtButtonPropertyBrowserPrivate\l::propertyInserted" alt="" coords="733,5,943,47"/>
+<area shape="rect" id="node6" href="$class_qt_button_property_browser.html#a5a48b5ba05d3294ca11055141755d64e" title="QtButtonPropertyBrowser\l::itemInserted" alt="" coords="1001,5,1171,47"/>
+<area shape="rect" id="node8" href="$class_qt_group_box_property_browser_private.html#a26d0f8291954a3bcf96b03b28ac58eee" title="QtGroupBoxPropertyBrowser\lPrivate::propertyInserted" alt="" coords="743,71,933,112"/>
+<area shape="rect" id="node9" href="$class_qt_group_box_property_browser.html#aab2d19bb4a199bfd6cd1073d90fabdb6" title="QtGroupBoxPropertyBrowser\l::itemInserted" alt="" coords="991,71,1181,112"/>
+<area shape="rect" id="node11" href="$class_qt_property_editor_delegate.html#aa5567e6671f768929130e5b7f5a0e4d6" title="QtPropertyEditorDelegate\l::createEditor" alt="" coords="753,136,923,177"/>
+</map>

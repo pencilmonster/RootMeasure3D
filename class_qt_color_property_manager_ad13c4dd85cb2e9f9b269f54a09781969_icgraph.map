@@ -1,0 +1,5 @@
+<map id="QtColorPropertyManager::valueChanged" name="QtColorPropertyManager::valueChanged">
+<area shape="rect" id="node2" href="$class_qt_color_property_manager.html#acf4f9e9a0b44c9ce7229e320bf2d04ed" title="Creates a manager with the given parent. " alt="" coords="219,5,392,47"/>
+<area shape="rect" id="node3" href="$class_qt_color_property_manager.html#ab18ff6b769efadd18ec2f56b5ec396bf" title="Sets the value of the given property to value. " alt="" coords="223,71,388,112"/>
+<area shape="rect" id="node4" href="$class_qt_color_editor_factory_private.html#a728b03f0dd8493f37ddb2618b832fd55" title="QtColorEditorFactoryPrivate\l::slotSetValue" alt="" coords="440,71,623,112"/>
+</map>

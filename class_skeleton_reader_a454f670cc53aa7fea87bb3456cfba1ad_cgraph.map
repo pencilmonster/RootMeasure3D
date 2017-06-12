@@ -1,0 +1,18 @@
+<map id="SkeletonReader::parseNodeElement" name="SkeletonReader::parseNodeElement">
+<area shape="rect" id="node2" href="$class_skeleton_reader.html#ab25bd1f51ea65da32302e233a72378f7" title="获取结点类型 " alt="" coords="255,5,439,47"/>
+<area shape="rect" id="node3" href="$class_root_node.html#ab2d831a302d99a7c47270386085e409c" title="RootNode::setNodeType" alt="" coords="265,71,428,98"/>
+<area shape="rect" id="node4" href="$class_skeleton_reader.html#a6cdbd3253cbfffdba9c2d75d51b5744d" title="获取结点质心 " alt="" coords="251,123,443,164"/>
+<area shape="rect" id="node5" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="270,189,423,215"/>
+<area shape="rect" id="node6" href="$class_skeleton_reader.html#ad910f28328a5a09457f62d08c0b9b4eb" title="获取结点法向量 " alt="" coords="249,240,444,281"/>
+<area shape="rect" id="node7" href="$class_root_node.html#a481435cab57ed57cbfce47779c57d56a" title="RootNode::setNormal" alt="" coords="273,306,420,333"/>
+<area shape="rect" id="node8" href="$class_skeleton_reader.html#afefaf977e1a40692f004ea0d0a8a44bd" title="获取结点分支号 " alt="" coords="249,357,444,399"/>
+<area shape="rect" id="node9" href="$class_root_node.html#a82bdd7b24883c191fbae847addbd82a7" title="RootNode::setBranchID" alt="" coords="267,423,426,450"/>
+<area shape="rect" id="node10" href="$class_skeleton_reader.html#a428b9d524245fd3d251595515070975d" title="获取结点所在截面的圆率信息 " alt="" coords="237,475,456,516"/>
+<area shape="rect" id="node11" href="$class_root_node.html#a15dc347ec7f275e7e3827d7949f87124" title="RootNode::setRoundness" alt="" coords="261,541,432,567"/>
+<area shape="rect" id="node12" href="$class_skeleton_reader.html#a16e0230346710f8ea36bbe640d439b42" title="获取结点所在截面的物理面积 " alt="" coords="245,592,449,633"/>
+<area shape="rect" id="node13" href="$class_root_node.html#a03ef372ccbcdc6fa693be94dc7604434" title="RootNode::setPhysicalSize" alt="" coords="256,658,437,685"/>
+<area shape="rect" id="node14" href="$class_skeleton_reader.html#a8081ba0d34f0df9712f8e6aed341e4e4" title="获取结点所在截面的周长 " alt="" coords="241,709,452,751"/>
+<area shape="rect" id="node15" href="$class_root_node.html#a23722150c3d93727d5e6625063bd42af" title="RootNode::setPerimeter" alt="" coords="266,775,427,802"/>
+<area shape="rect" id="node16" href="$class_skeleton_reader.html#a59ab9bee0a852e3b874d415b784d6fa6" title="获取结点所在截面的半径 " alt="" coords="249,827,444,868"/>
+<area shape="rect" id="node17" href="$class_root_node.html#aed3fc18b3510a3581c356a5f4ba56605" title="RootNode::setRadius" alt="" coords="274,893,419,919"/>
+</map>

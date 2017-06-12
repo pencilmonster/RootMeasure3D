@@ -1,0 +1,18 @@
+<map id="QtVariantPropertyManagerPrivate::slotPropertyInserted" name="QtVariantPropertyManagerPrivate::slotPropertyInserted">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager_private.html#a35673057243cb927fa12f465f1b073d0" title="QtVariantPropertyManager\lPrivate::createSubProperty" alt="" coords="239,245,416,287"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager_private.html#a26fc88a91ca9aaedc9c3a01048249324" title="QtVariantPropertyManager\lPrivate::internalPropertyToType" alt="" coords="464,37,667,79"/>
+<area shape="rect" id="node5" href="$class_qt_variant_property_manager.html#a82c785789a85a4e037ab34f19f786486" title="Creates and returns a variant property of the given propertyType with the given name. " alt="" coords="477,136,653,177"/>
+<area shape="rect" id="node12" href="$class_qt_property.html#ade8c6cab7fca8e29f3d60f0a41aaed99" title="Sets the property&#39;s name to the given name. " alt="" coords="468,202,663,229"/>
+<area shape="rect" id="node13" href="$class_qt_property.html#a32d231f240e359f38e443f2823d28418" title="Sets the property&#39;s tool tip to the given text. " alt="" coords="489,253,641,279"/>
+<area shape="rect" id="node14" href="$class_qt_property.html#aec97d22e2483272a7678d1be7f5d43e4" title="Sets the property&#39;s status tip to the given text. " alt="" coords="482,303,649,330"/>
+<area shape="rect" id="node15" href="$class_qt_property.html#af0754f48172eabda6c7fc88c841b9dda" title="Sets the property&#39;s &quot;What&#39;s This&quot; help text to the given text. " alt="" coords="479,354,652,381"/>
+<area shape="rect" id="node16" href="$class_qt_property.html#a8e47b08ff4e980d46fb5a8ee71f347bd" title="Inserts the given property after the specified precedingProperty into this property&#39;s list of subprop..." alt="" coords="467,405,664,431"/>
+<area shape="rect" id="node4" href="$class_qt_variant_property_manager.html#a98a1551f0e64e3cd1046c752b95e1e24" title="Returns the type id for an enum property. " alt="" coords="719,5,895,47"/>
+<area shape="rect" id="node6" href="$class_qt_variant_property_manager.html#add646bb06ac57d1158574fb30e573a3c" title="Returns true if the given propertyType is supported by this variant manager; otherwise false..." alt="" coords="719,71,895,112"/>
+<area shape="rect" id="node7" href="$class_qt_variant_property_manager.html#a45afcf7341022677099b06728dc92107" title="Returns the given property&#39;s type. " alt="" coords="719,136,895,177"/>
+<area shape="rect" id="node8" href="$class_qt_abstract_property_manager.html#abc5b894d6b9ba0441edebe561ca9f2f3" title="Creates a property with the given name which then is owned by this manager. " alt="" coords="715,201,899,243"/>
+<area shape="rect" id="node11" href="$class_qt_variant_property_manager.html#a89c7feffa0357a99bd4c3aba0915d818" title="Returns the given property converted into a QtVariantProperty. " alt="" coords="719,267,895,308"/>
+<area shape="rect" id="node9" href="$class_qt_abstract_property_manager.html#ac7db11b00fc5384f9fc10eb8f02e3637" title="Creates a property. " alt="" coords="947,168,1131,209"/>
+<area shape="rect" id="node10" href="$class_qt_abstract_property_manager.html#ab7501ecabc5285cb50d7ed91a2ef44fc" title="This function is called whenever a new valid property pointer has been created, passing the pointer a..." alt="" coords="947,233,1131,275"/>
+<area shape="rect" id="node17" href="$class_qt_property.html#aa12deeacd15944b1e1f2ee35fd31dd8d" title="Returns the set of subproperties. " alt="" coords="720,405,893,431"/>
+</map>

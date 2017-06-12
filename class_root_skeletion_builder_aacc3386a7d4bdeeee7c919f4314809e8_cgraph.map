@@ -1,0 +1,27 @@
+<map id="RootSkeletionBuilder::SlotdownSample" name="RootSkeletionBuilder::SlotdownSample">
+<area shape="rect" id="node2" href="$class_root_system.html#a69f98aa7c6e94b549378ef1b3fdd889e" title="RootSystem::isEmpty" alt="" coords="232,5,383,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#acba97a402dc394cba3a2c5e4d474d2c1" title="返回所有的结点Id " alt="" coords="224,56,391,83"/>
+<area shape="rect" id="node4" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="483,123,633,149"/>
+<area shape="rect" id="node6" href="$class_root_node.html#a809bc36e1c4db82cea35a8a016344544" title="RootNode::getNodeType" alt="" coords="226,391,389,417"/>
+<area shape="rect" id="node7" href="$class_root_node.html#ab2d831a302d99a7c47270386085e409c" title="RootNode::setNodeType" alt="" coords="226,441,389,468"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ae4daf2e7512cd226f96a7aa9533c22d3" title="返回所有的根分支Id " alt="" coords="218,492,397,519"/>
+<area shape="rect" id="node9" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="471,72,645,99"/>
+<area shape="rect" id="node11" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="196,543,419,585"/>
+<area shape="rect" id="node12" href="$class_root_skeletion_builder.html#aec0d9a4256751459583044ccc6eb3199" title="RootSkeletionBuilder::updateProgress 更新进度条 " alt="" coords="236,609,379,650"/>
+<area shape="rect" id="node13" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="697,376,901,403"/>
+<area shape="rect" id="node14" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="231,675,384,701"/>
+<area shape="rect" id="node15" href="$class_root_system.html#a659d26cbed34bde6eca0601f408adc3f" title="获取该结点所在根分支的前一个结点 " alt="" coords="219,209,396,250"/>
+<area shape="rect" id="node21" href="$class_root_system.html#ac23cc3cb53ce9267b5b35cbe51b88986" title="获取该结点所在根分支的后一个结点 " alt="" coords="212,274,403,315"/>
+<area shape="rect" id="node23" href="$class_math_tool.html#a041da8c02f28ef243330b30daf21088a" title="MathTool::angleBetweenVectors" alt="" coords="203,725,412,752"/>
+<area shape="rect" id="node24" href="$class_math_tool.html#ae46758f14020c93be9a513cdaae05c2e" title="计算4个点拟合得到的三次曲线的长度 使用cardinal插值样条拟合曲线 " alt="" coords="211,776,403,803"/>
+<area shape="rect" id="node26" href="$class_root_system.html#aa93f510d73c14e7d8a99931775d2e3e7" title="RootSystem::setDownSampling" alt="" coords="204,827,411,853"/>
+<area shape="rect" id="node5" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="709,199,890,225"/>
+<area shape="rect" id="node10" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="703,72,895,99"/>
+<area shape="rect" id="node16" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="477,275,639,301"/>
+<area shape="rect" id="node17" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="479,325,637,352"/>
+<area shape="rect" id="node19" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="485,224,631,251"/>
+<area shape="rect" id="node20" href="$class_root_branch.html#a45eb3146ccc94060718a36ea3d4bd8eb" title="RootBranch::getPriorNodeId 返回当前结点的前一个结点 不存在 则返回&#45;1. " alt="" coords="467,173,649,200"/>
+<area shape="rect" id="node18" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="723,325,876,352"/>
+<area shape="rect" id="node22" href="$class_root_branch.html#ab66fffe5d5e475dcba660902841936ab" title="RootBranch::getNextNodeId 返回当前结点的下一个结点，不存在则返回&#45;1. " alt="" coords="467,376,649,403"/>
+<area shape="rect" id="node25" href="$class_math_tool.html#a421603b0781ce637ff8341d0eff39a71" title="MathTool::distanceBetween\lPoints" alt="" coords="467,769,649,810"/>
+</map>

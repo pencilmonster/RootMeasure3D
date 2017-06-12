@@ -1,0 +1,10 @@
+<map id="DrawBoundingBox2D::New" name="DrawBoundingBox2D::New">
+<area shape="rect" id="node2" href="$class_draw_bounding_box2_d.html#a9aa03af6e2f7627ee1c4e421b5225fc0" title="DrawBoundingBox2D::\lDrawBoundingBox2D" alt="" coords="231,5,383,47"/>
+<area shape="rect" id="node3" href="$class_draw_bounding_box2_d.html#a741fe48a8fa6ceb3917ec4837df491d2" title="创建包围盒 " alt="" coords="431,48,583,89"/>
+<area shape="rect" id="node4" href="$class_draw_bounding_box2_d.html#ae82ccf4eecaadb4af5b6ddf15dab7c13" title="设置包围盒的位置 " alt="" coords="231,123,383,164"/>
+<area shape="rect" id="node5" href="$class_draw_bounding_box2_d.html#a5a84287a54d212bd62923e029bc8a8c0" title="DrawBoundingBox2D::\lsetVisibility" alt="" coords="431,139,583,180"/>
+<area shape="rect" id="node6" href="$class_draw_bounding_box2_d.html#abc539bc6118cec28ef3d0406a794535a" title="DrawBoundingBox2D::\lgetActor" alt="" coords="231,240,383,281"/>
+<area shape="rect" id="node7" href="$class_draw_bounding_box2_d.html#a4b762a0803558f1d438d98ec46ee68a8" title="DrawBoundingBox2D::\lsetRender" alt="" coords="231,305,383,347"/>
+<area shape="rect" id="node8" href="$class_draw_bounding_box2_d.html#a616d4125722cd7030aad1021cf7ecc54" title="设置像素间隔 " alt="" coords="231,371,383,412"/>
+<area shape="rect" id="node9" href="$class_draw_bounding_box2_d.html#a2718b7f7005ac76e6c218eee1204c593" title="DrawBoundingBox2D::\l~DrawBoundingBox2D" alt="" coords="231,436,383,477"/>
+</map>

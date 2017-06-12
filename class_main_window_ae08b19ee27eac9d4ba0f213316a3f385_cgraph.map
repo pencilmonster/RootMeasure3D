@@ -1,0 +1,6 @@
+<map id="MainWindow::SlotopenSegDialog" name="MainWindow::SlotopenSegDialog">
+<area shape="rect" id="node2" href="$class_seg_thread_controller.html#af3e3fff30129a33aec6a6f1d4b240932" title="SegThreadController\l::setPorgressDialog" alt="" coords="306,5,445,47"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a2ccf35cad8d73badef02050e8545aa51" title="MainWindow::SegDialog2Seg\lThreadCommunication" alt="" coords="279,71,472,112"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a3e227bab873d109b0a37d30d6573ed2b" title="MainWindow::SegThread2File\lCommunication" alt="" coords="278,136,473,177"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a068b4265323069f016069f64a6e5765a" title="MainWindow::SegThread2Reader\lCommunication" alt="" coords="268,201,483,243"/>
+</map>

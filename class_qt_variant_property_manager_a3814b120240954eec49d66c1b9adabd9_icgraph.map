@@ -1,0 +1,11 @@
+<map id="QtVariantPropertyManager::attributeType" name="QtVariantPropertyManager::attributeType">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager.html#a55adf195cb65c4bab2aee1ee8d973582" title="Sets the value of the specified attribute of the given property, to value. " alt="" coords="229,140,405,181"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property.html#a906f63c5230a99ec0ccefc872ee83de8" title="Sets the attribute of property to value. " alt="" coords="453,140,588,181"/>
+<area shape="rect" id="node4" href="$class_property_view.html#aca007d17b389383060e8ee1e1a22a675" title="PropertyView::addQVector3DProperty 添加类型为QVector3D的属性项 " alt="" coords="640,5,823,47"/>
+<area shape="rect" id="node5" href="$class_property_view.html#aed40194e09ce5d6759aeeed69254586f" title="PropertyView::createProtractorInfoProperty 创建量角器属性项 具体内容如下： . " alt="" coords="875,43,1075,84"/>
+<area shape="rect" id="node7" href="$class_property_view.html#a3bf411cae2eff28c8bc026b5460eda79" title="PropertyView::createImageInfoProperty 创建二维图像组分 具体属性内容如下: . " alt="" coords="885,108,1064,149"/>
+<area shape="rect" id="node8" href="$class_property_view.html#a709a3c79ed85620d70616a563195a705" title="PropertyView::createRegionInfoProperty 创建连通区域分析信息组分 具体属性内容如下: ..." alt="" coords="883,173,1066,215"/>
+<area shape="rect" id="node9" href="$class_property_view.html#aca0b947582e36766ee7ef0dab2685ca0" title="PropertyView::createReslicerInfoProperty 创建重切器组分 具体属性内容如下: . " alt="" coords="636,224,827,265"/>
+<area shape="rect" id="node10" href="$class_property_view.html#a4e62da95f1fcc0d18f9efbb9d8cac437" title="PropertyView::createRulerInfoProperty 创建刻度尺属性项 具体内容如下： . " alt="" coords="645,289,818,331"/>
+<area shape="rect" id="node6" href="$class_property_view.html#ac560eb7ba577449aff818072508370df" title="PropertyView::PropertyView" alt="" coords="1123,181,1307,207"/>
+</map>

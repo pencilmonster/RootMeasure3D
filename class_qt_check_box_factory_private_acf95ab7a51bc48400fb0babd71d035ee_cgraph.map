@@ -1,0 +1,5 @@
+<map id="QtCheckBoxFactoryPrivate::slotPropertyChanged" name="QtCheckBoxFactoryPrivate::slotPropertyChanged">
+<area shape="rect" id="node2" href="$class_qt_bool_edit.html#a81b682173624bb1bdcdc10cd048de9df" title="QtBoolEdit::blockCheckBox\lSignals" alt="" coords="232,5,416,47"/>
+<area shape="rect" id="node3" href="$class_qt_bool_edit.html#aa288fa942f18b768f0d564b14dc08e73" title="QtBoolEdit::setChecked" alt="" coords="243,71,405,98"/>
+<area shape="rect" id="node4" href="$class_qt_bool_edit.html#a83e158c3a51f485d372dda99fec77e69" title="QtBoolEdit::isChecked" alt="" coords="464,71,619,98"/>
+</map>

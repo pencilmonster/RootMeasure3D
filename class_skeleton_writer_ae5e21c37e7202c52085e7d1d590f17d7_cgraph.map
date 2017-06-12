@@ -1,0 +1,20 @@
+<map id="SkeletonWriter::createNodeElement" name="SkeletonWriter::createNodeElement">
+<area shape="rect" id="node2" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="286,5,403,32"/>
+<area shape="rect" id="node3" href="$class_root_node.html#a809bc36e1c4db82cea35a8a016344544" title="RootNode::getNodeType" alt="" coords="263,56,426,83"/>
+<area shape="rect" id="node4" href="$class_skeleton_writer.html#afb97872114c7f66d5974922e8decb0c7" title="构建结点类型元素 " alt="" coords="253,107,436,149"/>
+<area shape="rect" id="node5" href="$class_root_node.html#a672a3a0acfb74dc570dc3985bfdcd013" title="RootNode::getCentroid" alt="" coords="268,173,421,200"/>
+<area shape="rect" id="node6" href="$class_skeleton_writer.html#aa71d99b33de1e46fcdebb5807760e664" title="构建结点质心 " alt="" coords="249,225,440,266"/>
+<area shape="rect" id="node7" href="$class_root_node.html#a6da9f3b289cb3a0e4ced5964f5d12820" title="RootNode::getNormal" alt="" coords="271,291,418,317"/>
+<area shape="rect" id="node8" href="$class_skeleton_writer.html#a5950a2ea5672f2250c706dc2deb1243e" title="构建结点法向量 " alt="" coords="248,342,441,383"/>
+<area shape="rect" id="node9" href="$class_root_node.html#aa08f5cefe325550e6b7f3f67dda6cf6f" title="RootNode::getBranchID" alt="" coords="265,408,424,435"/>
+<area shape="rect" id="node11" href="$class_skeleton_writer.html#af2014b803a356f48db32afe420a5b871" title="构建结点的根分支号 " alt="" coords="248,459,441,501"/>
+<area shape="rect" id="node12" href="$class_root_node.html#ac7891849a55a4cd1ea047b3fd0ff55ee" title="RootNode::getRoundness" alt="" coords="259,525,430,552"/>
+<area shape="rect" id="node13" href="$class_skeleton_writer.html#a3e11d1ff4525afe38918a97b26799d77" title="构建结点的圆率信息 " alt="" coords="236,577,453,618"/>
+<area shape="rect" id="node14" href="$class_root_node.html#acea547a94c390ec3e08eb1b8b315d355" title="RootNode::getPhysicalSize" alt="" coords="254,643,435,669"/>
+<area shape="rect" id="node15" href="$class_skeleton_writer.html#a1d183a2c10aa14233c2edeb13aed3c7b" title="构建结点的物理面积 " alt="" coords="243,694,446,735"/>
+<area shape="rect" id="node16" href="$class_root_node.html#adfc779af14200e9acc946a274186d9e4" title="RootNode::getPerimeter" alt="" coords="264,760,425,787"/>
+<area shape="rect" id="node17" href="$class_skeleton_writer.html#a5ec6e554083fbd10d897907b33cc8105" title="构建结点的周长 " alt="" coords="241,811,449,853"/>
+<area shape="rect" id="node18" href="$class_root_node.html#a83c8f810451dde7f3f65d306c53c3edb" title="RootNode::getRadius" alt="" coords="272,877,417,904"/>
+<area shape="rect" id="node19" href="$class_skeleton_writer.html#a31c6b4825a657c9818fe30a79eac99ff" title="构建结点半径 " alt="" coords="249,929,441,970"/>
+<area shape="rect" id="node10" href="$class_root_node.html#ad3d8bf11345b4c3db151502441afdd81" title="RootNode::setCentroid" alt="" coords="501,408,655,435"/>
+</map>

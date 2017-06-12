@@ -1,0 +1,6 @@
+<map id="ConnectedRegion::GetPrincipalAxes" name="ConnectedRegion::GetPrincipalAxes">
+<area shape="rect" id="node2" href="$class_connected_region.html#a292c20b2e31cd966b2523088f99571e5" title="ConnectedRegion::GetLongAxesPoints 获取等效椭圆长轴的两个端点坐标 itk中长轴方向与连通区域坐标系（主轴..." alt="" coords="288,5,469,47"/>
+<area shape="rect" id="node5" href="$class_connected_region.html#a123e4ea458b7b7794515e683ca362c89" title="ConnectedRegion::GetShortAxesPoints 获取等效椭圆长轴的两个端点坐标 itk中短轴方向与连通区域坐标系（主�..." alt="" coords="287,71,471,112"/>
+<area shape="rect" id="node3" href="$class_connected_region.html#a9b31c773c6e0a5e071a3b6b4e48e6667" title="ConnectedRegion::GetPrincipalAxesPoints 获取长轴短轴的端点坐标 " alt="" coords="519,39,721,80"/>
+<area shape="rect" id="node4" href="$class_connected_region.html#a65aacce312fe83af499c9f58f6f6df01" title="获取一张图像上的所有连通区域信息。以链表形式返回结果 " alt="" coords="769,46,983,73"/>
+</map>

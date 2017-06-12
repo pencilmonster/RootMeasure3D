@@ -1,0 +1,7 @@
+<map id="QtAbstractPropertyBrowserPrivate::createBrowserIndexes" name="QtAbstractPropertyBrowserPrivate::createBrowserIndexes">
+<area shape="rect" id="node2" href="$class_qt_browser_item.html#afed8197ad887301642017d7b61c185b7" title="Returns the parent item of this item. " alt="" coords="266,5,418,32"/>
+<area shape="rect" id="node3" href="$class_qt_browser_item.html#a2c4edfa9e76dfaefc5866f2e3e9d48f4" title="Returns the property which is accosiated with this item. " alt="" coords="261,56,423,83"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_browser_private.html#ae6b7dd9886dac792acb3167ebedf009c" title="QtAbstractPropertyBrowser\lPrivate::createBrowserIndex" alt="" coords="251,107,433,149"/>
+<area shape="rect" id="node5" href="$class_qt_browser_item_private.html#a8828669874baa3b1f8bbc4e07851af84" title="QtBrowserItemPrivate\l::addChild" alt="" coords="499,74,645,115"/>
+<area shape="rect" id="node6" href="$class_qt_abstract_property_browser.html#a62ec622f3c0381141a206441941b7e67" title="This function is called to update the widget whenever a property is inserted or added to the property..." alt="" coords="481,139,663,181"/>
+</map>

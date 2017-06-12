@@ -1,0 +1,11 @@
+<map id="QtBoolPropertyManager::valueChanged" name="QtBoolPropertyManager::valueChanged">
+<area shape="rect" id="node2" href="$class_qt_bool_property_manager.html#a046b39b8d8554b599bd50592967fa97d" title="Sets the value of the given property to value. " alt="" coords="215,104,376,145"/>
+<area shape="rect" id="node3" href="$class_qt_check_box_factory_private.html#ad278ccf5e04f55c99fdd16fc75488d5e" title="QtCheckBoxFactoryPrivate\l::slotSetValue" alt="" coords="424,5,603,47"/>
+<area shape="rect" id="node4" href="$class_qt_flag_property_manager.html#aad7c51a700c985b1bbad8aa6cfcbf22a" title="Sets the value of the given property to value. " alt="" coords="433,71,593,112"/>
+<area shape="rect" id="node5" href="$class_qt_font_property_manager.html#a3c6874b1134907b493b26fe8d9b42a64" title="Sets the value of the given property to value. " alt="" coords="433,136,594,177"/>
+<area shape="rect" id="node10" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="433,201,594,243"/>
+<area shape="rect" id="node6" href="$class_qt_font_editor_factory_private.html#a04599092bccd1324431a419c96181f6c" title="QtFontEditorFactoryPrivate\l::slotSetValue" alt="" coords="661,37,840,79"/>
+<area shape="rect" id="node7" href="$class_qt_font_property_manager_private.html#a67189b05940b8dc4f4cbf484e777bb29" title="QtFontPropertyManagerPrivate\l::slotIntChanged" alt="" coords="651,103,851,144"/>
+<area shape="rect" id="node8" href="$class_qt_font_property_manager_private.html#a482688f9dcf50fd34a8c970b4ff279a9" title="QtFontPropertyManagerPrivate\l::slotEnumChanged" alt="" coords="651,168,851,209"/>
+<area shape="rect" id="node9" href="$class_qt_font_property_manager_private.html#abb85da9f3a5891554fdab479501ce90b" title="QtFontPropertyManagerPrivate\l::slotBoolChanged" alt="" coords="651,233,851,275"/>
+</map>

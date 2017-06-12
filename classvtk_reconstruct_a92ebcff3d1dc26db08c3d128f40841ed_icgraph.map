@@ -1,0 +1,22 @@
+<map id="vtkReconstruct::setReconstructParm" name="vtkReconstruct::setReconstructParm">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a1a5e6699b321450ef23f59b182c696ff" title="Graph3DView::SlotsetReconstructParm" alt="" coords="288,185,539,211"/>
+<area shape="rect" id="node3" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="297,235,529,262"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="587,235,771,262"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="1853,71,2071,98"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="1855,214,2069,241"/>
+<area shape="rect" id="node14" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="823,199,1029,240"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#a4bbcd0da403164e72c90bd540b6bca31" title="读取VRML格式三维模型文件 " alt="" coords="819,341,1033,367"/>
+<area shape="rect" id="node6" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="2119,64,2344,105"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2403,42,2587,69"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2651,42,2830,69"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="2133,189,2329,215"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="2135,239,2328,266"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="2392,239,2599,266"/>
+<area shape="rect" id="node13" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="2647,239,2835,266"/>
+<area shape="rect" id="node15" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1336,123,1535,164"/>
+<area shape="rect" id="node17" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="1081,173,1280,215"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="1081,239,1280,266"/>
+<area shape="rect" id="node16" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1607,5,1789,47"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="1328,189,1543,215"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="1591,163,1805,190"/>
+</map>

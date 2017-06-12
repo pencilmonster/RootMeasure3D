@@ -1,0 +1,8 @@
+<map id="QtColorEditorFactory::createEditor" name="QtColorEditorFactory::createEditor">
+<area shape="rect" id="node2" href="$class_editor_factory_private.html#a3d2c242fdc7182d8c37b0bad1544fe8b" title="EditorFactoryPrivate\l::createEditor" alt="" coords="211,5,349,47"/>
+<area shape="rect" id="node3" href="$class_qt_color_edit_widget.html#a4ade87d55c6885239f0b0c225a5c8f6f" title="QtColorEditWidget::\lsetValue" alt="" coords="211,71,349,112"/>
+<area shape="rect" id="node6" href="$class_qt_color_property_manager.html#adf2b31299470663a16ceecfd51c709de" title="Returns the given property&#39;s value. " alt="" coords="197,136,363,177"/>
+<area shape="rect" id="node7" href="$class_qt_color_editor_factory.html#a0e0442dabc4d2a2ed5fcd261452f3f2c" title="QtColorEditorFactory\l::slotEditorDestroyed" alt="" coords="208,201,352,243"/>
+<area shape="rect" id="node4" href="$class_qt_property_browser_utils.html#a5ea5a70dbd980bb1477e3e9233267e1e" title="QtPropertyBrowserUtils\l::brushValuePixmap" alt="" coords="411,39,569,80"/>
+<area shape="rect" id="node5" href="$class_qt_property_browser_utils.html#a9680a76025e1ea8fee89d4ce3d93861e" title="QtPropertyBrowserUtils\l::colorValueText" alt="" coords="411,104,569,145"/>
+</map>

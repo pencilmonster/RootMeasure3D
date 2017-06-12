@@ -1,0 +1,5 @@
+<map id="QtAbstractEditorFactory::propertyManager" name="QtAbstractEditorFactory::propertyManager">
+<area shape="rect" id="node2" href="$class_qt_cursor_editor_factory_private.html#a935354a692cf66b142d1a79218d6c18c" title="QtCursorEditorFactoryPrivate\l::slotEnumChanged" alt="" coords="216,5,407,47"/>
+<area shape="rect" id="node3" href="$class_qt_color_editor_factory_private.html#a728b03f0dd8493f37ddb2618b832fd55" title="QtColorEditorFactoryPrivate\l::slotSetValue" alt="" coords="220,71,403,112"/>
+<area shape="rect" id="node4" href="$class_qt_font_editor_factory_private.html#a04599092bccd1324431a419c96181f6c" title="QtFontEditorFactoryPrivate\l::slotSetValue" alt="" coords="222,136,401,177"/>
+</map>

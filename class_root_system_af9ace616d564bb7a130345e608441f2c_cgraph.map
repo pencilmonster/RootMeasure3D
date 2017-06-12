@@ -1,0 +1,6 @@
+<map id="RootSystem::addChildBranchToBranch" name="RootSystem::addChildBranchToBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="265,5,427,32"/>
+<area shape="rect" id="node4" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="273,56,419,83"/>
+<area shape="rect" id="node5" href="$class_root_branch.html#a87454f3316e6a4bdec4c4f5f91ddfe41" title="RootBranch::addChildBranchId" alt="" coords="247,107,445,133"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="493,5,685,32"/>
+</map>

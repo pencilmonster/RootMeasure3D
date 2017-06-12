@@ -1,0 +1,9 @@
+<map id="RootSystem::addNodeToBranch" name="RootSystem::addNodeToBranch">
+<area shape="rect" id="node2" href="$class_root_system.html#ab0839e82b8c5ae0d040d57e68d16156f" title="RootSystem::getBranch" alt="" coords="284,5,445,32"/>
+<area shape="rect" id="node4" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="289,56,440,83"/>
+<area shape="rect" id="node6" href="$class_root_branch.html#adb110a3083f2576d2412abde0a10970a" title="RootBranch::isEmpty" alt="" coords="291,107,438,133"/>
+<area shape="rect" id="node7" href="$class_root_node.html#a0ed09c0d2171aa761a150260b87fbcf4" title="RootNode::isEmpty" alt="" coords="297,157,432,184"/>
+<area shape="rect" id="node8" href="$class_root_branch.html#a52d06751adc3bb7a8c3d77e9adccaf42" title="RootBranch::addIncludedNodeId" alt="" coords="261,208,468,235"/>
+<area shape="rect" id="node3" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="516,5,708,32"/>
+<area shape="rect" id="node5" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="521,56,703,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RootBranch::getNumberOfChildBranch" name="RootBranch::getNumberOfChildBranch">
+<area shape="rect" id="node2" href="$class_root_branch.html#a7ffe8b5d340a9283a7a18766001fc8b7" title="operator &lt;&lt; 通过Debug输出RootBranch信息 " alt="" coords="256,5,417,32"/>
+<area shape="rect" id="node3" href="$class_vector_model_picker.html#a6bf43ce56267638a012f4dca8037f8db" title="VectorModelPicker::getBranchInfo 获取当前拾取分支的信息 " alt="" coords="267,57,407,98"/>
+<area shape="rect" id="node4" href="$class_vector_model_picker.html#acdb7439d6b7eb23c06cc4105e5bfac97" title="VectorModelPicker::SlotsetPosition 根据拾取的坐标设置拾取器的位置 " alt="" coords="465,57,605,98"/>
+<area shape="rect" id="node5" href="$class_vector_model_picker.html#a7531a7b19308990d7f4ef21ea4b942f5" title="VectorModelPicker::\lVectorModelPicker" alt="" coords="653,57,793,98"/>
+</map>

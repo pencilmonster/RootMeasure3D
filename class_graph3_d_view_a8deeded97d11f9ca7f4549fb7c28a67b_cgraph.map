@@ -1,0 +1,5 @@
+<map id="Graph3DView::SlotgetProtreatorInfo" name="Graph3DView::SlotgetProtreatorInfo">
+<area shape="rect" id="node2" href="$class_angle_widget.html#a1db0a24450bb1a7730df350f03cb289d" title="AngleWidget::GetPointWorld\lPosition" alt="" coords="280,5,469,47"/>
+<area shape="rect" id="node3" href="$class_angle_widget.html#abe22a1dfbbaf2d03e3eb419cd1f14f90" title="AngleWidget::GetLineColor" alt="" coords="285,71,464,98"/>
+<area shape="rect" id="node4" href="$class_angle_widget.html#a8eb75df6b77c990479fa63a67a34523a" title="AngleWidget::GetLineWidth" alt="" coords="283,122,466,149"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Reslicer::setInteractor" name="Reslicer::setInteractor">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="465,21,680,47"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="203,71,417,98"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="728,17,945,43"/>
+<area shape="rect" id="node7" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="729,71,944,98"/>
+<area shape="rect" id="node4" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="993,5,1219,47"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="1278,13,1462,39"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="1526,13,1705,39"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="1008,71,1204,98"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="1009,122,1203,149"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="1267,122,1473,149"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="1521,122,1709,149"/>
+</map>

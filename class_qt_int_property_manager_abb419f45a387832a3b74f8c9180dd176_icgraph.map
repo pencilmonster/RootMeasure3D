@@ -1,0 +1,5 @@
+<map id="QtIntPropertyManager::setMinimum" name="QtIntPropertyManager::setMinimum">
+<area shape="rect" id="node2" href="$class_qt_size_property_manager.html#affbd5b7cfafc273b1af7b6e535de39ee" title="QtSizePropertyManager\l::initializeProperty" alt="" coords="203,5,365,47"/>
+<area shape="rect" id="node3" href="$class_qt_rect_property_manager.html#a7ef8e45d21bf2c9556d8bd46d2adee99" title="QtRectPropertyManager\l::initializeProperty" alt="" coords="203,71,365,112"/>
+<area shape="rect" id="node4" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="203,136,365,177"/>
+</map>

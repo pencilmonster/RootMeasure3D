@@ -1,0 +1,6 @@
+<map id="QtFontPropertyManager::QtFontPropertyManager" name="QtFontPropertyManager::QtFontPropertyManager">
+<area shape="rect" id="node2" href="$class_qt_font_property_manager.html#a251269108e3ce0b6f33498967e7208d1" title="QtFontPropertyManager\l::slotFontDatabaseChanged" alt="" coords="223,5,405,47"/>
+<area shape="rect" id="node3" href="$class_qt_font_property_manager.html#a71b89746391041f18ef26ea56f25a5e4" title="QtFontPropertyManager\l::slotEnumChanged" alt="" coords="233,71,395,112"/>
+<area shape="rect" id="node4" href="$class_qt_font_property_manager.html#ae7809b0545aecf95e7d58a22776d6185" title="QtFontPropertyManager\l::slotBoolChanged" alt="" coords="233,136,395,177"/>
+<area shape="rect" id="node5" href="$class_qt_font_property_manager.html#aa48d5238cb9ebc0e8978d92662110d1e" title="QtFontPropertyManager\l::slotPropertyDestroyed" alt="" coords="233,201,395,243"/>
+</map>

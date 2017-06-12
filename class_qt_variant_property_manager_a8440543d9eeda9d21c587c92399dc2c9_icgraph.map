@@ -1,0 +1,13 @@
+<map id="QtVariantPropertyManager::attributeChanged" name="QtVariantPropertyManager::attributeChanged">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager_private.html#a9f3af5ea738f3a65f04417c2b882d885" title="QtVariantPropertyManager\lPrivate::slotRangeChanged" alt="" coords="248,5,427,47"/>
+<area shape="rect" id="node3" href="$class_qt_variant_property_manager_private.html#aee659167a91645f2213ddf4cae81d419" title="QtVariantPropertyManager\lPrivate::slotSingleStepChanged" alt="" coords="235,71,439,112"/>
+<area shape="rect" id="node4" href="$class_qt_variant_property_manager_private.html#a8b4f67feeaa038455210b9eab8080926" title="QtVariantPropertyManager\lPrivate::slotDecimalsChanged" alt="" coords="240,136,435,177"/>
+<area shape="rect" id="node5" href="$class_qt_variant_property_manager_private.html#ab8ee50fab9c8df4d33c027d285961c75" title="QtVariantPropertyManager\lPrivate::slotRegExpChanged" alt="" coords="244,201,431,243"/>
+<area shape="rect" id="node6" href="$class_qt_variant_property_manager_private.html#a65a59a5944fb6d4088ea26c526e2d80f" title="QtVariantPropertyManager\lPrivate::slotEchoModeChanged" alt="" coords="236,267,439,308"/>
+<area shape="rect" id="node7" href="$class_qt_variant_property_manager_private.html#a8cde9ef4b7f0380687653c41ade3d10e" title="QtVariantPropertyManager\lPrivate::slotReadOnlyChanged" alt="" coords="238,332,437,373"/>
+<area shape="rect" id="node8" href="$class_qt_variant_property_manager_private.html#a82cf6e836931682727d734d5ae972db4" title="QtVariantPropertyManager\lPrivate::slotTextVisibleChanged" alt="" coords="235,397,440,439"/>
+<area shape="rect" id="node9" href="$class_qt_variant_property_manager_private.html#af31f7d33b549f7f96e0800b1c2c6f60d" title="QtVariantPropertyManager\lPrivate::slotConstraintChanged" alt="" coords="237,463,437,504"/>
+<area shape="rect" id="node10" href="$class_qt_variant_property_manager_private.html#a4a1cb19e000c0550eebe66ec546ee996" title="QtVariantPropertyManager\lPrivate::slotEnumNamesChanged" alt="" coords="229,528,445,569"/>
+<area shape="rect" id="node11" href="$class_qt_variant_property_manager_private.html#ab10e286c205347d95f1a92da0ef1d534" title="QtVariantPropertyManager\lPrivate::slotEnumIconsChanged" alt="" coords="234,593,441,635"/>
+<area shape="rect" id="node12" href="$class_qt_variant_property_manager_private.html#a833811a4709374038c8fed9ee5ec01f3" title="QtVariantPropertyManager\lPrivate::slotFlagNamesChanged" alt="" coords="234,659,441,700"/>
+</map>

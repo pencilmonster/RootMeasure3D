@@ -1,0 +1,31 @@
+<map id="Graph3DView::repaint" name="Graph3DView::repaint">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#aca77aec7eefa9f5db345c957758de2cd" title="创建骨架提取器 " alt="" coords="1240,99,1439,140"/>
+<area shape="rect" id="node6" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="985,48,1184,89"/>
+<area shape="rect" id="node10" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="2039,545,2232,571"/>
+<area shape="rect" id="node16" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="477,418,661,445"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a6655b54680ef0219f6a65b408ced4118" title="添加一列actors到图形浏览器的场景中去 " alt="" coords="474,747,665,774"/>
+<area shape="rect" id="node21" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="207,418,411,445"/>
+<area shape="rect" id="node24" href="$class_graph3_d_view.html#ac4ece3cc358a3e9b1ac9adafd6dfc18b" title="移除一列actors " alt="" coords="203,722,414,749"/>
+<area shape="rect" id="node25" href="$class_graph3_d_view.html#a8b6d6d51d7eb5f1a295a3ce5bb671c9d" title="Graph3DView::SlotsetGraph\lColor" alt="" coords="216,824,401,865"/>
+<area shape="rect" id="node26" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="217,570,400,597"/>
+<area shape="rect" id="node27" href="$class_graph3_d_view.html#af358b2ea68fa80823bb519b976f52ce9" title="Graph3DView::SlotYawCamera" alt="" coords="729,671,931,698"/>
+<area shape="rect" id="node28" href="$class_graph3_d_view.html#ae66924f3c928824f219e4961eddc3313" title="Graph3DView::setRepresentation 设置actor为点云模型 " alt="" coords="201,889,416,931"/>
+<area shape="rect" id="node29" href="$class_graph3_d_view.html#aa377545452ef2827e46a710c0c86d7b8" title="Graph3DView::setRepresentationToWireFrame 设置actor为线框模型 " alt="" coords="201,955,416,996"/>
+<area shape="rect" id="node30" href="$class_graph3_d_view.html#aacc1c0d067282aed384cda2b01520224" title="Graph3DView::setRepresentationToSurface 设置actor为表面模型 " alt="" coords="201,1020,416,1061"/>
+<area shape="rect" id="node3" href="$class_main_window.html#ac3fc7646137c658e5187b0f612d3ac31" title="MainWindow::SlotopenRoot\lSkeletionDialog" alt="" coords="1511,99,1693,140"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a62cd8712fb41a754298f6f60eead2cb0" title="MainWindow::createActions" alt="" coords="2307,202,2491,229"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow::MainWindow" alt="" coords="2555,202,2734,229"/>
+<area shape="rect" id="node7" href="$class_graph3_d_view.html#a64584f7522372f2049e075eaee42a4ef" title="删除重切器 " alt="" coords="1232,266,1447,293"/>
+<area shape="rect" id="node8" href="$class_graph3_d_view.html#a4cdf1d223eff1ae98df82645585f5f11" title="删除重建器 " alt="" coords="1759,266,1973,293"/>
+<area shape="rect" id="node13" href="$class_graph3_d_view.html#a2f7e1a18bdf6661016aaffec701bdefc" title="创建重切器 " alt="" coords="1495,317,1709,343"/>
+<area shape="rect" id="node9" href="$class_graph3_d_view.html#ae526ddb193eb6809dcd5cfa72197e1ca" title="Graph3DView::~Graph3DView" alt="" coords="2037,189,2233,215"/>
+<area shape="rect" id="node11" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="2296,570,2503,597"/>
+<area shape="rect" id="node12" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="2551,607,2739,634"/>
+<area shape="rect" id="node14" href="$class_graph3_d_view.html#af4c4cbc7c24cf5c61c35ea4f8841b73c" title="创建重建器 " alt="" coords="1757,317,1975,343"/>
+<area shape="rect" id="node15" href="$class_main_window.html#acbce230419abad6a9de49338dd0c3d3a" title="MainWindow::SlotopenReconstruct\lDialog" alt="" coords="2023,287,2248,328"/>
+<area shape="rect" id="node17" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="727,149,933,191"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a4bbcd0da403164e72c90bd540b6bca31" title="读取VRML格式三维模型文件 " alt="" coords="723,469,937,495"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#a3b247dad0e111290210ea3517f796c38" title="读取xml矢量模型文件 " alt="" coords="985,165,1184,191"/>
+<area shape="rect" id="node22" href="$class_graph3_d_view.html#adf4c3e2eaabfa548ac35b7cc17fb0190" title="删除矢量模型 " alt="" coords="478,229,661,271"/>
+<area shape="rect" id="node23" href="$class_graph3_d_view.html#acb9a3961c677a1b48c71650ee48466a5" title="删除VRMLActor " alt="" coords="464,469,675,495"/>
+</map>

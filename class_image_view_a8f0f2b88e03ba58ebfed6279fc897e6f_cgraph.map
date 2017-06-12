@@ -1,0 +1,7 @@
+<map id="ImageView::setActionsEnable" name="ImageView::setActionsEnable">
+<area shape="rect" id="node2" href="$class_seed_widget.html#aaa17674084417cee9820ffcfa68de7fd" title="SeedWidget::SetEnabled" alt="" coords="258,56,426,83"/>
+<area shape="rect" id="node6" href="$class_auto_seed_widget.html#a25a304f45fb5f341324db3b2631c3219" title="AutoSeedWidget::SetEnable" alt="" coords="248,107,436,133"/>
+<area shape="rect" id="node3" href="$class_seed_widget.html#addab1f8e9818bbfb6ee9c2847c4203d0" title="SeedWidget::RestartInteraction" alt="" coords="491,5,693,32"/>
+<area shape="rect" id="node4" href="$class_seed_widget.html#a3850561a19374f1298b8d0fbd32b8e12" title="SeedWidget::deleteSeed" alt="" coords="509,56,675,83"/>
+<area shape="rect" id="node5" href="$class_seed_widget.html#abfb96cba6849f1eb93eced6ede99b601" title="SeedWidget::CompleteInteraction" alt="" coords="484,107,700,133"/>
+</map>

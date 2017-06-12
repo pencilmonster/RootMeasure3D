@@ -1,0 +1,51 @@
+<map id="Graph3DView::createSkeletionExtractor" name="Graph3DView::createSkeletionExtractor">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#acdbb4975aff556da5504ee459573faaf" title="删除骨架提取器 " alt="" coords="252,750,451,791"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a3b347d7ce23138d7626d56f0f2d60207" title="创建矢量模型 " alt="" coords="499,583,705,625"/>
+<area shape="rect" id="node7" href="$class_graph3_d_view.html#a18c3219083be91841a8958ecaf58a4ff" title="刷新场景 " alt="" coords="1347,664,1495,691"/>
+<area shape="rect" id="node25" href="$class_root_skeletion_builder.html#acf06ff777f648a0651179a3be9caf52b" title="RootSkeletionBuilder::getInstance 静态成员函数 该函数用来判该类是否已被实例化 如果实例化就返回该实例�..." alt="" coords="280,867,423,909"/>
+<area shape="rect" id="node31" href="$class_root_skeletion_builder.html#a2baa2a7947b9e6549260e1fd3c4d1b6c" title="设置重切器 骨架化算法的重要依靠 " alt="" coords="280,933,423,974"/>
+<area shape="rect" id="node50" href="$class_root_skeletion_builder.html#af458fcdbeee8eec30a82470e00ab4f01" title="RootSkeletionBuilder::setProgressDialog 设置进度对话框 " alt="" coords="280,998,423,1039"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#adf4c3e2eaabfa548ac35b7cc17fb0190" title="删除矢量模型 " alt="" coords="773,649,956,690"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#aceb2477c20247b71238499de377856d3" title="Graph3DView::SlotsetRootInfo" alt="" coords="1041,715,1239,741"/>
+<area shape="rect" id="node8" href="$class_root_vector_model.html#af121a104c93cb5ebef4567fde0e4ecd3" title="RootVectorModel::New" alt="" coords="787,157,942,184"/>
+<area shape="rect" id="node9" href="$class_root_vector_model.html#a68497f4e98cae8c3d4d4d4a512d99405" title="RootVectorModel::showSkeletion 显示骨架线条 " alt="" coords="757,208,972,235"/>
+<area shape="rect" id="node17" href="$class_graph3_d_view.html#a8b99b9a4d307f8dcc32b58baa634a66b" title="添加一个3D Actor到图形浏览器的场景中 " alt="" coords="773,481,957,508"/>
+<area shape="rect" id="node23" href="$class_root_vector_model.html#a9e91dce1e554d7b2d837c7a5765c5f0b" title="RootVectorModel::getActor 获取矢量模型 " alt="" coords="775,532,954,559"/>
+<area shape="rect" id="node24" href="$class_root_vector_model.html#a7a124f2cbc160c699067673f416312a2" title="RootVectorModel::getCore\lNodeActor" alt="" coords="777,583,952,625"/>
+<area shape="rect" id="node6" href="$class_graph3_d_view.html#a1cd3ee68193f94927257397117f7a3c5" title="移除给定类型的actor " alt="" coords="1038,664,1242,691"/>
+<area shape="rect" id="node10" href="$class_root_system.html#a69f98aa7c6e94b549378ef1b3fdd889e" title="RootSystem::isEmpty" alt="" coords="1065,309,1215,336"/>
+<area shape="rect" id="node11" href="$class_root_vector_model.html#a54d4222c5894ad1a4073b46778254b4c" title="RootVectorModel::getRootInfo 获取根系统信息 " alt="" coords="1043,5,1237,32"/>
+<area shape="rect" id="node12" href="$class_root_system.html#a65274e047c25efb9ca5ae67b46c64d3b" title="获取根系统分支个数 " alt="" coords="1304,31,1537,57"/>
+<area shape="rect" id="node13" href="$class_root_system.html#a9738f05089c5cac80d5c4810323c1e9e" title="返回所有的根分支 " alt="" coords="1053,107,1227,133"/>
+<area shape="rect" id="node14" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="1059,157,1221,184"/>
+<area shape="rect" id="node15" href="$class_math_tool.html#a3d1f14cd60fea2ecafaf8ee1b3b20f3f" title="生成伪随机数 " alt="" coords="1075,208,1205,235"/>
+<area shape="rect" id="node16" href="$class_root_system.html#a79739964eaf6f95dfdf04cbe18a18d49" title="返回所有的根结点 " alt="" coords="1061,259,1219,285"/>
+<area shape="rect" id="node18" href="$class_graph3_d_view.html#aa7ac961b13e205d8ff75cdcbc2b94666" title="重置相机 " alt="" coords="1049,512,1231,539"/>
+<area shape="rect" id="node19" href="$class_graph3_d_view.html#a4b54e1d64a11dbead5dc068935d80e26" title="设置右击菜单的可见性 " alt="" coords="1041,563,1239,589"/>
+<area shape="rect" id="node20" href="$class_graph3_d_view.html#a53bdf84ea13e7ad038e1707c53aa2236" title="Graph3DView::getGraph3DProperty" alt="" coords="1027,613,1253,640"/>
+<area shape="rect" id="node21" href="$classvtk_reconstruct.html#a46ae6e63ae168ad53171a27320f43e2a" title="获取重建类型 " alt="" coords="1024,360,1256,387"/>
+<area shape="rect" id="node22" href="$classvtk_reconstruct.html#a1ed7a01248844f935c30085df3a747d1" title="vtkReconstruct::GetPolyData" alt="" coords="1045,411,1235,437"/>
+<area shape="rect" id="node26" href="$class_root_skeletion_builder.html#ad8821a4a80c52405cdda108c2d08158b" title="RootSkeletionBuilder\l::RootSkeletionBuilder" alt="" coords="527,867,677,909"/>
+<area shape="rect" id="node27" href="$class_root_skeletion_builder.html#ab1a31e45caf83acdbbc586802de17427" title="RootSkeletionBuilder::SlotupdateReslicer 槽函数 更新重切器的位置 主要作为定时器的响应函数 骨架提取的�..." alt="" coords="793,867,936,909"/>
+<area shape="rect" id="node28" href="$class_reslicer.html#a8d92947814fc8f3ebbc93e2ea78e86b7" title="Reslicer::push" alt="" coords="1087,984,1193,1011"/>
+<area shape="rect" id="node29" href="$class_root_skeletion_builder.html#aec0d9a4256751459583044ccc6eb3199" title="RootSkeletionBuilder::updateProgress 更新进度条 " alt="" coords="1069,867,1211,909"/>
+<area shape="rect" id="node30" href="$class_reslicer.html#a422e9990d9cb144e7d397430fe4f6401" title="Reslicer::getPlaneCenter" alt="" coords="1057,933,1223,960"/>
+<area shape="rect" id="node32" href="$class_reslicer.html#a539d1471ea28de519949ad88ef99d80c" title="Reslicer::getVloumeData 获取原始序列图像形成的体数据 " alt="" coords="519,940,685,967"/>
+<area shape="rect" id="node33" href="$class_root_skeletion_builder.html#a0aedc8185c5d7378957d066f96def106" title="槽函数 处理切片获取其骨架点(切片移动的响应函数) " alt="" coords="531,1319,673,1361"/>
+<area shape="rect" id="node34" href="$class_reslicer.html#a8a5b4f4748f4e0c413cfd7ca124bd0fb" title="Reslicer::GetResliceOutput" alt="" coords="775,1516,955,1543"/>
+<area shape="rect" id="node35" href="$class_concave_point_seg.html#a48e0811f450a9f789d3d7c3b2a545117" title="ConcavePointSeg::setSmooth\lEnable" alt="" coords="767,1567,962,1609"/>
+<area shape="rect" id="node36" href="$class_concave_point_seg.html#aa2f39b9043aea3ec0b81b2a698e54002" title="ConcavePointSeg::setSmoothType" alt="" coords="753,1633,976,1660"/>
+<area shape="rect" id="node37" href="$class_concave_point_seg.html#a0c2ea746b945feb0dda3ad6f1b00aa3f" title="ConcavePointSeg::setSmooth\lThres" alt="" coords="767,1685,962,1726"/>
+<area shape="rect" id="node38" href="$class_concave_point_seg.html#a5524b712677a08a298bd54b0ed970a8b" title="ConcavePointSeg::setSmooth\lKsize" alt="" coords="767,1750,962,1791"/>
+<area shape="rect" id="node39" href="$class_concave_point_seg.html#add8bbfac08d962150212d480682809bd" title="ConcavePointSeg::setSegEnable" alt="" coords="758,1816,971,1843"/>
+<area shape="rect" id="node40" href="$class_concave_point_seg.html#a44bb1aa98957ce137f79a2b403b6caf8" title="ConcavePointSeg::setSegShape\lFactor" alt="" coords="759,933,970,974"/>
+<area shape="rect" id="node41" href="$class_concave_point_seg.html#a83d9139d1b135aad4f1ff5a2797f3a80" title="ConcavePointSeg::setSegMinArea" alt="" coords="754,999,975,1025"/>
+<area shape="rect" id="node42" href="$class_concave_point_seg.html#a232d12f9b5bafcc1e496931fbf480722" title="ConcavePointSeg::setInputData" alt="" coords="762,1049,967,1076"/>
+<area shape="rect" id="node43" href="$class_concave_point_seg.html#a935bb8d8d027e03dd5bf598f157336c9" title="ConcavePointSeg::upDate 更新 对获取的图像数据进行凹点匹配分割 " alt="" coords="778,1100,951,1127"/>
+<area shape="rect" id="node44" href="$class_concave_point_seg.html#a5bcf4256a7b262d836d6325acb88b2d5" title="ConcavePointSeg::getOutPut" alt="" coords="769,1151,960,1177"/>
+<area shape="rect" id="node45" href="$class_root_skeletion_builder.html#a6ed9fcab586ebedab2fbe9dcd41b7ab1" title="创建根结点 并设置其属性值 " alt="" coords="793,1202,936,1243"/>
+<area shape="rect" id="node46" href="$class_connected_region.html#a48a4e2a21c15bf21946e2796e596bc46" title="ConnectedRegion::GetRegionInfo 获取连通区域分析得到的信息 " alt="" coords="758,1268,971,1295"/>
+<area shape="rect" id="node47" href="$class_fringe_area_remover.html#ab5bdc2912aca252f52a4403cf1353aab" title="FringeAreaRemover::\lsetInputData" alt="" coords="793,1319,936,1361"/>
+<area shape="rect" id="node48" href="$class_fringe_area_remover.html#abd6ddfb54d4f01310a1204c19a325636" title="更新 执行算法 " alt="" coords="793,1385,936,1426"/>
+<area shape="rect" id="node49" href="$class_fringe_area_remover.html#a4685cbd91c4ea935c8e0fd88fecdaced" title="FringeAreaRemover::\lgetOutPut" alt="" coords="793,1450,936,1491"/>
+</map>

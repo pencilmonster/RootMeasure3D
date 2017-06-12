@@ -1,0 +1,5 @@
+<map id="Reslicer::connectvtkEventQtslot" name="Reslicer::connectvtkEventQtslot">
+<area shape="rect" id="node2" href="$class_reslicer.html#aefdfcc406c460532b55dfe86b9e8ef30" title="Reslicer::SlotsendReslicerInfo" alt="" coords="224,5,419,32"/>
+<area shape="rect" id="node3" href="$class_reslicer.html#a2e14e34d61d2d9ec5baf4e3149772385" title="Reslicer::SlotgetReslice\lOutput" alt="" coords="241,57,402,98"/>
+<area shape="rect" id="node4" href="$class_reslicer.html#a0e83f29d38a528761872e49c93d63a03" title="Reslicer::SlotprocessSlice" alt="" coords="234,123,409,149"/>
+</map>

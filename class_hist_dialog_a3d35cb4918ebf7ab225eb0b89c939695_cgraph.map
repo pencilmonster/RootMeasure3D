@@ -1,0 +1,7 @@
+<map id="HistDialog::HistDialog" name="HistDialog::HistDialog">
+<area shape="rect" id="node2" href="$class_ui___hist_dialog.html#a21300ec9e309289032e68cced5585ce8" title="Ui_HistDialog::setupUi" alt="" coords="201,5,353,32"/>
+<area shape="rect" id="node4" href="$class_hist_dialog.html#ac25e8a625e940a69dcc76d82cbdb6531" title="HistDialog::InitCanvas" alt="" coords="203,56,351,83"/>
+<area shape="rect" id="node3" href="$class_ui___hist_dialog.html#aaddb06b76b10bf946593ac5610fe9d18" title="Ui_HistDialog::retranslateUi" alt="" coords="401,5,583,32"/>
+<area shape="rect" id="node5" href="$class_hist_dialog.html#ae100dafbae8f120e9a377fbe47c33dd1" title="HistDialog::InitPlotCurve" alt="" coords="411,56,573,83"/>
+<area shape="rect" id="node6" href="$class_hist_dialog.html#a8abc78636123c2f0f18f20981d635d28" title="HistDialog::InitAxes" alt="" coords="424,107,560,133"/>
+</map>

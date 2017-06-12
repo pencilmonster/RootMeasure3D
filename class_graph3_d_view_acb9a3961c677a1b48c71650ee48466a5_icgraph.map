@@ -1,0 +1,6 @@
+<map id="Graph3DView::deleteVRMLActor" name="Graph3DView::deleteVRMLActor">
+<area shape="rect" id="node2" href="$class_graph3_d_view.html#a2da56e48570b71648c87e8c93666e3d4" title="响应右击菜单的动作 " alt="" coords="275,5,468,32"/>
+<area shape="rect" id="node5" href="$class_graph3_d_view.html#a4bbcd0da403164e72c90bd540b6bca31" title="读取VRML格式三维模型文件 " alt="" coords="264,56,479,83"/>
+<area shape="rect" id="node3" href="$class_graph3_d_view.html#a7d28937355c211d75471f01a22af3777" title="创建右击菜单 " alt="" coords="527,5,733,32"/>
+<area shape="rect" id="node4" href="$class_graph3_d_view.html#aa785b239c6d9ffa563c15262b28e90b0" title="Graph3DView::Graph3DView" alt="" coords="781,5,969,32"/>
+</map>

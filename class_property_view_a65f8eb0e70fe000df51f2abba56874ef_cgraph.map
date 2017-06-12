@@ -1,0 +1,7 @@
+<map id="PropertyView::SlotsetProtractorInfo" name="PropertyView::SlotsetProtractorInfo">
+<area shape="rect" id="node2" href="$class_property_view.html#ac7db77c0e113ed65b6c91206bc9c0fc8" title="PropertyView::setGroupItemVisible 设置属性项的可见性 " alt="" coords="279,37,464,79"/>
+<area shape="rect" id="node5" href="$class_property_view.html#ab4442f62031e649f6049a5149bd9e0ee" title="PropertyView::setPropertyValue 给已有的属性设置值 " alt="" coords="284,103,459,144"/>
+<area shape="rect" id="node6" href="$class_property_view.html#acb119ba516a3b215e627b52671b8596f" title="PropertyView::setQVector3DPropertyValue 设置类型为QVector3D的属性值 " alt="" coords="281,168,461,209"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_property_browser.html#a4c97e71811113de2813c1d9962678f91" title="Returns the top&#45;level items associated with the given property. " alt="" coords="512,5,693,47"/>
+<area shape="rect" id="node4" href="$class_qt_tree_property_browser.html#a4142953a5fc2de6b5cedb2a2b05d505f" title="Sets the item to be visible, depending on the value of visible. " alt="" coords="524,71,681,112"/>
+</map>

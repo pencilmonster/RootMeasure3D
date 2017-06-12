@@ -1,0 +1,5 @@
+<map id="QtVariantEditorFactory::createEditor" name="QtVariantEditorFactory::createEditor">
+<area shape="rect" id="node2" href="$class_qt_variant_property_manager.html#a45afcf7341022677099b06728dc92107" title="Returns the given property&#39;s type. " alt="" coords="217,5,393,47"/>
+<area shape="rect" id="node3" href="$class_qt_abstract_editor_factory_base.html#aecea70732c941a1d992a61179389e9a2" title="Creates an editing widget (with the given parent) for the given property. " alt="" coords="208,71,401,112"/>
+<area shape="rect" id="node4" href="$qtvariantproperty_8cpp.html#a56a0d9038639417a0b5b3d02be0df27d" title="wrappedProperty" alt="" coords="245,137,364,163"/>
+</map>

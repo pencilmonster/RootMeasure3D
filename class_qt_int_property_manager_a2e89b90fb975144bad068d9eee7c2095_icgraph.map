@@ -1,0 +1,10 @@
+<map id="QtIntPropertyManager::rangeChanged" name="QtIntPropertyManager::rangeChanged">
+<area shape="rect" id="node2" href="$class_qt_int_property_manager.html#abb419f45a387832a3b74f8c9180dd176" title="Sets the minimum value for the given property to minVal. " alt="" coords="203,71,352,112"/>
+<area shape="rect" id="node6" href="$class_qt_int_property_manager.html#aa09805459434ad6e58274c8213293f89" title="Sets the maximum value for the given property to maxVal. " alt="" coords="203,136,352,177"/>
+<area shape="rect" id="node7" href="$class_qt_int_property_manager.html#a313c2054fa57dda4e39bfaa6ee64cc38" title="Sets the range of valid values. " alt="" coords="203,201,352,243"/>
+<area shape="rect" id="node3" href="$class_qt_size_property_manager.html#affbd5b7cfafc273b1af7b6e535de39ee" title="QtSizePropertyManager\l::initializeProperty" alt="" coords="418,5,579,47"/>
+<area shape="rect" id="node4" href="$class_qt_rect_property_manager.html#a7ef8e45d21bf2c9556d8bd46d2adee99" title="QtRectPropertyManager\l::initializeProperty" alt="" coords="417,71,580,112"/>
+<area shape="rect" id="node5" href="$class_qt_font_property_manager.html#ae370c6b1cf871f95e72f9fd852239cf9" title="QtFontPropertyManager\l::initializeProperty" alt="" coords="418,136,579,177"/>
+<area shape="rect" id="node8" href="$class_qt_size_policy_property_manager.html#ac721a0721079c7b9a379e168af071105" title="QtSizePolicyPropertyManager\l::initializeProperty" alt="" coords="400,201,597,243"/>
+<area shape="rect" id="node9" href="$class_qt_color_property_manager.html#a3ed1db5091e4254e1c7cd84901fe493c" title="QtColorPropertyManager\l::initializeProperty" alt="" coords="416,267,581,308"/>
+</map>

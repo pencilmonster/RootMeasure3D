@@ -1,0 +1,46 @@
+<map id="MainFrame" name="MainFrame">
+<area shape="rect" id="node11" href="$class_hist_view.html" title="The HistView class. " alt="" coords="538,245,611,272"/>
+<area shape="rect" id="node12" href="$class_image_view.html" title="The ImageView class 图像浏览器 " alt="" coords="713,1327,799,1353"/>
+<area shape="rect" id="node23" href="$classfile_view.html" title="The fileView class 文件浏览器 " alt="" coords="907,289,973,316"/>
+<area shape="rect" id="node25" href="$class_property_view.html" title="The PropertyView class 属性浏览器类 系统的窗口部件之一，实现了二维图像、三维图形、重切器等属性值的浏�..." alt="" coords="1085,445,1183,472"/>
+<area shape="rect" id="node27" href="$class_qt_abstract_property_browser.html" title="QtAbstractPropertyBrowser provides a base class for implementing property browsers. " alt="" coords="299,347,480,373"/>
+<area shape="rect" id="node32" href="$class_graph3_d_view.html" title="The Graph3DView class 三维图形浏览器 " alt="" coords="1083,727,1185,753"/>
+<area shape="rect" id="node3" href="$class_main_window.html" title="The MainWindow class 主界面类 主要包含如下几个子窗口： . " alt="" coords="1356,321,1452,348"/>
+<area shape="rect" id="node5" href="$class_re_construct_parm_dig.html" title="The ReConstructParmDig class 重建参数对话框 " alt="" coords="868,184,1012,211"/>
+<area shape="rect" id="node7" href="$class_seg_dialog.html" title="The SegDialog class 分割参数对话框 " alt="" coords="534,43,615,69"/>
+<area shape="rect" id="node17" href="$class_hist_dialog.html" title="The HistDialog class 直方图对话框 " alt="" coords="349,1073,430,1100"/>
+<area shape="rect" id="node22" href="$class_skeletion_parm_dialog.html" title="The SkeletionParmDialog class 骨架分组参数对话框 " alt="" coords="869,93,1011,120"/>
+<area shape="rect" id="node8" href="$class_image_reader.html" title="The ImageReader class 二维图像读取类 采取工厂模式设计该类 支持读取的序列图像格式: png jpg tif hraw..." alt="" coords="340,1276,439,1303"/>
+<area shape="rect" id="node13" href="$class_region_analyzer.html" title="RegionAnalyzer" alt="" coords="333,1479,446,1505"/>
+<area shape="rect" id="node15" href="$class_seed_widget.html" title="SeedWidget" alt="" coords="343,1327,436,1353"/>
+<area shape="rect" id="node16" href="$classcross_wire.html" title="The crossWire class 十字交叉线用来对图像浏览器中的图像进行坐标拾取标定 " alt="" coords="349,1377,430,1404"/>
+<area shape="rect" id="node19" href="$class_auto_seed_widget.html" title="The AutoSeedWidget class 种子点自动拾取器 拾取的种子点被用作三维区域生长分割发的种子点 ..." alt="" coords="329,1428,449,1455"/>
+<area shape="rect" id="node20" href="$class_seg_thread_controller.html" title="SegThreadController" alt="" coords="687,1529,825,1556"/>
+<area shape="rect" id="node21" href="$class_seg_work.html" title="SegWork" alt="" coords="351,1529,427,1556"/>
+<area shape="rect" id="node24" href="$class_system_out.html" title="The SystemOut class 系统信息输出类 用来控制日志浏览其中的日志信息和样式 " alt="" coords="896,1804,984,1831"/>
+<area shape="rect" id="node30" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="297,1631,481,1657"/>
+<area shape="rect" id="node33" href="$class_axes3_d.html" title="The Axes3D class 三维坐标系 " alt="" coords="541,921,609,948"/>
+<area shape="rect" id="node34" href="$class_vector_model_picker.html" title="The VectorModelPicker class 适量模型拾取器 " alt="" coords="690,1005,822,1032"/>
+<area shape="rect" id="node36" href="$class_tube_builder.html" title="The TubeBuilder class 管道生成器 生成一个围绕给定折线的管道 " alt="" coords="344,1175,435,1201"/>
+<area shape="rect" id="node39" href="$class_root_skeletion_builder.html" title="RootSkeletionBuilder" alt="" coords="685,892,827,919"/>
+<area shape="rect" id="node43" href="$class_angle_signals.html" title="The AngleSignals class 角度测量器的信号类 " alt="" coords="340,1732,439,1759"/>
+<area shape="rect" id="node48" href="$class_surface_model_picker.html" title="The SurfaceModelPicker class 表面模型拾取器 用来拾取重建后得到的表面模型 " alt="" coords="505,1188,644,1215"/>
+<area shape="rect" id="node10" href="$class_image_data.html" title="ImageData" alt="" coords="35,1159,119,1185"/>
+<area shape="rect" id="node14" href="$class_draw_bounding_box2_d.html" title="The DrawBoundingBox2D class 二维包围框 主要用来标记给定的连通区域 " alt="" coords="5,1479,149,1505"/>
+<area shape="rect" id="node18" href="$class_ui_1_1_hist_dialog.html" title="Ui::HistDialog" alt="" coords="27,1073,128,1100"/>
+<area shape="rect" id="node26" href="$class_qt_tree_property_browser.html" title="The QtTreePropertyBrowser class provides QTreeWidget based property browser. " alt="" coords="677,347,835,373"/>
+<area shape="rect" id="node28" href="$class_qt_tree_property_browser_private.html" title="QtTreePropertyBrowserPrivate" alt="" coords="1036,383,1232,409"/>
+<area shape="rect" id="node29" href="$class_qt_variant_property_manager.html" title="The QtVariantPropertyManager class provides and manages QVariant based properties. " alt="" coords="668,1585,844,1612"/>
+<area shape="rect" id="node31" href="$class_qt_variant_property_manager_private.html" title="QtVariantPropertyManager\lPrivate" alt="" coords="1046,1571,1222,1613"/>
+<area shape="rect" id="node35" href="$class_picker_call_back.html" title="The PickerCallBack class 矢量模型拾取器的回调类 " alt="" coords="334,972,445,999"/>
+<area shape="rect" id="node37" href="$class_root_system.html" title="The RootSystem class 根系统 软件的核心数据结构用来用来保存根矢量模型信息 " alt="" coords="342,871,437,897"/>
+<area shape="rect" id="node38" href="$class_root_branch.html" title="The RootBranch class 根分支 系统核心数据结构 用来记录分支间的拓扑关系以及所属的节点Id. " alt="" coords="32,776,123,803"/>
+<area shape="rect" id="node40" href="$class_reslicer.html" title="三维体数据重切器. " alt="" coords="355,692,424,719"/>
+<area shape="rect" id="node41" href="$class_angle_widget.html" title="The AngleWidget class. " alt="" coords="708,1653,804,1680"/>
+<area shape="rect" id="node44" href="$classvtk_angle_call_back.html" title="The vtkAngleCallBack class 角度测量器的回调类 " alt="" coords="1073,1688,1195,1715"/>
+<area shape="rect" id="node45" href="$class_root_vector_model.html" title="RootVectorModel" alt="" coords="695,448,817,475"/>
+<area shape="rect" id="node46" href="$class_text_widget.html" title="The TextWidget class. " alt="" coords="712,499,800,525"/>
+<area shape="rect" id="node47" href="$classvtk_reconstruct.html" title="The vtkReconstruct class 三维重建类 " alt="" coords="702,588,810,615"/>
+<area shape="rect" id="node49" href="$class_v_r_m_l_reader.html" title="The VRMLReader class VRML文件读取类 " alt="" coords="707,689,805,716"/>
+<area shape="rect" id="node50" href="$class_spline_widget.html" title="The SplineWidget class 曲线长度测量工具。该工具继承自vtkSplineWidget 并在其内部集成了vtkTextWidget作�..." alt="" coords="707,740,805,767"/>
+</map>

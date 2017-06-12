@@ -1,0 +1,20 @@
+<map id="RootSkeletionBuilder::nodePropertyInterpolation" name="RootSkeletionBuilder::nodePropertyInterpolation">
+<area shape="rect" id="node2" href="$class_root_system.html#a69f98aa7c6e94b549378ef1b3fdd889e" title="RootSystem::isEmpty" alt="" coords="267,5,417,32"/>
+<area shape="rect" id="node3" href="$class_root_system.html#ae4daf2e7512cd226f96a7aa9533c22d3" title="返回所有的根分支Id " alt="" coords="253,56,431,83"/>
+<area shape="rect" id="node4" href="$class_root_system.html#aa13f3d97331bf2fa9da45a175bc43d82" title="RootSystem::isDownSampling" alt="" coords="243,107,441,133"/>
+<area shape="rect" id="node5" href="$class_root_system.html#ae01b9f9e39fc0cc974bf6bacfd1e9a1f" title="获取给定Id的根分支 " alt="" coords="255,157,429,184"/>
+<area shape="rect" id="node7" href="$class_root_branch.html#a988c0569cbaee3b543b58261d8e46c26" title="分支包含的根节点个数 " alt="" coords="231,209,453,250"/>
+<area shape="rect" id="node8" href="$class_root_system.html#ad8523beeb4827f5b02dbf601ab8fcc5f" title="RootSystem::getNodeAt 获取给定结点号的结点。 " alt="" coords="261,275,423,301"/>
+<area shape="rect" id="node10" href="$class_root_branch.html#ae6fe339783c21fede78c9627cbd1af57" title="返回给定位置的结点Id 不存在则返回&#45;1 " alt="" coords="240,325,444,352"/>
+<area shape="rect" id="node11" href="$class_root_node.html#a83c8f810451dde7f3f65d306c53c3edb" title="RootNode::getRadius" alt="" coords="269,376,415,403"/>
+<area shape="rect" id="node12" href="$class_root_node.html#a3b86a3de2061ce7c037c7e14c55cfb9a" title="RootNode::getID" alt="" coords="283,427,401,453"/>
+<area shape="rect" id="node13" href="$class_root_node.html#a809bc36e1c4db82cea35a8a016344544" title="RootNode::getNodeType" alt="" coords="261,477,423,504"/>
+<area shape="rect" id="node14" href="$class_root_node.html#adfc779af14200e9acc946a274186d9e4" title="RootNode::getPerimeter" alt="" coords="261,528,423,555"/>
+<area shape="rect" id="node15" href="$class_root_node.html#acea547a94c390ec3e08eb1b8b315d355" title="RootNode::getPhysicalSize" alt="" coords="251,579,433,605"/>
+<area shape="rect" id="node16" href="$class_root_system.html#a96a6679c2775f5ac77482d0b4939e08f" title="RootSystem::getNode 获取给定结点号的结点。 " alt="" coords="267,629,417,656"/>
+<area shape="rect" id="node17" href="$class_root_node.html#aed3fc18b3510a3581c356a5f4ba56605" title="RootNode::setRadius" alt="" coords="269,680,415,707"/>
+<area shape="rect" id="node18" href="$class_root_node.html#a23722150c3d93727d5e6625063bd42af" title="RootNode::setPerimeter" alt="" coords="261,731,423,757"/>
+<area shape="rect" id="node19" href="$class_root_node.html#a03ef372ccbcdc6fa693be94dc7604434" title="RootNode::setPhysicalSize" alt="" coords="251,781,433,808"/>
+<area shape="rect" id="node6" href="$class_root_system.html#a41c160fb1e4d1930660ee22940d26c32" title="判定是否包含给定的分支 " alt="" coords="501,157,693,184"/>
+<area shape="rect" id="node9" href="$class_root_system.html#aa8e132643bf874d7880bba89fe7c2466" title="RootSystem::containsNode" alt="" coords="507,452,688,479"/>
+</map>

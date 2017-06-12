@@ -1,0 +1,15 @@
+<map id="BronzeStyle::BronzeStyle" name="BronzeStyle::BronzeStyle">
+<area shape="rect" id="node2" href="$class_bronze_style.html#a450df8a253336681476a291c4f4844c2" title="BronzeStyle::polish" alt="" coords="247,5,382,32"/>
+<area shape="rect" id="node3" href="$class_bronze_style.html#a0585d5bce0adbb3a78172eaa34f67a68" title="BronzeStyle::unpolish" alt="" coords="240,56,389,83"/>
+<area shape="rect" id="node4" href="$class_bronze_style.html#a2772553467765c68df4c6e7992a6c7ab" title="BronzeStyle::styleHint" alt="" coords="239,107,391,133"/>
+<area shape="rect" id="node5" href="$class_bronze_style.html#a04ce5823a33e6a5a6fed1c4d9c76348f" title="BronzeStyle::pixelMetric" alt="" coords="955,271,1119,297"/>
+<area shape="rect" id="node6" href="$class_bronze_style.html#a5a5387a32d22e6dc25eadeba2709b6de" title="BronzeStyle::drawPrimitive" alt="" coords="701,423,879,449"/>
+<area shape="rect" id="node7" href="$class_bronze_style.html#a7b9d403f6be9604759f7b03ba193dee3" title="BronzeStyle::drawBronzeCheck\lBoxIndicator" alt="" coords="933,334,1140,375"/>
+<area shape="rect" id="node9" href="$class_bronze_style.html#ae1058d33d2638e48640ffebc5c9ac9ca" title="BronzeStyle::drawBronzeBevel" alt="" coords="937,423,1137,449"/>
+<area shape="rect" id="node10" href="$class_bronze_style.html#ac1392d4805306824623141e1634fc2a0" title="BronzeStyle::drawBronzeFrame" alt="" coords="933,501,1140,528"/>
+<area shape="rect" id="node11" href="$class_bronze_style.html#ade14b7942e22da242fcbcdb575571578" title="BronzeStyle::drawComplex\lControl" alt="" coords="225,310,404,351"/>
+<area shape="rect" id="node12" href="$class_bronze_style.html#a46238aed29eb098906503df449c73d1d" title="BronzeStyle::drawBronzeSpin\lBoxButton" alt="" coords="452,361,647,402"/>
+<area shape="rect" id="node13" href="$class_bronze_style.html#acaee4a8097b766695de0b1f373e5f40c" title="BronzeStyle::subControlRect" alt="" coords="695,289,885,316"/>
+<area shape="rect" id="node14" href="$class_bronze_style.html#abb87a0ec87427a18be1498fcbe91b543" title="BronzeStyle::standardIcon\lImplementation" alt="" coords="227,579,402,621"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#aea2b5f04ca1baf40e821c56c9886038e" title="pixmap" alt="" coords="1188,341,1252,368"/>
+</map>

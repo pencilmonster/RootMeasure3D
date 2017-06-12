@@ -1,0 +1,7 @@
+<map id="ImageView::sendAutoSeedAction" name="ImageView::sendAutoSeedAction">
+<area shape="rect" id="node2" href="$class_image_view.html#aa419c011d9268190e098fe91018f8704" title="ImageView::createRightMenu 创建右击菜单 " alt="" coords="511,5,701,32"/>
+<area shape="rect" id="node4" href="$class_image_view.html#a8f0f2b88e03ba58ebfed6279fc897e6f" title="ImageView::setActionsEnable" alt="" coords="268,81,463,108"/>
+<area shape="rect" id="node6" href="$class_image_view.html#a3a3de364e94e3811fe0a543c072d862e" title="ImageView::SlotClickMenu 右击菜单动作响应函数 " alt="" coords="277,31,454,57"/>
+<area shape="rect" id="node3" href="$class_image_view.html#ab9dfd4d7ac8503631906b1c35ad2d445" title="ImageView::ImageView" alt="" coords="749,5,905,32"/>
+<area shape="rect" id="node5" href="$class_image_view.html#a9df09f600cd254f533fb88445e3cce4a" title="ImageView::SlotShowImag() 显示图像 " alt="" coords="515,81,697,108"/>
+</map>

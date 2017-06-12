@@ -1,0 +1,9 @@
+<map id="BronzeStyle::drawBronzeSpinBoxButton" name="BronzeStyle::drawBronzeSpinBoxButton">
+<area shape="rect" id="node2" href="$class_bronze_style.html#ae1058d33d2638e48640ffebc5c9ac9ca" title="BronzeStyle::drawBronzeBevel" alt="" coords="490,56,690,83"/>
+<area shape="rect" id="node3" href="$class_bronze_style.html#acaee4a8097b766695de0b1f373e5f40c" title="BronzeStyle::subControlRect" alt="" coords="248,5,439,32"/>
+<area shape="rect" id="node5" href="$class_bronze_style.html#a5a5387a32d22e6dc25eadeba2709b6de" title="BronzeStyle::drawPrimitive" alt="" coords="255,111,432,137"/>
+<area shape="rect" id="node4" href="$class_bronze_style.html#a04ce5823a33e6a5a6fed1c4d9c76348f" title="BronzeStyle::pixelMetric" alt="" coords="508,5,672,32"/>
+<area shape="rect" id="node6" href="$class_bronze_style.html#a7b9d403f6be9604759f7b03ba193dee3" title="BronzeStyle::drawBronzeCheck\lBoxIndicator" alt="" coords="487,107,693,149"/>
+<area shape="rect" id="node8" href="$class_bronze_style.html#ac1392d4805306824623141e1634fc2a0" title="BronzeStyle::drawBronzeFrame" alt="" coords="487,173,693,200"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#aea2b5f04ca1baf40e821c56c9886038e" title="pixmap" alt="" coords="741,115,805,141"/>
+</map>

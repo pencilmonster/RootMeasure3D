@@ -1,0 +1,7 @@
+<map id="QtLocalePropertyManager" name="QtLocalePropertyManager">
+<area shape="rect" id="node5" href="$class_qt_locale_property_manager_private.html" title="QtLocalePropertyManagerPrivate" alt="" coords="50,275,262,301"/>
+<area shape="rect" id="node2" href="$class_qt_abstract_property_manager.html" title="The QtAbstractPropertyManager provides an interface for property managers. " alt="" coords="203,81,387,108"/>
+<area shape="rect" id="node4" href="$class_qt_abstract_property_manager_private.html" title="QtAbstractPropertyManager\lPrivate" alt="" coords="203,171,387,212"/>
+<area shape="rect" id="node6" href="$class_qt_enum_property_manager.html" title="The QtEnumPropertyManager provides and manages enum properties. " alt="" coords="411,178,581,205"/>
+<area shape="rect" id="node7" href="$class_qt_enum_property_manager_private.html" title="QtEnumPropertyManagerPrivate" alt="" coords="392,275,600,301"/>
+</map>
