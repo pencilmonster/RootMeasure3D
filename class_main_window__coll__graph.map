@@ -19,7 +19,7 @@
 <area shape="rect" id="node43" href="$class_angle_signals.html" title="The AngleSignals class 角度测量器的信号类 " alt="" coords="287,1083,385,1109"/>
 <area shape="rect" id="node48" href="$class_surface_model_picker.html" title="The SurfaceModelPicker class 表面模型拾取器 用来拾取重建后得到的表面模型 " alt="" coords="452,1420,591,1447"/>
 <area shape="rect" id="node8" href="$class_image_data.html" title="ImageData" alt="" coords="9,512,93,539"/>
-<area shape="rect" id="node9" href="$class_hist_view.html" title="The HistView class. " alt="" coords="485,321,558,348"/>
+<area shape="rect" id="node9" href="$class_hist_view.html" title="The HistView class 直方图浏览器 " alt="" coords="485,321,558,348"/>
 <area shape="rect" id="node11" href="$class_image_view.html" title="The ImageView class 图像浏览器 " alt="" coords="1038,807,1123,833"/>
 <area shape="rect" id="node23" href="$classfile_view.html" title="The fileView class 文件浏览器 " alt="" coords="488,376,555,403"/>
 <area shape="rect" id="node25" href="$class_property_view.html" title="The PropertyView class 属性浏览器类 系统的窗口部件之一，实现了二维图像、三维图形、重切器等属性值的浏�..." alt="" coords="1031,419,1130,445"/>
